@@ -2,202 +2,252 @@
   "performances": [{
     "id": "EB6358A7-8D9B-A89F-0CCA-2095A0EA63A7",
     "artistId": "903E34C0-2399-EDE9-C770-69A4385B6ABF",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "735750BD-86FC-6928-96AE-0B355A15B8D1",
     "artistId": "903E34C0-2399-EDE9-C770-69A4385B6ABF",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "63043BA2-3C09-FE40-C816-D2922661A2CD",
     "artistId": "BEEB20EE-8E0D-FE10-3A3E-9C3AD245DABF",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "C52D1B3F-1148-6AE6-9946-FCF9602499F6",
     "artistId": "BEEB20EE-8E0D-FE10-3A3E-9C3AD245DABF",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "88103201-5BDB-69BA-2912-FC1567DD630D",
     "artistId": "D6422B95-5F7B-5EC9-ED63-D0E21B09510B",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "3C41D6A3-51C6-CB99-30E4-BCD025A76BCC",
     "artistId": "D6422B95-5F7B-5EC9-ED63-D0E21B09510B",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "EE74A54D-CF9D-E396-594D-B718D7E5ED15",
     "artistId": "ED5264FA-F1FD-7732-F314-97B57805C121",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "6E6A0AEC-0543-F64F-2BDC-FB7B9A1D0A29",
     "artistId": "ED5264FA-F1FD-7732-F314-97B57805C121",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "C80F9F1A-9FB5-5D4D-629E-B73515110A30",
     "artistId": "30083C39-7B53-FAF7-822D-0D55BB4BF531",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "9390BDD0-1C15-FD2D-703D-4376E5638D2B",
     "artistId": "30083C39-7B53-FAF7-822D-0D55BB4BF531",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "9CB40AC8-9C40-A3E6-5EF4-9476E3A586B9",
     "artistId": "30083C39-7B53-FAF7-822D-0D55BB4BF531",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "687B72D3-4D11-318D-9B41-A94EE68CAA5B",
     "artistId": "67024F79-496B-841D-09E4-40D53D0A6306",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "CCAB40E5-F9A3-6D3B-3C5C-64E79D77CE5F",
     "artistId": "67024F79-496B-841D-09E4-40D53D0A6306",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "5F8F32F5-38BF-930B-F756-C282EE5441F4",
     "artistId": "20C61C15-EFB1-3E0F-245D-895A65522CBA",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "C58815B3-2F88-493C-8057-49899017765E",
     "artistId": "653AE565-7662-3E0C-3D11-B52974C63714",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "B53F17AA-F4C9-44BB-3C20-48864F487959",
     "artistId": "653AE565-7662-3E0C-3D11-B52974C63714",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "9DD53C22-CD06-26D8-339A-162CE76A429F",
     "artistId": "653AE565-7662-3E0C-3D11-B52974C63714",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "3D7CB0E6-802F-5FC5-B091-9C668741ABDA",
     "artistId": "E1F6292D-873C-66C2-735F-7846DA675F42",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "7B2BAD31-20D1-3B4E-C7A9-0702865AE72B",
     "artistId": "E1F6292D-873C-66C2-735F-7846DA675F42",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "8BB31A7E-F4C1-0C9C-F004-90CD41ED45C0",
     "artistId": "E1F6292D-873C-66C2-735F-7846DA675F42",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "8FA9B887-E0A3-4683-6EA8-6193C277328E",
     "artistId": "5AEC473B-D7F7-5F06-7474-8DC1D15696A6",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "9510ADCD-9BE3-02F9-5DA6-8392D785B31B",
     "artistId": "74883CF3-42DE-DC13-4FFA-ED876A2C45BE",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "D0C375D8-3733-9997-A0CC-88FF3568F3DE",
     "artistId": "5E23AAE9-E3C6-6A18-6E9A-A63C12409756",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "46A8586F-B86B-179D-EAAB-FA29BFCB604D",
     "artistId": "5E23AAE9-E3C6-6A18-6E9A-A63C12409756",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "61069AD0-C5C5-5585-9CAF-94B91415F6A8",
     "artistId": "5E23AAE9-E3C6-6A18-6E9A-A63C12409756",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "D8AB08AF-840B-3E31-A992-FD3A017B3FFE",
     "artistId": "DE52D8D7-300F-2282-ABC3-4E455C270A2B",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "4927C10A-5DA9-17F4-4CEA-0C227CDA324F",
     "artistId": "DE52D8D7-300F-2282-ABC3-4E455C270A2B",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "8FB33EA8-5802-1106-142D-42C85C6CB4CD",
     "artistId": "DE52D8D7-300F-2282-ABC3-4E455C270A2B",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "5E48D88A-C2FE-1EE6-A940-5E45199C9F69",
     "artistId": "649313DB-1CE3-2733-C4A5-F0DF0851C242",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "B1D07A3C-0993-3E78-2D47-F1EBBA4EB628",
     "artistId": "649313DB-1CE3-2733-C4A5-F0DF0851C242",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "CC1BD98B-920C-10A2-D49B-0CD4B05A8571",
     "artistId": "89194720-9487-6EB5-27B2-22A17E7BAD11",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "0F2053BD-6075-420F-0138-B797B9F0BDEB",
     "artistId": "29D7CC03-3518-8E59-39AF-982DE181CE60",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "58772C64-2ADD-BAE9-68A6-F2D27D1DFF75",
     "artistId": "29D7CC03-3518-8E59-39AF-982DE181CE60",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "CECCFDA8-D1AD-31FE-C0EE-C322533418FF",
     "artistId": "29D7CC03-3518-8E59-39AF-982DE181CE60",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "53F0B8F1-572E-A3D9-2ABD-CD984E002011",
     "artistId": "4B2E8AA2-4D5D-FAC5-55B5-BA82C014FF2E",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "AC8766E0-BAD0-B090-AF41-CC39A5F645D6",
     "artistId": "4B2E8AA2-4D5D-FAC5-55B5-BA82C014FF2E",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "ED2D307F-6512-58C8-9672-87B1961439FB",
     "artistId": "56E3169B-B3CC-1A96-8626-6BA0C3D4F531",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "A7D96051-9847-63E3-6789-1A09E62BFFB5",
     "artistId": "56E3169B-B3CC-1A96-8626-6BA0C3D4F531",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "4F2D46A0-A0C4-2407-497C-23A1FE21126F",
     "artistId": "2D911A18-BA4C-CF02-48E7-D3F41D0F64CC",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "56F9FFFB-EF0D-CCF7-80A3-30420E7C6643",
     "artistId": "2D911A18-BA4C-CF02-48E7-D3F41D0F64CC",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "44ED6A7E-15A5-E71B-FADB-83A4C0D9D87F",
     "artistId": "2D911A18-BA4C-CF02-48E7-D3F41D0F64CC",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "C2A4E518-4D3B-F032-6302-1223CE48AEE7",
     "artistId": "BA196A17-1292-CC0B-ACE4-8AF21C1D45E0",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "47CBDFA7-378F-A25B-BD90-93353B1AB822",
     "artistId": "BA196A17-1292-CC0B-ACE4-8AF21C1D45E0",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "666F53E1-871C-3B23-C72E-F72CAF030052",
     "artistId": "BA196A17-1292-CC0B-ACE4-8AF21C1D45E0",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "AC413AF3-B12B-16EE-49A2-E8E6A4B1C80F",
     "artistId": "5A4D9933-21A1-F7CD-728E-7078047A3B61",
-    "stage": "Public Hall"
+    "stage": "Public Hall",
+    "time": 1458370800
   }, {
     "id": "B1FE6F14-DC55-227D-F340-8C5883B534D7",
     "artistId": "5A4D9933-21A1-F7CD-728E-7078047A3B61",
-    "stage": "Marquee"
+    "stage": "Marquee",
+    "time": 1458370800
   }, {
     "id": "7BF28D26-6C3C-12A1-E0C5-879E6745AE9F",
     "artistId": "5A4D9933-21A1-F7CD-728E-7078047A3B61",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }, {
     "id": "7EE8621C-BD38-7019-49F9-AE2DCCAA6B52",
     "artistId": "8749CA70-637D-1490-90BE-CAA6A37E118F",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "49871D28-DA09-6F9D-9289-0D5AC79AAF3C",
     "artistId": "653AE565-7662-3E0C-3D11-B52974C63714",
-    "stage": "The Courthouse"
+    "stage": "The Courthouse",
+    "time": 1458370800
   }, {
     "id": "4F639640-FF71-0AEA-A99C-D98FA8D8E6A6",
     "artistId": "653AE565-7662-3E0C-3D11-B52974C63714",
-    "stage": "The Star Hotel"
+    "stage": "The Star Hotel",
+    "time": 1458370800
   }]
 }
