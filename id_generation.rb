@@ -1,7 +1,7 @@
 require 'json'
 require 'ffaker'
 
-json_file = File.open('sat_performances_remote.json')
+json_file = File.open('sun_performances_remote.json')
 
 json = JSON.load json_file
 
