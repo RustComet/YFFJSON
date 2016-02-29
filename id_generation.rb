@@ -1,20 +1,20 @@
 require 'json'
 require 'ffaker'
 
-json_file = File.open('artists_remote.json')
+json_file = File.open('fri_performances_remote.json')
 
 json = JSON.load json_file
 
-artists = json["artists"]
-artists_with_id = []
+performances = json["performances"]
+performances_with_id = []
 
-artists.each do |a|
+performances.each do |a|
  a["id"] = FFaker::Guid.guid
- artists_with_id << a
+ performances_with_id << a
 end
 
-File.open('generated_ids.json', 'w') do |f|
-  f.write artists_with_id.to_json
+File.open('performances_with_ids.json', 'w') do |f|
+  f.write performances_with_id.to_json
 end
 
 
