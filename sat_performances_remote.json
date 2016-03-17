@@ -1,6 +1,6 @@
 {
   "performances": [{
-    "artistId": "E516F9AC-A2D5-49C6-C67C-BC4911841903",
+    "artistId": "67CC1EFB-52BD-726F-F603-4884A13668BB",
     "stage": "MARQUEE",
     "time": 1458339300,
     "id": "22DF986B-1A80-282F-D634-B3C459E192E1"
@@ -254,11 +254,6 @@
     "stage": "GRACE'S PLACE",
     "time": 1458374400,
     "id": "F4AC27FF-64D2-11C7-FFA7-6D13A8B44442"
-  }, {
-    "artistId": "E516F9AC-A2D5-49C6-C67C-BC4911841903",
-    "stage": "PUBLIC HALL",
-    "time": 1458374400,
-    "id": "42DFEA31-3A2A-863C-F7D6-31C127AA6874"
   }, {
     "artistId": "E66EDE6F-0DE6-75B5-CE63-2155A4419E1A",
     "stage": "MARQUEE",
