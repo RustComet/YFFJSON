@@ -504,18 +504,6 @@
         "twitter": "https://twitter.com/delaine2511",
         "instagram": ""
     }, {
-        "id": "9ec42ac4-7c37-4dfa-84f7-f3521d297292",
-        "name": "Vivox",
-        "summary": "Dan Carberry, Terry Hillman, Chris Horton, Chris McGorlick, Colin Thornton \u0026 Doug Westland are Yackandandah’s favourite a cappella group. Back this year with a changed line-up \u0026 some new music to delight everyone.",
-        "image_name": "Vivox",
-        "website": "",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-    }, {
         "id": "8bf84597-f8a2-419a-bec0-87b3a958fd2d",
         "name": "The Knott Family Band",
         "summary": "The Knott Family Band are four Melbourne musicians who play a finely curated selection of originals \u0026 bluegrass classics that reflect both traditional and contemporary influences.",
@@ -588,6 +576,18 @@
         "twitter": "https://twitter.com/candicemcleod",
         "instagram": "https://instagram.com/candicemcleodmusic/"
     }, {
+        "id": "9ec42ac4-7c37-4dfa-84f7-f3521d297292",
+        "name": "Vivox",
+        "summary": "Dan Carberry, Terry Hillman, Chris Horton, Chris McGorlick, Colin Thornton \u0026 Doug Westland are Yackandandah’s favourite a cappella group. Back this year with a changed line-up \u0026 some new music to delight everyone.",
+        "image_name": "Vivox",
+        "website": "",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+    }, {
         "id": "fb2ff2a5-0271-4388-aacd-ad3ac57319e8",
         "name": "Tennyson King",
         "summary": "Tennyson King is a singer-songwriter performing the earthy roots of rock \u0026 roll. A mesmerizing performer that takes the audience on an impassioned roller coaster ride. Music that brings together the emotional intensity \u0026 dark sweetness of the blues, with compositions that feature a lush, layered, psychedelic, rock sensibility.",
@@ -641,6 +641,18 @@
         "summary": "Erynn Marshall \u0026 Carl Jones are old-time musicians \u0026 inspired tune-smiths. They are married – in life \u0026 music. When they play, their instruments \u0026 voices blend like two forks of the same river. Southern song-duets \u0026 soaring fiddle, guitar, mandolin, banjo tunes comprise their diverse concert sets. They play with ease, spontaneity \u0026 vitality. While rooted in the traditional sounds of older players, this duo stays true to their own muse. Carl’s honest songs can make your heart ache. Erynn’s spirited fiddling can enthral. Together Carl \u0026 Erynn’s expressive, musical meanderings can transport the soul.",
         "image_name": "ErynnMarshallAndCarlJones",
         "website": "http://dittyville.com/",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+    }, {
+        "id": "dc35cc77-0bd9-4b9d-b40e-5f1b75c5e046",
+        "name": "Marisa Quigley",
+        "summary": "Marisa Quigley’s strong grounding in the power \u0026 passion of the blues, shines through in her rich voice \u0026 compelling lyrics. Ever the storyteller, the blues/country/folk singer-songwriter strives to engage \u0026 entertain her audience with her sometimes haunting, sometimes hilarious stories \u0026 songs.",
+        "image_name": "",
+        "website": "",
         "youtube": "",
         "itunes": "",
         "soundcloud": "",
