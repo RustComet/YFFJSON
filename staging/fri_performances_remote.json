@@ -1,5 +1,112 @@
 {
   "performances": [
-    {}
+    {
+      "id": "ccce671c-7213-441e-8aac-3e08df2aa9dc",
+      "artistId": "e07c88b2-3577-4199-8264-4c78d71411a9",
+      "time": 1521782100,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "7b069980-c9f5-430b-a285-c035d3723043",
+      "artistId": "3b33ba94-6e3e-4dfd-b646-a4b906086186",
+      "time": 1521785700,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "5b75ef87-cafa-4f63-9b83-a7435765532d",
+      "artistId": "6c24d212-fca6-4da7-b768-39b87980b6d6",
+      "time": 1521789300,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "89202ae2-ba87-4c33-bf26-3a7b391b1162",
+      "artistId": "216aa733-e4bf-464c-9d10-83d9c9712e7c",
+      "time": 1521792000,
+      "stage": "The Public Hall"
+    },
+    {
+      "id": "8991beb5-1210-4a63-9d9a-c591c0009358",
+      "artistId": "5b52e974-299a-4fa5-8ca4-38a7e04723f9",
+      "time": 1521792000,
+      "stage": "The Marquee"
+    },
+    {
+      "id": "a5692c51-3bfa-4d21-bb2a-64ad5b0c5dc3",
+      "artistId": "d6f7dd4d-5bb3-4638-a9fb-a9eafc404968",
+      "time": 1521792900,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "bd9b40e0-d7f7-41c3-bf77-abea6b6b00f7",
+      "artistId": "ac8a50b4-95a8-4581-a2d2-2ed058190b4f",
+      "time": 1521795600,
+      "stage": "The Public Hall"
+    },
+    {
+      "id": "d1522096-2320-4649-9b71-ee7514acccb6",
+      "artistId": "bc679d29-ded8-4f2c-9f0d-9db6a8e9f247",
+      "time": 1521795600,
+      "stage": "The Marquee"
+    },
+    {
+      "id": "ef7ba7a4-50c7-4cc1-8215-04eb72426ab9",
+      "artistId": "50f0b4e6-e77e-480e-bd5a-510a1c7ad808",
+      "time": 1521796500,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "83b462dc-5577-4999-a934-901b660695ec",
+      "artistId": "74f8bbf6-4422-4108-9bf9-da83d5734b88",
+      "time": 1521799200,
+      "stage": "The Public Hall"
+    },
+    {
+      "id": "d0a33ba8-9e24-42b8-a531-2127c121149b",
+      "artistId": "9edc299f-c33b-43d2-8f11-9f2b86906e75",
+      "time": 1521799200,
+      "stage": "The Marquee"
+    },
+    {
+      "id": "d4b3958a-67e2-48a8-8f87-9840249118fd",
+      "artistId": "d1ab0828-5187-412a-9dc7-d27e02ee2141",
+      "time": 1521800100,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "7855c8b8-34ca-43db-b1df-57d28e9e9af2",
+      "artistId": "050df5d8-ffdc-407c-9e8a-0dd8648a6674",
+      "time": 1521802800,
+      "stage": "The Public Hall"
+    },
+    {
+      "id": "af2edff8-dc0d-4c3a-abcd-2c8890162fba",
+      "artistId": "21bbea94-bc4e-4ec6-93c9-fe404519b4be",
+      "time": 1521802800,
+      "stage": "The Marquee"
+    },
+    {
+      "id": "3538bda2-6d4c-4e6b-8750-db8df899cdab",
+      "artistId": "ed258bd4-97d7-4751-9733-2e42f27108cb",
+      "time": 1521803700,
+      "stage": "The Star Hotel"
+    },
+    {
+      "id": "f7cd98a6-716c-481e-ae68-8b8600bd988a",
+      "artistId": "1f09ed84-7e85-4149-8d99-124a67af3a94",
+      "time": 1521806400,
+      "stage": "The Public Hall"
+    },
+    {
+      "id": "f7cd98a6-716c-481e-ae68-8b8600bd988a",
+      "artistId": "5fbc5a3c-b50b-4af6-a9fb-ec5c28eb0363",
+      "time": 1521806400,
+      "stage": "The Marquee"
+    },
+    {
+      "id": "fca8e13f-20c4-4736-925c-5da23256f44d",
+      "artistId": "3dd0678e-6268-4140-9c9d-e121e4b523c5",
+      "time": 1521807300,
+      "stage": "The Star Hotel"
+    },
   ]
 }
