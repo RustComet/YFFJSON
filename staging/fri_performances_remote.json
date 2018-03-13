@@ -15,20 +15,15 @@
     "time": 1521788400,
     "stage": "The Star Hotel"
   }, {
-    "id": "f0007383-3497-4ad4-a1db-5916b250204a",
-    "artistId": "ac8a50b4-95a8-4581-a2d2-2ed058190b4f",
+    "id": "8fc5e987-6f2b-4fc6-908b-e1bfd0a58171",
+    "artistId": "5b52e974-299a-4fa5-8ca4-38a7e04723f9",
     "time": 1521791100,
-    "stage": "The Public Hall"
+    "stage": "The Marquee"
   }, {
     "id": "dd53f7d3-e6fe-404b-9389-a0f6e0da520c",
     "artistId": "216aa733-e4bf-464c-9d10-83d9c9712e7c",
     "time": 1521791100,
     "stage": "The Public Hall"
-  }, {
-    "id": "8fc5e987-6f2b-4fc6-908b-e1bfd0a58171",
-    "artistId": "5b52e974-299a-4fa5-8ca4-38a7e04723f9",
-    "time": 1521791100,
-    "stage": "The Marquee"
   }, {
     "id": "b674961e-a476-40fb-b723-fd99da22cdbf",
     "artistId": "d6f7dd4d-5bb3-4638-a9fb-a9eafc404968",
@@ -39,6 +34,11 @@
     "artistId": "bc679d29-ded8-4f2c-9f0d-9db6a8e9f247",
     "time": 1521794700,
     "stage": "The Marquee"
+  }, {
+    "id": "f0007383-3497-4ad4-a1db-5916b250204a",
+    "artistId": "ac8a50b4-95a8-4581-a2d2-2ed058190b4f",
+    "time": 1521794700,
+    "stage": "The Public Hall"
   }, {
     "id": "fda9e755-8922-4daa-a78c-2e83c4906de2",
     "artistId": "50f0b4e6-e77e-480e-bd5a-510a1c7ad808",
@@ -60,15 +60,15 @@
     "time": 1521799200,
     "stage": "The Star Hotel"
   }, {
-    "id": "34bcad89-2d41-4b57-9676-b7d1ea4069df",
-    "artistId": "21bbea94-bc4e-4ec6-93c9-fe404519b4be",
-    "time": 1521801900,
-    "stage": "The Marquee"
-  }, {
     "id": "feb94fd1-6c5b-431e-b7ea-a9f156ea17c7",
     "artistId": "050df5d8-ffdc-407c-9e8a-0dd8648a6674",
     "time": 1521801900,
     "stage": "The Public Hall"
+  }, {
+    "id": "34bcad89-2d41-4b57-9676-b7d1ea4069df",
+    "artistId": "21bbea94-bc4e-4ec6-93c9-fe404519b4be",
+    "time": 1521801900,
+    "stage": "The Marquee"
   }, {
     "id": "841c74c7-4eeb-4a3b-b037-42e0e06e1e16",
     "artistId": "ed258bd4-97d7-4751-9733-2e42f27108cb",
