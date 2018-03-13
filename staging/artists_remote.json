@@ -1,17 +1,5 @@
 {
     "artists": [{
-        "id": "4835eea3-a2a4-4a3f-99fe-19f25988c619",
-        "name": "Chris While \u0026 Julie Matthews",
-        "summary": "Chris While and Julie Matthews’ musical partnership began in 1993 when they were key members of the legendary folk super-group The Albion Band. In 1997 they left the band to concentrate on their work as a duo which has seen them tour throughout the world and gain an ever growing devoted fan-base. Their songs have been covered by a range of artists including Mary Black, Barbara Dickson, Christine Collister and Fairport Convention.",
-        "image_name": "ChrisWhileAndJulie",
-        "website": "http://www.whileandmatthews.co.uk",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "https://www.facebook.com/whileandmatthews",
-        "twitter": "",
-        "instagram": ""
-    }, {
         "id": "3dd0678e-6268-4140-9c9d-e121e4b523c5",
         "name": "Elephant Sessions",
         "summary": "2017 was a remarkable year for Elephant Sessions. The band who hail from the Highlands of Scotland and who met at the Newcastle University Folk degree have exploded onto the indie folk scene with unparalleled effect. The release of their award winning album in June, was followed by live appearances at some of Europe’s most notable festivals. Audiences crowd surfed their way through the summer and marquee floors broke under the weight of bouncing fans.",
@@ -22,42 +10,6 @@
         "soundcloud": "https://soundcloud.com/elephantsessions",
         "facebook": "https://www.facebook.com/elephantsessions/",
         "twitter": "https://twitter.com/ElephantSession",
-        "instagram": ""
-    }, {
-        "id": "69ce7dd1-c405-4870-a80b-2ccddc352eef",
-        "name": "The Good Lovelies",
-        "summary": "Funny, upbeat, sassy and wielding guitars, keys, bass & drums this Canadian group delights and charms with their uplifting three-part harmonies, heartfelt song writing and witty on-stage banter.",
-        "image_name": "GoodLovelies",
-        "website": "http://goodlovelies.com",
-        "youtube": "",
-        "itunes": "https://itunes.apple.com/au/artist/good-lovelies/id280862837",
-        "soundcloud": "",
-        "facebook": "https://www.facebook.com/goodlovelies",
-        "twitter": "https://twitter.com/goodlovelies",
-        "instagram": ""
-    }, {
-        "id": "dc023155-2f07-49f9-adc0-a128ae205e82",
-        "name": "Corin Raymond",
-        "summary": "This Canadian songwriter's love of words began in the car with his father, driving the jack-pined distances of Northern Ontario. His father would tell him Greek myths to pass the time, and thus began a lifelong love affair with words that set him on the path to becoming songwriter and student of songcraft. With Corinâ€™s latest album, JUNO nominated Hobo Jungle Fever Dreams, he's created his finest collection yet.",
-        "image_name": "CorinRaymond",
-        "website": "https://corinraymond.com",
-        "youtube": "",
-        "itunes": "https://itunes.apple.com/au/artist/corin-raymond/356477900",
-        "soundcloud": "https://soundcloud.com/corinraymond",
-        "facebook": "https://www.facebook.com/CorinRaymondMusic/?fref=ts",
-        "twitter": "https://twitter.com/corinraymond",
-        "instagram": ""
-    }, {
-        "id": "1f09ed84-7e85-4149-8d99-124a67af3a94",
-        "name": "Bohemian Nights",
-        "summary": "Ernie Gruner (violin, mandolin) and Phil Carroll (vocals, accordion, ney) play Gypsy, Klezmer, Middle-Eastern, French, Italian, Russian, jazz and tango music ranging from soulful to wild. 15 years of festivals around Australia and New Zealand, and 2 CDs. 'Loads of enthusiasm, brilliant musicality' - director Wellington Folk Festival",
-        "image_name": "BohemianNights",
-        "website": "http://www.bohemiannights.com.au",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "https://www.facebook.com/BohemianNightsMusic",
-        "twitter": "",
         "instagram": ""
     }, {
         "id": "b5841800-3583-47fa-9073-89cc181ee389",
@@ -83,6 +35,18 @@
         "facebook": "https://www.facebook.com/Ten-Strings-And-A-Goat-Skin-134065649937386/",
         "twitter": "https://twitter.com/StringsAndGoat",
         "instagram": "https://www.instagram.com/stringsandgoat/"
+    }, {
+        "id": "1f09ed84-7e85-4149-8d99-124a67af3a94",
+        "name": "Bohemian Nights",
+        "summary": "Ernie Gruner (violin, mandolin) and Phil Carroll (vocals, accordion, ney) play Gypsy, Klezmer, Middle-Eastern, French, Italian, Russian, jazz and tango music ranging from soulful to wild. 15 years of festivals around Australia and New Zealand, and 2 CDs. 'Loads of enthusiasm, brilliant musicality' - director Wellington Folk Festival",
+        "image_name": "BohemianNights",
+        "website": "http://www.bohemiannights.com.au",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "https://www.facebook.com/BohemianNightsMusic",
+        "twitter": "",
+        "instagram": ""
     }, {
         "id": "72704698-0db8-43be-8725-39076fa6b9d7",
         "name": "Gordie MacKeeman \u0026 his Rhythm Boys",
@@ -144,6 +108,42 @@
         "twitter": "https://twitter.com/theyoungfolk",
         "instagram": ""
     }, {
+        "id": "4835eea3-a2a4-4a3f-99fe-19f25988c619",
+        "name": "Chris While \u0026 Julie Matthews",
+        "summary": "Chris While and Julie Matthews' musical partnership began in 1993 when they were key members of the legendary folk super-group The Albion Band. In 1997 they left the band to concentrate on their work as a duo which has seen them tour throughout the world and gain an ever growing devoted fan-base. Their songs have been covered by a range of artists including Mary Black, Barbara Dickson, Christine Collister and Fairport Convention.",
+        "image_name": "ChrisWhileAndJulie",
+        "website": "http://www.whileandmatthews.co.uk",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "https://www.facebook.com/whileandmatthews",
+        "twitter": "",
+        "instagram": ""
+    }, {
+        "id": "69ce7dd1-c405-4870-a80b-2ccddc352eef",
+        "name": "The Good Lovelies",
+        "summary": "Funny, upbeat, sassy and wielding guitars, keys, bass \u0026 drums this Canadian group delights and charms with their uplifting three-part harmonies, heartfelt song writing and witty on-stage banter.",
+        "image_name": "GoodLovelies",
+        "website": "http://goodlovelies.com",
+        "youtube": "",
+        "itunes": "https://itunes.apple.com/au/artist/good-lovelies/id280862837",
+        "soundcloud": "",
+        "facebook": "https://www.facebook.com/goodlovelies",
+        "twitter": "https://twitter.com/goodlovelies",
+        "instagram": ""
+    }, {
+        "id": "dc023155-2f07-49f9-adc0-a128ae205e82",
+        "name": "Corin Raymond",
+        "summary": "This Canadian songwriter’s love of words began in the car with his father, driving the jack-pined distances of Northern Ontario. His father would tell him Greek myths to pass the time, and thus began a lifelong love affair with words that set him on the path to becoming songwriter and student of songcraft. With Corin’s latest album, JUNO nominated Hobo Jungle Fever Dreams, he's created his finest collection yet.",
+        "image_name": "CorinRaymond",
+        "website": "https://corinraymond.com",
+        "youtube": "",
+        "itunes": "https://itunes.apple.com/au/artist/corin-raymond/356477900",
+        "soundcloud": "https://soundcloud.com/corinraymond",
+        "facebook": "https://www.facebook.com/CorinRaymondMusic/?fref=ts",
+        "twitter": "https://twitter.com/corinraymond",
+        "instagram": ""
+    }, {
         "id": "bc679d29-ded8-4f2c-9f0d-9db6a8e9f247",
         "name": "David Ross Macdonald",
         "summary": "Son of an ex jazz trumpeter dentist who ditched geology to fail at jazz college to take up washboard to join The Waifs over a Port Fairy Guinness who fell in love with a 1935 Gibson guitar while touring the USA with Bob Dylan to writing songs and riffing stories to anyone who cared to listen.",
@@ -168,35 +168,11 @@
         "twitter": "",
         "instagram": ""
     }, {
-        "id": "d4895c0d-69f4-46ab-b17c-8cc9e5db7ceb",
-        "name": "Bruce Watson",
-        "summary": "Not just another singer songwriter! Bruce is an icon of the folk scene, a major songwriter and performer. He has won a swag of awards and had songs covered by many performers including Eric Bogle. His songs are joyful, thought provoking, totally engaging - reflecting life, ordinary people, and the big issues, often with a twist and a quirky sense of humour.",
-        "image_name": "BruceWatson",
-        "website": "http://brucewatsonmusic.com",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-    }, {
         "id": "216aa733-e4bf-464c-9d10-83d9c9712e7c",
         "name": "The Good Girl Song Project",
         "summary": "In this theatre-based song cycle, seven of Australia’s leading folk musicians recount a voyage taken by young women to Australia in the 1830’s. A must see new work that combines old fashioned storytelling and new Celtic-flavoured songs. The group will be launching their new CD at the Festival.",
         "image_name": "GoodGirlSongProject",
         "website": "http://thegoodgirlsongproject.com",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-    }, {
-        "id": "5b52e974-299a-4fa5-8ca4-38a7e04723f9",
-        "name": "changoTree",
-        "summary": "",
-        "image_name": "changoTree",
-        "website": "",
         "youtube": "",
         "itunes": "",
         "soundcloud": "",
@@ -300,10 +276,22 @@
         "twitter": "https://twitter.com/truespiritreviv",
         "instagram": "https://www.instagram.com/truespiritrevival/"
     }, {
-        "id": "58e04906-3ac4-450a-baac-a9e82257393b",
-        "name": "The Blue Yonder",
-        "summary": "The Blue Yonder are a 5 piece homespun indie folk rock band from North East Victoria, whose soaring originals and tasty harmonies evoke panoramic images of the Australian landscape that's guaranteed to feed an empty dance floor.",
-        "image_name": "BlueYonder",
+        "id": "d4895c0d-69f4-46ab-b17c-8cc9e5db7ceb",
+        "name": "Bruce Watson",
+        "summary": "Not just another singer songwriter! Bruce is an icon of the folk scene, a major songwriter and performer. He has won a swag of awards and had songs covered by many performers including Eric Bogle. His songs are joyful, thought provoking, totally engaging - reflecting life, ordinary people, and the big issues, often with a twist and a quirky sense of humour.",
+        "image_name": "BruceWatson",
+        "website": "http://brucewatsonmusic.com",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+    }, {
+        "id": "5b52e974-299a-4fa5-8ca4-38a7e04723f9",
+        "name": "ChangoTRee",
+        "summary": "In the past year changoTRee has traversed the globe, recording, writing \u0026 performing at shows \u0026 festivals from New Orleans to London, Ireland to France. changoTRee melds magical roots, blues-cruise \u0026 funky-folk with soaring harmonies, \u0026 swampy grooves with a splash of surf reggae chang.",
+        "image_name": "changoTree",
         "website": "",
         "youtube": "",
         "itunes": "",
@@ -312,10 +300,10 @@
         "twitter": "",
         "instagram": ""
     }, {
-        "id": "406765ab-5a0d-4b4a-b31e-045a25821c0e",
-        "name": "Earth Hour",
-        "summary": "Join us again for Earth Hour at the Public Hall. Once the lights will go out you will be treated to 10 surprise acts, completely acoustic, in the dark.",
-        "image_name": "",
+        "id": "58e04906-3ac4-450a-baac-a9e82257393b",
+        "name": "The Blue Yonder",
+        "summary": "The Blue Yonder are a 5 piece homespun indie folk rock band from North East Victoria, whose soaring originals and tasty harmonies evoke panoramic images of the Australian landscape that's guaranteed to feed an empty dance floor.",
+        "image_name": "BlueYonder",
         "website": "",
         "youtube": "",
         "itunes": "",
@@ -384,18 +372,6 @@
         "twitter": "",
         "instagram": ""
     }, {
-        "id": "9f1a5040-9f46-4e7e-92b1-07ccdd00174e",
-        "name": "Tom Yates",
-        "summary": "",
-        "image_name": "TomYates",
-        "website": "",
-        "youtube": "",
-        "itunes": "",
-        "soundcloud": "",
-        "facebook": "",
-        "twitter": "",
-        "instagram": ""
-    }, {
         "id": "6d070c75-ffe1-4468-b0cf-a626eaa3a53d",
         "name": "William Alexander",
         "summary": "William Alexander or \"The Kid From Bourke\", has a passion for old songs written in a time when life was tough \u0026 living was simple. William spends his time roaming the bush with his wife, archiving \u0026 performing forgotten ballads.",
@@ -444,17 +420,17 @@
         "twitter": "",
         "instagram": ""
     }, {
-        "id": "f13892f8-daab-4cdf-b8a2-bf22240eaa43",
-        "name": "Marisa Quigley",
-        "summary": "is an award-winning Australian blues \u0026 roots singer songwriter, solo artist \u0026 cabaret performer. With her charismatic stage presence and powerhouse delivery, the husky-voiced chanteuse has drawn comparisons with Janis Joplin \u0026 Bonnie Raitt.",
-        "image_name": "",
-        "website": "https://www.marisaquigley.com",
-        "youtube": "https://www.youtube.com/marisaquigley",
+        "id": "9f1a5040-9f46-4e7e-92b1-07ccdd00174e",
+        "name": "Tom Yates",
+        "summary": "Tom drives our festival poets' breakfast , and this year also presents , with laid back guitar , a selection from his repertoire of lyrical and moving songs.",
+        "image_name": "TomYates",
+        "website": "",
+        "youtube": "",
         "itunes": "",
-        "soundcloud": "https://soundcloud.com/marisaquigley",
-        "facebook": "https://www.facebook.com/MarisaRaeQuigley/",
-        "twitter": "https://twitter.com/marisaquigley",
-        "instagram": "https://www.instagram.com/marisaquigley/"
+        "soundcloud": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
     }, {
         "id": "0b096698-6281-4d97-9f79-a430aa6d3eb1",
         "name": "New Flamenco Project",
@@ -504,6 +480,30 @@
         "twitter": "https://twitter.com/vanessa_delaine",
         "instagram": "https://www.instagram.com/vanessa_delaine/"
     }, {
+        "id": "f13892f8-daab-4cdf-b8a2-bf22240eaa43",
+        "name": "Marisa Quigley",
+        "summary": "Marisa Quigley is an award-winning Australian blues \u0026 roots singer songwriter, solo artist \u0026 cabaret performer. With her charismatic stage presence and powerhouse delivery, the husky-voiced chanteuse has drawn comparisons with Janis Joplin \u0026 Bonnie Raitt.",
+        "image_name": "",
+        "website": "https://www.marisaquigley.com",
+        "youtube": "https://www.youtube.com/marisaquigley",
+        "itunes": "",
+        "soundcloud": "https://soundcloud.com/marisaquigley",
+        "facebook": "https://www.facebook.com/MarisaRaeQuigley/",
+        "twitter": "https://twitter.com/marisaquigley",
+        "instagram": "https://www.instagram.com/marisaquigley/"
+    }, {
+        "id": "406765ab-5a0d-4b4a-b31e-045a25821c0e",
+        "name": "Earth Hour",
+        "summary": "Join us again for Earth Hour at the Public Hall. Once the lights will go out you will be treated to 10 surprise acts, completely acoustic, in the dark.",
+        "image_name": "EarthHour",
+        "website": "",
+        "youtube": "",
+        "itunes": "",
+        "soundcloud": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": ""
+    }, {
         "id": "0e918850-ee9e-473e-adb5-41a6a0cedd01",
         "name": "Yackandandah Community Choir",
         "summary": "When a village with a population of less than 1000 can muster more than 120 to 150 voices to rehearse and perform together for the community's folk festival, it says something about the unique strength and community capacity in Yackandandah. This much loved group has put together a rousing and harmonious repertoire guaranteed to allow you to finish off the festival on a high. All credit to the wonderful choir and the energetic committee. An unticketed event; all are welcome to come and share the love as they lift spirits and lift the roof.",
@@ -542,7 +542,7 @@
     }, {
         "id": "d1ab0828-5187-412a-9dc7-d27e02ee2141",
         "name": "Faith I Branko",
-        "summary": "Serbia’s No. 1 Roma violinist and UK accordionist perform high-energy original Roma/Jazz influenced music with an international quartet/quintet. The duo met in Branko’s Serbian Roma village of Gornja Grabovica in 2009, and - with music as their only tool for communication - began a journey that would lead to the creation of their WOMEX award-winning album ‘Gypsy Lover’, their marriage and their success in international touring and media. Branko taught himself the violin, which became a way out of the extreme health, social and economic problems through which he lived in Serbia; he created his own music - intuitively combining sounds of Jazz, Indian, Turkish and Classical music with his Roma traditions. Now based in London, the duo are currently touring with their quartet and quintet.",
+        "summary": "Serbia’s No. 1 Roma violinist and UK accordionist perform high-energy original Roma/Jazz influenced music with an international quartet/quintet. The duo met in Branko’s Serbian Roma village of Gornja Grabovica in 2009, and – with music as their only tool for communication – began a journey that would lead to the creation of their WOMEX award-winning album ‘Gypsy Lover’, their marriage and their success in international touring and media. Branko taught himself the violin, which became a way out of the extreme health, social and economic problems through which he lived in Serbia; he created his own music – intuitively combining sounds of Jazz, Indian, Turkish and Classical music with his Roma traditions. Now based in London, the duo are currently touring with their quartet and quintet.",
         "image_name": "FaithIBranko",
         "website": "https://www.faithibranko.com",
         "youtube": "",
