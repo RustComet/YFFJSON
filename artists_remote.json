@@ -351,20 +351,6 @@
             "instagram": null
         },
         {
-            "id": "51df12b6-6b5c-428d-8613-248792ff2046",
-            "name": "OUT of ABINGDON",
-            "sort_name": "OUT of ABINGDON",
-            "summary": "Accomplished in their artistry, this duo creates a soulful atmosphere where unpretentious musicianship is firmly centre stage. Tina's ethereal vocals and grooving double bass accompanied by Warwick's fearless physical expression on guitar are translated into a full-bodied combination of jazz, blues and ballads.\n",
-            "image_name": "OutOfAbingdon",
-            "website": "http://www.outofabingdon.com.au/",
-            "youtube": "https://www.youtube.com/user/outofabingdon/videos",
-            "itunes": "https://outofabingdon.bandcamp.com/",
-            "soundcloud": "https://soundcloud.com/out-of-abingdon",
-            "facebook": "https://www.facebook.com/Out-of-Abingdon-97735063893/",
-            "twitter": "https://open.spotify.com/user/mbybxpgnn9kek6vqs5i7cp7xj",
-            "instagram": "https://www.instagram.com/out_of_abingdon/"
-        },
-        {
             "id": "5adace65-8099-4bc0-bbbf-7e0c00d2f41d",
             "name": "Paige Black",
             "sort_name": "Paige Black",
@@ -713,6 +699,20 @@
             "facebook": "",
             "twitter": "",
             "instagram": ""
+        },
+        {
+            "id": "51df12b6-6b5c-428d-8613-248792ff2046",
+            "name": "Mezz Coleman",
+            "sort_name": "Mezz Coleman",
+            "summary": "With a powerful voice imbued with honesty, Melbourne songbird Mezz Coleman writes \u0026 sings of love, loss \u0026 community. After graduating from VCA with a Bachelor of Music Performance (Jazz Improvisation), Mezz eventually found her home in the folk \u0026 indie pop traditions. With her ukulele in hand, she has spent the last decade performing in Melbourne and around regional Victoria, establishing herself\r\nas both a prolific songwriter \u0026 engaging performer.",
+            "image_name": "MezzColeman",
+            "website": "https://mezzcoleman.com",
+            "youtube": "",
+            "itunes": "",
+            "soundcloud": "",
+            "facebook": "https://www.facebook.com/MezzColemanMusic/",
+            "twitter": "",
+            "instagram": "https://www.instagram.com/mezzcoleman/?hl=en"
         }
     ]
 }
