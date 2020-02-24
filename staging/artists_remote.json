@@ -741,6 +741,20 @@
       "facebook": "https://www.facebook.com/vardos/",
       "twitter": "",
       "instagram": ""
+    },
+    {
+      "id": "8f3f405a-39fb-4ffc-bec4-bd0362e71ea9",
+      "name": "Earth Hour",
+      "sort_name": "Earth Hour",
+      "summary": "Join us again for Earth Hour at the Public Hall. Once the lights will go out you will be treated to 10 surprise acts, completely acoustic, in the dark.",
+      "image_name": "EarthHour",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": ""
     }
   ]
 }
