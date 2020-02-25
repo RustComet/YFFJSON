@@ -3,66 +3,79 @@
     {
       "id": "71451d63-bae9-4585-93e9-1efcd4eeb423",
       "artistId": "93c0ec86-5fda-4803-823d-ffe2bcff45e5",
+      "stage": "The Star Hotel",
       "time": 1584680400
     },
     {
       "id": "0a7a14d5-d226-403d-86f9-d777831ba7a6",
       "artistId": "5caba96d-0f08-4f5b-97c0-944b6099b74e",
+      "stage": "The Bottom Pub",
       "time": 1584684000
     },
     {
       "id": "8f087f2c-ab71-4cec-875e-11e9640155a7",
       "artistId": "10a5b86a-3388-4895-8416-598512c77da0",
+      "stage": "The Star Hotel",
       "time": 1584684000
     },
     {
       "id": "482ac97c-26dd-408e-9d26-c7b3aa593c2e",
       "artistId": "ae962b11-7e6d-4e65-a082-52bf7601faa5",
+      "stage": "The Bottom Pub",
       "time": 1584687600
     },
     {
       "id": "5fa0e663-d055-4144-ba57-b3a5abd33dc4",
       "artistId": "a90dcee9-4b4b-4d19-ba81-679b21e9d039",
+      "stage": "The Public Hall",
       "time": 1584689400
     },
     {
       "id": "b8a6a7d6-afdd-49c5-9979-cfe48aa49b12",
       "artistId": "b7d38d7d-1d01-4da1-8054-91f54250c72d",
+      "stage": "The Marquee",
       "time": 1584693900
     },
     {
       "id": "483c6ab6-b86a-4350-8944-18fb5246c573",
       "artistId": "eb13d175-2e38-4e5b-b079-910ddbbeecba",
+      "stage": "The Star Hotel",
       "time": 1584695400
     },
     {
       "id": "7a3ebdbd-35ea-48dd-a68f-f37e9e0a1eb6",
       "artistId": "b5696faa-da68-4ab0-be94-3695e3f38683",
+      "stage": "The Bottom Pub",
       "time": 1584695400
     },
     {
       "id": "82062ee4-8180-44d4-b297-312fd2e23e22",
       "artistId": "df1a6fbf-c851-4c91-8475-d45bd369b79c",
+      "stage": "The Marquee",
       "time": 1584697500
     },
     {
       "id": "13461f2e-c199-476b-9889-f9090260cd20",
       "artistId": "abb7db15-fb54-4fc2-90f6-db3aeb5e3076",
+      "stage": "The Star Hotel",
       "time": 1584699000
     },
     {
       "id": "7d044bb7-a465-4645-87bf-210c5e191665",
       "artistId": "7e5606b3-640f-44c2-8954-96c719eb4a0c",
+      "stage": "The Bottom Pub",
       "time": 1584702600
     },
     {
       "id": "713da12b-f6d3-4928-ac3f-a5700d3d0e87",
       "artistId": "f835b092-4f18-41ee-80d0-2c775ea65849",
+      "stage": "The Public Hall",
       "time": 1584703800
     },
     {
       "id": "93fee0b7-a365-44e8-bc45-85f2398a537f",
       "artistId": "455b4676-b826-4ee2-94cb-3e868779c7e8",
+      "stage": "The Star Hotel",
       "time": 1584706200
     }
   ]
