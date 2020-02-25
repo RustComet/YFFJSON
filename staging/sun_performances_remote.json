@@ -13,16 +13,16 @@
       "time": 1584831600
     },
     {
+      "id": "56709628-d7a6-406b-b738-4461585911f7",
+      "artistId": "1a088a6d-89bf-4672-abcf-b78426489c98",
+      "stage": "The Bottom Pub",
+      "time": 1584831600
+    },
+    {
       "id": "6addcbff-56dc-4e9b-be4f-5664cfffc518",
       "artistId": "5caba96d-0f08-4f5b-97c0-944b6099b74e",
       "stage": "The Courthouse",
       "time": 1584832500
-    },
-    {
-      "id": "001c4b26-fed9-4854-bcc8-4bcd759872d6",
-      "artistId": "ae962b11-7e6d-4e65-a082-52bf7601faa5",
-      "stage": "The St James Uniting Church",
-      "time": 1584833400
     },
     {
       "id": "d263913d-50ed-46b1-9c41-7b1d17729857",
@@ -31,15 +31,27 @@
       "time": 1584833400
     },
     {
-      "id": "c5f0731f-0e5f-405f-ad6f-9989486d2bbe",
-      "artistId": "aa01a4c5-e21b-4f48-b87a-2cedbdab7d6d",
-      "stage": "The Yack Station",
-      "time": 1584835200
+      "id": "001c4b26-fed9-4854-bcc8-4bcd759872d6",
+      "artistId": "ae962b11-7e6d-4e65-a082-52bf7601faa5",
+      "stage": "The St James Uniting Church",
+      "time": 1584833400
     },
     {
       "id": "8f603e3e-2d14-43b4-b102-b1ff6ce8c953",
       "artistId": "abff9a26-2702-4d22-b985-d8a3ff3d8f2d",
       "stage": "The Bottom Pub",
+      "time": 1584835200
+    },
+    {
+      "id": "c1ffd113-1206-45d4-9364-3b83ab227181",
+      "artistId": "1317f725-5cad-4dfe-af2d-b93c1e7b219f",
+      "stage": "The Star Hotel",
+      "time": 1584835200
+    },
+    {
+      "id": "c5f0731f-0e5f-405f-ad6f-9989486d2bbe",
+      "artistId": "aa01a4c5-e21b-4f48-b87a-2cedbdab7d6d",
+      "stage": "The Yack Station",
       "time": 1584835200
     },
     {
@@ -55,10 +67,34 @@
       "time": 1584837000
     },
     {
+      "id": "d6e91ac8-9caf-4ca1-b06e-7b9a470da886",
+      "artistId": "8c38ccbc-e260-45b7-8274-7f1ce1cc7a5a",
+      "stage": "The St James Uniting Church",
+      "time": 1584837000
+    },
+    {
       "id": "3f1e1533-e48e-455c-bffd-1dcc4fccf75b",
       "artistId": "fd8dbaa2-5142-45c9-8642-ce20d34cd6cb",
       "stage": "The Yack Station",
       "time": 1584838800
+    },
+    {
+      "id": "cb495cd2-e98f-4ece-91de-84c4c4189c56",
+      "artistId": "9f333357-5eab-436f-86d2-2733f55ecf78",
+      "stage": "The Star Hotel",
+      "time": 1584838800
+    },
+    {
+      "id": "7d8a5566-c0f6-49ea-96ae-9a9484fe6da2",
+      "artistId": "f5ff2257-d2f2-44dc-a2b6-8a6626f4ecdd",
+      "stage": "The Courthouse",
+      "time": 1584839700
+    },
+    {
+      "id": "0d8d54c2-544c-43a7-b704-cf770f2cf03d",
+      "artistId": "34e1d28d-8707-4f26-ad5e-ddcf497157da",
+      "stage": "Grace's Place",
+      "time": 1584840600
     },
     {
       "id": "a337479f-1232-49dc-b0d0-e4bee5ace247",
@@ -73,15 +109,21 @@
       "time": 1584840600
     },
     {
-      "id": "d24135b8-a834-4643-a984-5539b1be03f1",
-      "artistId": "b602381f-4dd3-40c7-8384-dc37fd03d053",
-      "stage": "The Star Hotel",
-      "time": 1584842400
-    },
-    {
       "id": "b8a7c8d3-2222-400a-975b-d8e41b4cf519",
       "artistId": "fdb00d03-5def-4033-b5a2-f6c43e021fae",
       "stage": "The Bottom Pub",
+      "time": 1584842400
+    },
+    {
+      "id": "0649cf83-ed92-451d-a55b-3743cc11dd4c",
+      "artistId": "8488148a-9909-417c-bb50-d724ab29e1d9",
+      "stage": "The Yack Station",
+      "time": 1584842400
+    },
+    {
+      "id": "d24135b8-a834-4643-a984-5539b1be03f1",
+      "artistId": "b602381f-4dd3-40c7-8384-dc37fd03d053",
+      "stage": "The Star Hotel",
       "time": 1584842400
     },
     {
@@ -91,10 +133,40 @@
       "time": 1584842400
     },
     {
+      "id": "073134c0-dd8a-4086-9828-7386ec49457d",
+      "artistId": "83ec352c-b7b0-44b3-b69c-307539feccee",
+      "stage": "The Courthouse",
+      "time": 1584843300
+    },
+    {
+      "id": "b4f822e4-e1e9-4911-a83e-0565c40a38ed",
+      "artistId": "54b64033-fdfc-4d82-8db8-cd006018d002",
+      "stage": "The St James Uniting Church",
+      "time": 1584844200
+    },
+    {
+      "id": "a72f9933-02f1-47e8-973f-64c42e7e2b48",
+      "artistId": "fbc6aacb-48e0-4381-85dd-09422f6a9c9d",
+      "stage": "The Marquee",
+      "time": 1584844200
+    },
+    {
       "id": "69d426c2-97ac-4f07-a624-0abb60749c5e",
       "artistId": "4408b124-4267-4b98-a321-89c021c3cebd",
       "stage": "Grace's Place",
       "time": 1584844200
+    },
+    {
+      "id": "8d9788a6-1d04-4187-9896-9afce7f070db",
+      "artistId": "f18bd3b9-8279-4c55-84f3-c05cd40f7112",
+      "stage": "The Star Hotel",
+      "time": 1584846000
+    },
+    {
+      "id": "719e145a-8275-4426-a897-678130a420e2",
+      "artistId": "455b4676-b826-4ee2-94cb-3e868779c7e8",
+      "stage": "The Bottom Pub",
+      "time": 1584846000
     },
     {
       "id": "e10172b0-498c-46f1-97c0-c195343bdf16",
@@ -103,10 +175,22 @@
       "time": 1584846000
     },
     {
-      "id": "719e145a-8275-4426-a897-678130a420e2",
-      "artistId": "455b4676-b826-4ee2-94cb-3e868779c7e8",
-      "stage": "The Bottom Pub",
+      "id": "e9b8e52c-f883-44aa-ad53-77ffce401914",
+      "artistId": "085cd4f8-5a0a-4bc2-9174-0c900ab29712",
+      "stage": "The Yack Station",
       "time": 1584846000
+    },
+    {
+      "id": "368f2e89-54a3-40f8-872e-000123f9de7c",
+      "artistId": "af4f4845-afcd-4ce6-95d1-0bfb93813c17",
+      "stage": "The Courthouse",
+      "time": 1584846900
+    },
+    {
+      "id": "52ca562a-414e-4afc-9512-4f0d53c3c08e",
+      "artistId": "1317f725-5cad-4dfe-af2d-b93c1e7b219f",
+      "stage": "The St James Uniting Church",
+      "time": 1584847800
     },
     {
       "id": "db82d704-ccd9-41b3-af2a-e6ba488bbb65",
@@ -121,18 +205,6 @@
       "time": 1584847800
     },
     {
-      "id": "60e0dc1c-773d-437e-9ada-2dbfa856153c",
-      "artistId": "df1a6fbf-c851-4c91-8475-d45bd369b79c",
-      "stage": "The Public Hall",
-      "time": 1584849600
-    },
-    {
-      "id": "dd4b07a9-e271-4530-9a5b-b2e5b387c48b",
-      "artistId": "cce97a52-3b7b-40d2-9c68-4c3a685a8809",
-      "stage": "The Bottom Pub",
-      "time": 1584849600
-    },
-    {
       "id": "699f25f6-a851-4567-8c3d-d6d96808724a",
       "artistId": "7e5606b3-640f-44c2-8954-96c719eb4a0c",
       "stage": "The Star Hotel",
@@ -145,10 +217,64 @@
       "time": 1584849600
     },
     {
+      "id": "60e0dc1c-773d-437e-9ada-2dbfa856153c",
+      "artistId": "df1a6fbf-c851-4c91-8475-d45bd369b79c",
+      "stage": "The Public Hall",
+      "time": 1584849600
+    },
+    {
+      "id": "dd4b07a9-e271-4530-9a5b-b2e5b387c48b",
+      "artistId": "cce97a52-3b7b-40d2-9c68-4c3a685a8809",
+      "stage": "The Bottom Pub",
+      "time": 1584849600
+    },
+    {
+      "id": "e9ca83cf-3c69-462b-8978-342448e8f264",
+      "artistId": "47c8e988-1d71-4b2d-8b7a-e0b30549a716",
+      "stage": "The Star Hotel",
+      "time": 1584853200
+    },
+    {
+      "id": "aeca3e20-3e26-4733-b075-b828769e6fbf",
+      "artistId": "1dfe5157-d6b5-4dab-893c-31f073066b24",
+      "stage": "The Public Hall",
+      "time": 1584853200
+    },
+    {
       "id": "bd4e594c-4c07-4575-abc6-5af8898f81c2",
       "artistId": "10a5b86a-3388-4895-8416-598512c77da0",
       "stage": "The Bottom Pub",
       "time": 1584853200
+    },
+    {
+      "id": "4e52e14d-6173-4aa0-8b3d-a9f9fc9ac6fe",
+      "artistId": "4253fcb4-1f31-4e79-9ab5-e59475cff8c9",
+      "stage": "The Public Hall",
+      "time": 1584856800
+    },
+    {
+      "id": "7885e57c-a2a7-4a03-ac5b-fd2ccb88e3f4",
+      "artistId": "c0f06a99-d76b-4203-88e5-935c180c7c56",
+      "stage": "The Bottom Pub",
+      "time": 1584856800
+    },
+    {
+      "id": "e47f8811-43d0-45d0-9910-0a324f4c9940",
+      "artistId": "cb519aee-458b-41b0-9d1f-d883a86ec27c",
+      "stage": "The Star Hotel",
+      "time": 1584856800
+    },
+    {
+      "id": "e6301ffe-f389-4761-bd23-f6b002943e66",
+      "artistId": "9f63fd82-d684-4d24-a1a5-5fdb09d27a3b",
+      "stage": "The Marquee",
+      "time": 1584868500
+    },
+    {
+      "id": "972bfac2-91af-4536-bc2d-b0ab3b23a19f",
+      "artistId": "7bb77bd0-25e1-4f07-88e9-8adc01648bec",
+      "stage": "The Marquee",
+      "time": 1584880200
     }
   ]
 }
