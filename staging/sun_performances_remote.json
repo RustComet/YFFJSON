@@ -1,298 +1,89 @@
 {
   "performances": [
     {
-      "id": "a629b49b-95ae-4543-a68c-d043a0818f78",
-      "artistId": "67118364-196d-47b1-b673-882ac2d476cf",
-      "time": 1553376600,
-      "stage": "The Marquee"
+      "id": "4cf17b01-0440-4cd7-8910-0b5348abe9c1",
+      "artistId": "fd8dbaa2-5142-45c9-8642-ce20d34cd6cb",
+      "time": 1584870300
     },
     {
-      "id": "977d4458-1bb1-4de8-8f37-d4c887607bd4",
-      "artistId": "46ecf7be-c6f9-47c3-abb5-7429522806a5",
-      "time": 1553380200,
-      "stage": "The St James Uniting Church"
+      "id": "a110e04d-add4-4c37-b5af-542aff6cdfb6",
+      "artistId": "93c0ec86-5fda-4803-823d-ffe2bcff45e5",
+      "time": 1584871200
     },
     {
-      "id": "5a46f5d5-580b-4f84-b9a3-ca36009a5327",
-      "artistId": "24047976-fa9b-47fe-9a13-315e888f9b0c",
-      "time": 1553382000,
-      "stage": "The Clarence Room"
+      "id": "6addcbff-56dc-4e9b-be4f-5664cfffc518",
+      "artistId": "5caba96d-0f08-4f5b-97c0-944b6099b74e",
+      "time": 1584872100
     },
     {
-      "id": "fd398ebc-d9b3-42d3-8d19-d123c36e8202",
-      "artistId": "5adace65-8099-4bc0-bbbf-7e0c00d2f41d",
-      "time": 1553382000,
-      "stage": "The Star Hotel"
+      "id": "c5f0731f-0e5f-405f-ad6f-9989486d2bbe",
+      "artistId": "aa01a4c5-e21b-4f48-b87a-2cedbdab7d6d",
+      "time": 1584874800
     },
     {
-      "id": "5afa90aa-c7d8-40e4-aa6e-4f2ec596662a",
-      "artistId": "b51522ba-8f4b-4e83-bda1-bd921ba8fc02",
-      "time": 1553382000,
-      "stage": "The Marquee"
+      "id": "98b2ca5c-d93a-4b7e-aa06-1799376e56d8",
+      "artistId": "5061872b-5ce9-4720-9455-bb21ffe65def",
+      "time": 1584875700
     },
     {
-      "id": "56248437-2c61-42ef-a8cd-29977e3bbe91",
-      "artistId": "bb30cd46-0bb7-4c30-9e7a-4fad05e82f14",
-      "time": 1553382000,
-      "stage": "The Street Stage"
+      "id": "3f1e1533-e48e-455c-bffd-1dcc4fccf75b",
+      "artistId": "fd8dbaa2-5142-45c9-8642-ce20d34cd6cb",
+      "time": 1584878400
     },
     {
-      "id": "853b7cf5-f59f-4f4d-90f8-ed098d36bc74",
-      "artistId": "e7c32c74-08cb-420b-8b39-1d99ee64637c",
-      "time": 1553382900,
-      "stage": "The Courthouse"
+      "id": "a337479f-1232-49dc-b0d0-e4bee5ace247",
+      "artistId": "566ce776-6135-4faf-a2e1-fe8c9f950cb1",
+      "time": 1584880200
     },
     {
-      "id": "a71dabc8-e6c1-46db-b4e1-20656309d3d6",
-      "artistId": "2af3b658-f3df-4f0b-b06d-66799375647f",
-      "time": 1553383800,
-      "stage": "The St James Uniting Church"
+      "id": "34d385b0-0cc9-4d4d-b18a-dbfad7fce827",
+      "artistId": "c8a8c9fe-c85b-4da9-b92b-f804074010c6",
+      "time": 1584880200
     },
     {
-      "id": "5b1768bd-daa3-4879-9f5f-8b153e66e3ed",
-      "artistId": "00dc7979-a126-4f84-8127-6814ecef890c",
-      "time": 1553383800,
-      "stage": "Grace's Place"
+      "id": "d088bd73-a35a-4e53-8e2f-d9c11d1fd181",
+      "artistId": "df22d44f-3458-4ac3-b05e-15ae44c0cd76",
+      "time": 1584882000
     },
     {
-      "id": "3794f5eb-5ef2-4c78-a21c-8ba199206802",
-      "artistId": "16305237-96d4-4fb7-80d9-8f2901885062",
-      "time": 1553383800,
-      "stage": "The Marquee"
+      "id": "d24135b8-a834-4643-a984-5539b1be03f1",
+      "artistId": "b602381f-4dd3-40c7-8384-dc37fd03d053",
+      "time": 1584882000
     },
     {
-      "id": "f308aecd-4303-45db-b047-738c39971c2a",
-      "artistId": "151cbd98-9738-4de1-a83f-16e98317565f",
-      "time": 1553385600,
-      "stage": "The Clarence Room"
+      "id": "b8a7c8d3-2222-400a-975b-d8e41b4cf519",
+      "artistId": "fdb00d03-5def-4033-b5a2-f6c43e021fae",
+      "time": 1584882000
     },
     {
-      "id": "2df7f1b0-ee05-413b-8b09-9aabe11c0871",
-      "artistId": "12c4f493-68d0-4cf4-bc90-c80fee3d1f20",
-      "time": 1553385600,
-      "stage": "The Star Hotel"
+      "id": "69d426c2-97ac-4f07-a624-0abb60749c5e",
+      "artistId": "4408b124-4267-4b98-a321-89c021c3cebd",
+      "time": 1584883800
     },
     {
-      "id": "33f91422-46be-4e03-ab6f-138c4b1a8022",
-      "artistId": "2949d1ce-6c91-4bd9-bb0c-2cc5f25aece4",
-      "time": 1553386500,
-      "stage": "The Courthouse"
+      "id": "719e145a-8275-4426-a897-678130a420e2",
+      "artistId": "455b4676-b826-4ee2-94cb-3e868779c7e8",
+      "time": 1584885600
     },
     {
-      "id": "6e287919-f67f-4b1f-ac68-df37c5e4a084",
-      "artistId": "3bc4b994-6824-49c8-86f3-b2e009433c6b",
-      "time": 1553387400,
-      "stage": "The Marquee"
+      "id": "60e0dc1c-773d-437e-9ada-2dbfa856153c",
+      "artistId": "df1a6fbf-c851-4c91-8475-d45bd369b79c",
+      "time": 1584889200
     },
     {
-      "id": "020da727-cc2e-4c24-9f3b-77aa72c895e7",
-      "artistId": "579dbca2-dc47-47da-a4a5-5a1a5cfd2fb4",
-      "time": 1553387400,
-      "stage": "Grace's Place"
+      "id": "8ae24cbc-2534-4ef3-a907-3599b058892c",
+      "artistId": "c8a8c9fe-c85b-4da9-b92b-f804074010c6",
+      "time": 1584889200
     },
     {
-      "id": "bafe6a52-dce6-46c9-82ab-c010d7fa7e65",
-      "artistId": "55c604cb-de5e-48d8-9197-3127289826cb",
-      "time": 1553387400,
-      "stage": "The St James Uniting Church"
+      "id": "699f25f6-a851-4567-8c3d-d6d96808724a",
+      "artistId": "7e5606b3-640f-44c2-8954-96c719eb4a0c",
+      "time": 1584889200
     },
     {
-      "id": "c10fc0f2-bad6-4a17-addd-470ae17bc247",
-      "artistId": "2d8b5a4c-238e-4ff7-b7ac-1db4e2e825c4",
-      "time": 1553389200,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "7e62cde3-d4d4-4d6a-9eaa-e348a1be55f9",
-      "artistId": "a9ceccc7-c546-4a0d-9d2b-e9ec582c776b",
-      "time": 1553389200,
-      "stage": "The Clarence Room"
-    },
-    {
-      "id": "4e62303c-976e-456f-90a8-592eae5d7b62",
-      "artistId": "3077c2ad-15d8-4887-bbb3-42952f74d008",
-      "time": 1553389200,
-      "stage": "The Public Hall"
-    },
-    {
-      "id": "97608152-42b1-4f42-8e8f-f715d4d1c5f3",
-      "artistId": "f2046c84-12b4-4744-a0dc-b76249607982",
-      "time": 1553390100,
-      "stage": "The Courthouse"
-    },
-    {
-      "id": "41c76382-4564-4a57-bf5d-364687b99bb2",
-      "artistId": "345886f4-de16-4741-936c-2c57c5c4a41b",
-      "time": 1553391000,
-      "stage": "The Marquee"
-    },
-    {
-      "id": "3271f672-b7ce-47c0-9050-02fbd4a7e703",
-      "artistId": "dbd4d240-4274-47f6-8bf9-f5aa312b3d9d",
-      "time": 1553391000,
-      "stage": "The St James Uniting Church"
-    },
-    {
-      "id": "df4631a3-beba-409d-a04d-4db12e1a730c",
-      "artistId": "1c611cd2-ab05-42e3-a87e-3b287f5bccd4",
-      "time": 1553391000,
-      "stage": "Grace's Place"
-    },
-    {
-      "id": "94c2094d-4538-459d-92f5-22332a10df39",
-      "artistId": "d7e97b1b-b26e-4a03-ad0b-c9aefd98a2ee",
-      "time": 1553392800,
-      "stage": "The Clarence Room"
-    },
-    {
-      "id": "c8986eb2-c300-42e4-8cee-498cc74fa6ad",
-      "artistId": "845f25a0-adf7-46bc-88d6-17d12c03a920",
-      "time": 1553392800,
-      "stage": "The Primary School"
-    },
-    {
-      "id": "aafc13a8-505a-4038-b6b3-6cfa4d634e6c",
-      "artistId": "0e45d33c-09e1-48fa-89f7-77971f3bb228",
-      "time": 1553392800,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "d1a8cbaf-508a-4c21-8ace-68fac45a67bf",
-      "artistId": "19b36998-5e43-4cc5-88b4-13387a680f8c",
-      "time": 1553392800,
-      "stage": "The Public Hall"
-    },
-    {
-      "id": "9afa0963-ac6d-46b7-a13b-abae2a5dcd10",
-      "artistId": "c49543e6-8944-4f08-8c0c-18d535ab4f6e",
-      "time": 1553393700,
-      "stage": "The Courthouse"
-    },
-    {
-      "id": "16ffdd02-5fe5-426f-8c44-5117f76708ae",
-      "artistId": "2af3b658-f3df-4f0b-b06d-66799375647f",
-      "time": 1553394600,
-      "stage": "Grace's Place"
-    },
-    {
-      "id": "15c4e423-862a-4d4d-9497-36930513312c",
-      "artistId": "68b25a97-5aa6-4460-8a42-38643ca9783c",
-      "time": 1553394600,
-      "stage": "The St James Uniting Church"
-    },
-    {
-      "id": "121f0341-117c-4492-ae50-95dcd57c7f84",
-      "artistId": "52d8e612-ffff-4af8-b60c-e65f6d54bb0c",
-      "time": 1553394600,
-      "stage": "The Marquee"
-    },
-    {
-      "id": "1e8b6729-d682-4b20-bdce-dbb78122d567",
-      "artistId": "39e2de19-a28d-405f-8642-075fce6ac52f",
-      "time": 1553396400,
-      "stage": "The Clarence Room"
-    },
-    {
-      "id": "e5108718-302c-42a1-a0ca-e65f34eb9dc2",
-      "artistId": "6de2a3d6-cf6b-49c4-a679-32961be5575c",
-      "time": 1553396400,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "a6a85779-a657-4d1a-ae8b-6b9dd38404e1",
-      "artistId": "e7fe5d33-d2d8-43d3-9b42-54336a859f93",
-      "time": 1553396400,
-      "stage": "The Public Hall"
-    },
-    {
-      "id": "15f259c5-409b-4d42-9cca-6d90ae6e0f2e",
-      "artistId": "24047976-fa9b-47fe-9a13-315e888f9b0c",
-      "time": 1553397300,
-      "stage": "The Courthouse"
-    },
-    {
-      "id": "105e0af2-edbd-466b-8401-97e2cc7beb09",
-      "artistId": "c7bec4f7-85cc-4aeb-b62e-ce68c5c33ecb",
-      "time": 1553397300,
-      "stage": "The Courthouse"
-    },
-    {
-      "id": "ef8f87b4-c8e2-4649-9aa6-6a6cfe9a584d",
-      "artistId": "00dc7979-a126-4f84-8127-6814ecef890c",
-      "time": 1553398200,
-      "stage": "Grace's Place"
-    },
-    {
-      "id": "2680490c-74fc-4369-8bbf-f0a6f51d73f2",
-      "artistId": "0dc32d6d-3536-4e5f-aeb0-d25fcc48f78e",
-      "time": 1553398200,
-      "stage": "The St James Uniting Church"
-    },
-    {
-      "id": "82180a8a-9dd5-4c1b-829d-5fb7fd00c3fa",
-      "artistId": "76749d9d-68fa-4e4f-8bcc-0bae84661e2e",
-      "time": 1553398200,
-      "stage": "The Marquee"
-    },
-    {
-      "id": "5494db02-da1d-4ee7-9f17-ecf753ff018e",
-      "artistId": "878d0741-2038-49cc-9295-6a1e23aaa576",
-      "time": 1553400000,
-      "stage": "The Public Hall"
-    },
-    {
-      "id": "63768233-baec-4a72-9d01-8248fbc99af0",
-      "artistId": "5adace65-8099-4bc0-bbbf-7e0c00d2f41d",
-      "time": 1553400000,
-      "stage": "The Clarence Room"
-    },
-    {
-      "id": "9da06104-dd85-445d-bfe4-b25b1ad48e1c",
-      "artistId": "12c4f493-68d0-4cf4-bc90-c80fee3d1f20",
-      "time": 1553400000,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "39df8141-2fdd-4dc1-a7f2-84fdf8c70644",
-      "artistId": "51df12b6-6b5c-428d-8613-248792ff2046",
-      "time": 1553400900,
-      "stage": "The Courthouse"
-    },
-    {
-      "id": "7f30f5ad-bc8b-42d4-b00d-30df13cd6831",
-      "artistId": "e0000942-ceec-4163-996f-c5d7d0ffda9e",
-      "time": 1553401800,
-      "stage": "The Marquee"
-    },
-    {
-      "id": "6ff613d8-4e43-4314-b767-6601677fc95c",
-      "artistId": "43687517-7eca-4243-bd5b-aeeb78875a17",
-      "time": 1553403600,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "1fb09298-4a5a-465c-a134-9f7a1a109728",
-      "artistId": "32f7773b-74a6-4f8e-b4f1-81328041446a",
-      "time": 1553403600,
-      "stage": "The Public Hall"
-    },
-    {
-      "id": "968ebd68-96ce-4566-9a0b-3b47a5b5f0f1",
-      "artistId": "563b5455-3780-4a11-832f-ab4f399d4390",
-      "time": 1553407200,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "a44a5aa5-1b6f-4c2f-a147-861c19e03dd0",
-      "artistId": "cffb29a2-18f8-466a-a82d-a462aa184104",
-      "time": 1553407200,
-      "stage": "The Star Hotel"
-    },
-    {
-      "id": "8c0a4aae-99ac-4ca2-915c-d420030e5eb9",
-      "artistId": "d203330e-f045-492f-a066-e48d454ef1e6",
-      "time": 1553410800,
-      "stage": "The Star Hotel"
+      "id": "bd4e594c-4c07-4575-abc6-5af8898f81c2",
+      "artistId": "10a5b86a-3388-4895-8416-598512c77da0",
+      "time": 1584892800
     }
   ]
 }
