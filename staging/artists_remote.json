@@ -491,20 +491,6 @@
       "instagram": ""
     },
     {
-      "id": "1a088a6d-89bf-4672-abcf-b78426489c98",
-      "name": "Steve Wilson - Concertina Man",
-      "sort_name": "Steve Wilson - Concertina Man",
-      "summary": "Steve Wilson  – Concertina Man is one of the finest exponents in Australia of song accompaniment with concertina. His style is refreshing and he sings an eclectic mix of trad and contemporary folk, pop and original material including political satire aided by dancing puppets Pauline, Scomo, Malcolm and Tony.",
-      "image_name": "Steve Wilson",
-      "website": "http://www.concertinaman.net/",
-      "youtube": "https://www.youtube.com/channel/UCO39EOc_UVf728cjv8zl-9Q/videos",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "",
-      "twitter": "",
-      "instagram": ""
-    },
-    {
       "id": "8488148a-9909-417c-bb50-d724ab29e1d9",
       "name": "Tanya Sparke",
       "sort_name": "Tanya Sparke",
@@ -557,6 +543,20 @@
       "itunes": "",
       "soundcloud": "",
       "facebook": "https://www.facebook.com/themaesband/",
+      "twitter": "",
+      "instagram": ""
+    },
+    {
+      "id": "1a088a6d-89bf-4672-abcf-b78426489c98",
+      "name": "Steve Wilson - Concertina Man",
+      "sort_name": "Steve Wilson - Concertina Man",
+      "summary": "Steve Wilson  – Concertina Man is one of the finest exponents in Australia of song accompaniment with concertina. His style is refreshing and he sings an eclectic mix of trad and contemporary folk, pop and original material including political satire aided by dancing puppets Pauline, Scomo, Malcolm and Tony.",
+      "image_name": "SteveWilson",
+      "website": "http://www.concertinaman.net/",
+      "youtube": "https://www.youtube.com/channel/UCO39EOc_UVf728cjv8zl-9Q/videos",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
       "twitter": "",
       "instagram": ""
     },
@@ -774,7 +774,7 @@
       "id": "24a36bed-ccaf-4122-9bcf-20e383933a0f",
       "name": "Tom Yates",
       "sort_name": "Tom Yates",
-      "summary": "A veteran of the folk scene and a resident of Yackandandah, Tom draws from a diverse repertoire of classic and original material......”I’ve paid my dues and walked the line ‘tween the truth and what was not, guitar and harmonica out there on the street, last car in the parking lot...”",
+      "summary": "A veteran of the folk scene and a resident of Yackandandah, Tom draws from a diverse repertoire of classic and original material......”I’ve paid my dues and walked the line ‘tween the truth and what was not, guitar and harmonica out there on the street, last car in the parking lot...”",
       "image_name": "TomYates",
       "website": "",
       "youtube": "",
