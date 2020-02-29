@@ -1,27 +1,27 @@
 {
   "performances": [
     {
-      "id": "562c67c6-f725-45b7-962d-242ed820308b",
-      "artistId": "24a36bed-ccaf-4122-9bcf-20e383933a0f",
-      "stage": "The Bottom Pub",
-      "time": 1584680400
-    },
-    {
       "id": "71451d63-bae9-4585-93e9-1efcd4eeb423",
       "artistId": "93c0ec86-5fda-4803-823d-ffe2bcff45e5",
       "stage": "The Star Hotel",
       "time": 1584680400
     },
     {
-      "id": "0a7a14d5-d226-403d-86f9-d777831ba7a6",
-      "artistId": "5caba96d-0f08-4f5b-97c0-944b6099b74e",
+      "id": "562c67c6-f725-45b7-962d-242ed820308b",
+      "artistId": "24a36bed-ccaf-4122-9bcf-20e383933a0f",
       "stage": "The Bottom Pub",
-      "time": 1584684000
+      "time": 1584680400
     },
     {
       "id": "8f087f2c-ab71-4cec-875e-11e9640155a7",
       "artistId": "10a5b86a-3388-4895-8416-598512c77da0",
       "stage": "The Star Hotel",
+      "time": 1584684000
+    },
+    {
+      "id": "0a7a14d5-d226-403d-86f9-d777831ba7a6",
+      "artistId": "5caba96d-0f08-4f5b-97c0-944b6099b74e",
+      "stage": "The Bottom Pub",
       "time": 1584684000
     },
     {
@@ -49,15 +49,15 @@
       "time": 1584690300
     },
     {
-      "id": "40ce8edc-a83b-421b-9a17-5d1a47bae3a6",
-      "artistId": "fbc6aacb-48e0-4381-85dd-09422f6a9c9d",
-      "stage": "The Star Hotel",
-      "time": 1584691800
-    },
-    {
       "id": "8ba206a0-c67a-49a2-ae07-55eb0bfb9eec",
       "artistId": "8c588d3b-769a-486c-96a9-adba7bc13a39",
       "stage": "The Bottom Pub",
+      "time": 1584691800
+    },
+    {
+      "id": "40ce8edc-a83b-421b-9a17-5d1a47bae3a6",
+      "artistId": "fbc6aacb-48e0-4381-85dd-09422f6a9c9d",
+      "stage": "The Star Hotel",
       "time": 1584691800
     },
     {
@@ -83,6 +83,12 @@
       "artistId": "b5696faa-da68-4ab0-be94-3695e3f38683",
       "stage": "The Bottom Pub",
       "time": 1584695400
+    },
+    {
+      "id": "140ffa81-11a4-4d9b-9d39-621f867916a7",
+      "artistId": "83ec352c-b7b0-44b3-b69c-307539feccee",
+      "stage": "The Public Hall",
+      "time": 1584696600
     },
     {
       "id": "82062ee4-8180-44d4-b297-312fd2e23e22",
@@ -142,7 +148,7 @@
       "id": "ef0c4e17-9f88-4b78-b300-14437fe60fa1",
       "artistId": "8d8c8a7c-787d-4c93-ac17-3a6a12daf1ff",
       "stage": "The Bottom Pub",
-      "time": 1584705600
+      "time": 1584706200
     },
     {
       "id": "93fee0b7-a365-44e8-bc45-85f2398a537f",
