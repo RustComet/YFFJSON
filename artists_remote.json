@@ -18,6 +18,23 @@
       "updated_at": "2023-01-04T17:18:33.433+11:00"
     },
     {
+      "id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
+      "name": "The Beez",
+      "sort_name": "Beez",
+      "summary": "The Beez yodellin', thigh slappin', lederhosen wettin' dance fest of German flavoured music featuring Deta C. Rayner (accordion, vocals) and Rob Rayner (guitar, vocals). Thrill to comic classics from Rammstein to Kraftwerk; tear off that dirndl and shake a Teutonic Tailfeather to Nena's 99 Red Balloons, jive to Germafied Oz Rock Classics from Oils to Icehouse but, most of all, be entertained- that's an order!",
+      "image_name": "TheBeez",
+      "website": "www.thebeez.de",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "www.thebeez.de",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-01-05T11:16:29.932+11:00",
+      "updated_at": "2023-01-05T11:16:29.932+11:00"
+    },
+    {
       "id": "dd35ec5c-6065-4522-9350-f8bfbe260393",
       "name": "Blue Moon Marquee",
       "sort_name": "Blue Moon Marquee",
@@ -260,7 +277,7 @@
       "name": "Gordon Mullen",
       "sort_name": "Gordon Mullen",
       "summary": "Gordon Mullen delivers a masterclass on the ukulele, weaving intricate pickings through songs by Bruce Cockburn, Muse, Midnight Oil and Nordic classics. Coming off a standing ovation at his previous Festival appearance, Mullen will bookend these artists on keyboard with originals including a call to action on climate change, refugee care and the tender recognition of the outback woman who loses all to drought and disease. Not to be missed. ",
-      "image_name": "Gordon Mullen",
+      "image_name": "GordonMullen",
       "website": "",
       "youtube": "",
       "itunes": "",
@@ -270,14 +287,14 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:48:25.488+11:00",
-      "updated_at": "2023-01-04T17:48:25.488+11:00"
+      "updated_at": "2023-01-06T12:09:55.959+11:00"
     },
     {
       "id": "ead1ecf2-09a3-4028-9432-3608efac274a",
       "name": "Great Aunt",
       "sort_name": "Great Aunt",
       "summary": "There's a buzz about Great Aunt - theirs is a joyous and eclectic approach to making music. Together, songwriter/instrumentalists Megan Bird and Chelsea Allen draw inspiration from the traditions of old-time, bluegrass and gospel music, and their diverse backgrounds in punk and jazz, to craft modern musical stories. The duo has delighted audiences at some of Australia’s finest music and arts festivals with tales of joy and grief, whiskey and wine, gratitude and purpose-seeking.",
-      "image_name": "Great Aunt",
+      "image_name": "GreatAunt",
       "website": "www.greatauntmusic.com",
       "youtube": "",
       "itunes": "",
@@ -287,14 +304,14 @@
       "instagram": "https://www.instagram.com/greatauntmusic/",
       "spotify": "",
       "created_at": "2023-01-04T17:54:05.089+11:00",
-      "updated_at": "2023-01-04T17:54:05.089+11:00"
+      "updated_at": "2023-01-06T12:11:59.508+11:00"
     },
     {
       "id": "d3ec4f72-b8a1-4804-946b-ccdc7699091d",
       "name": "Gretta Ziller",
       "sort_name": "Gretta Ziller",
       "summary": "Gretta Ziller’s sound may bear the hallmarks of classic Americana music but its essence is far more diverse. The Melbourne songstress’ roots span jazz, blues, rock, pop and classical. Gretta’s eclectic musical upbringing, is reflected in the varied tracks of her debut full-length album Queen of Boomtown.",
-      "image_name": "Gretta Ziller",
+      "image_name": "GrettaZiller",
       "website": "http://www.grettaziller.com",
       "youtube": "",
       "itunes": "https://music.apple.com/au/artist/gretta-ziller/348673625",
@@ -304,7 +321,7 @@
       "instagram": "https://www.instagram.com/",
       "spotify": "https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98?dl_branch=1u0026nd=1",
       "created_at": "2023-01-04T17:51:04.530+11:00",
-      "updated_at": "2023-01-04T17:51:04.530+11:00"
+      "updated_at": "2023-01-06T12:12:05.974+11:00"
     },
     {
       "id": "61cca078-d1c9-47e4-8bcf-6b61aa712813",
@@ -324,28 +341,11 @@
       "updated_at": "2023-01-04T17:56:35.598+11:00"
     },
     {
-      "id": "ed88bf85-61ac-4d13-9d29-3e3823d874b3",
-      "name": "jayda jean",
-      "sort_name": "jayda jean",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "jaydajean",
-      "website": "https://www.pozible.com/profile/jayda-jean-1.  / WW jayda application - https://www.woodysworld.com.au/jaydasapplication WW Audio - https://www.woodysworld.com.au/jaydasaudio",
-      "youtube": "https://www.youtube.com/watch?v=ur0ONlZxrXw",
-      "itunes": null,
-      "soundcloud": null,
-      "facebook": "https://www.facebook.com/jaydajeanmusic",
-      "twitter": null,
-      "instagram": null,
-      "spotify": null,
-      "created_at": "2023-01-05T12:03:32.670+11:00",
-      "updated_at": "2023-01-05T12:03:32.670+11:00"
-    },
-    {
       "id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
       "name": "Jayda Jean",
       "sort_name": "Jayda Jean",
       "summary": "Jayda Jean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
-      "image_name": "Jayda Jean",
+      "image_name": "JaydaJean",
       "website": "",
       "youtube": "https://www.youtube.com/watch?v=ur0ONlZxrXw",
       "itunes": "",
@@ -355,7 +355,7 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:59:40.936+11:00",
-      "updated_at": "2023-01-04T17:59:40.936+11:00"
+      "updated_at": "2023-01-06T12:09:50.276+11:00"
     },
     {
       "id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
@@ -375,38 +375,21 @@
       "updated_at": "2023-01-04T18:01:44.374+11:00"
     },
     {
-      "id": "b55730e6-662d-4094-b290-688d1549204e",
-      "name": "Julian James u0026 The Moonshine State",
-      "sort_name": "Julian James and the Moonshine State",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "JulianJames",
-      "website": "",
-      "youtube": "https://www.youtube.com/channel/UCTRk2FHb5xn8OVexfqaHbgg",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/julianjamesartist",
-      "twitter": "",
-      "instagram": "",
-      "spotify": "https://open.spotify.com/artist/2GZaokS2ngNy6dNiWNWNH4?dl_branch=1",
-      "created_at": "2023-01-05T11:05:06.831+11:00",
-      "updated_at": "2023-01-05T11:05:06.831+11:00"
-    },
-    {
       "id": "48f73412-53eb-43ca-9a0d-882e790d4f46",
       "name": "Julian James and the Moonshine State",
       "sort_name": "Julian James and the Moonshine State",
       "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "JulianJamesandtheMoonshineState",
+      "image_name": "JulianJames",
       "website": "www.julianjames.com.au",
       "youtube": "https://www.youtube.com/channel/julianjamesartist",
-      "itunes": null,
-      "soundcloud": null,
+      "itunes": "",
+      "soundcloud": "",
       "facebook": "www.facebook.com/julianjamesartist",
-      "twitter": null,
-      "instagram": null,
-      "spotify": null,
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
       "created_at": "2023-01-05T12:03:32.673+11:00",
-      "updated_at": "2023-01-05T12:03:32.673+11:00"
+      "updated_at": "2023-01-06T12:11:27.853+11:00"
     },
     {
       "id": "290d7f05-a286-413e-bf71-ff798aa32a90",
@@ -492,23 +475,6 @@
       "spotify": "",
       "created_at": "2023-01-05T11:15:03.267+11:00",
       "updated_at": "2023-01-05T11:15:03.267+11:00"
-    },
-    {
-      "id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
-      "name": "The Beez",
-      "sort_name": "Beez",
-      "summary": "The Beez yodellin', thigh slappin', lederhosen wettin' dance fest of German flavoured music featuring Deta C. Rayner (accordion, vocals) and Rob Rayner (guitar, vocals). Thrill to comic classics from Rammstein to Kraftwerk; tear off that dirndl and shake a Teutonic Tailfeather to Nena's 99 Red Balloons, jive to Germafied Oz Rock Classics from Oils to Icehouse but, most of all, be entertained- that's an order!",
-      "image_name": "TheBeez",
-      "website": "www.thebeez.de",
-      "youtube": "",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "www.thebeez.de",
-      "twitter": "",
-      "instagram": "",
-      "spotify": "",
-      "created_at": "2023-01-05T11:16:29.932+11:00",
-      "updated_at": "2023-01-05T11:16:29.932+11:00"
     },
     {
       "id": "c7448b2e-8690-42cb-b533-cd085abb135c",
@@ -648,20 +614,20 @@
     },
     {
       "id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
-      "name": "Tim McMillan u0026 Rachel Snow",
-      "sort_name": "Tim McMillan u0026 Rachel Snow",
+      "name": "Tim McMillan and Rachel Snow",
+      "sort_name": "Tim McMillan and Rachel Snow",
       "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "TimMcMillanRachelSnow",
+      "image_name": "TimMcMillan",
       "website": "www.timmcmillanrachelsnow.com",
       "youtube": "https://www.youtube.com/watch?v=ZJDq4c5RA3s",
-      "itunes": null,
-      "soundcloud": null,
+      "itunes": "",
+      "soundcloud": "",
       "facebook": "www.facebook.com/timmcmillan",
-      "twitter": null,
-      "instagram": null,
-      "spotify": null,
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
       "created_at": "2023-01-05T12:03:32.689+11:00",
-      "updated_at": "2023-01-05T12:03:32.689+11:00"
+      "updated_at": "2023-01-06T12:11:45.355+11:00"
     },
     {
       "id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
