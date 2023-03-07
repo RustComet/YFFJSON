@@ -52,6 +52,23 @@
       "updated_at": "2023-02-13T14:38:46.373+11:00"
     },
     {
+      "id": "c49cbb44-5ed5-4a1c-bc73-c019ff0a9928",
+      "name": "Bad Ibis",
+      "sort_name": "Bad Ibis",
+      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "image_name": "BadIbis",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-07T20:45:24.897+11:00",
+      "updated_at": "2023-03-07T20:45:24.897+11:00"
+    },
+    {
       "id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
       "name": "The Beez",
       "sort_name": "Beez",
@@ -84,40 +101,6 @@
       "spotify": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1?si=HNosJKLsQV2TSikux4eERw",
       "created_at": "2023-01-04T17:19:59.823+11:00",
       "updated_at": "2023-01-10T09:59:25.801+11:00"
-    },
-    {
-      "id": "50edbac6-be84-488a-b7c8-22e302ca4e66",
-      "name": "Bromham",
-      "sort_name": "Bromham",
-      "summary": "Bromham are an eclectic, sprawling folk band from Adelaide, Australia that weave their broad range of instruments into one raucous yet harmonious sound. The big band exudes joy with music and stories that celebrate family, community, and equality and a live show that features heartfelt storytelling, soaring group vocals and members roaming the crowd.  This musical community travel to the Yackandanah Folk Festival after overwhelming receptions at both the National and Kangaroo Valley folk festivals in 2022 where people of all ages fell in love with their them",
-      "image_name": "Bromham",
-      "website": "",
-      "youtube": "",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/bromhammusic/",
-      "twitter": "",
-      "instagram": "",
-      "spotify": "https://open.spotify.com/artist/6iSl1lOGjiegFNwjBwK6d5",
-      "created_at": "2023-01-04T17:21:53.223+11:00",
-      "updated_at": "2023-01-04T17:21:53.223+11:00"
-    },
-    {
-      "id": "26eb0a00-8b56-4d7a-8d7a-3092f1eb32f2",
-      "name": "Brydee Rose",
-      "sort_name": "Brydee Rose",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "BrydeeRose",
-      "website": "",
-      "youtube": "",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/events/588773646246984/?source=3\u0026action_history=null\u0026paipv=0\u0026eav=AfZ_KiVyJLGn5fGLyMe-fcQ3xdifTeki2RAlZKDKAMQBzjlSbbYsVJwOLPIVNAvHujc\u0026_rdr",
-      "twitter": "",
-      "instagram": "",
-      "spotify": "",
-      "created_at": "2023-01-04T17:24:17.538+11:00",
-      "updated_at": "2023-01-04T17:37:00.263+11:00"
     },
     {
       "id": "3dc0f7bc-6963-4165-9983-721a86d386a8",
@@ -169,23 +152,6 @@
       "spotify": "https://open.spotify.com/artist/1C6ndffV7VCL47YkvqrIva",
       "created_at": "2023-01-04T17:27:12.615+11:00",
       "updated_at": "2023-01-04T17:27:12.615+11:00"
-    },
-    {
-      "id": "04954c63-44d7-47c8-97d2-9502342c23f3",
-      "name": "Corn Nut Creek",
-      "sort_name": "Corn Nut Creek",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "CornNutCreek",
-      "website": "https://www.cornnutcreek.com/",
-      "youtube": "",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/cornnutcreek/",
-      "twitter": "https://twitter.com/CreekNut",
-      "instagram": "https://www.instagram.com/cornnutcreek/",
-      "spotify": "",
-      "created_at": "2023-01-04T17:28:56.437+11:00",
-      "updated_at": "2023-01-04T17:28:56.437+11:00"
     },
     {
       "id": "681a35a9-58ad-4fc7-bda8-2e96378e5e8c",
@@ -393,8 +359,8 @@
     },
     {
       "id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
-      "name": "Jayda Jean",
-      "sort_name": "Jayda Jean",
+      "name": "Jayda Dean",
+      "sort_name": "Jayda Dean",
       "summary": "Jayda Jean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
       "image_name": "JaydaJean",
       "website": "",
@@ -447,7 +413,7 @@
       "name": "Kevin Albert",
       "sort_name": "Kevin Albert",
       "summary": "Kevin is a passionate singer songwriter who has been working on his craft for over many years. Kevin has recently recorded an EP of songs that are topical including Climate change - 'Ode to Mother Earth'; First Nation Reconciliation - 'The Tide Has Changed'. Others tell stories of 'Small Country Towns'; 'Seasons' and most recent song about our ANZACs",
-      "image_name": "Kevin Albert",
+      "image_name": "KevinAlbert",
       "website": "",
       "youtube": "",
       "itunes": "",
@@ -457,7 +423,7 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-02-13T14:48:48.209+11:00",
-      "updated_at": "2023-02-13T14:48:48.209+11:00"
+      "updated_at": "2023-02-13T16:11:18.667+11:00"
     },
     {
       "id": "290d7f05-a286-413e-bf71-ff798aa32a90",
@@ -560,6 +526,23 @@
       "spotify": "",
       "created_at": "2023-02-13T14:51:04.964+11:00",
       "updated_at": "2023-02-13T14:51:04.964+11:00"
+    },
+    {
+      "id": "f6490f8f-053e-4c2e-a86e-0aad55b3fc69",
+      "name": "Spike \u0026 The Whisper",
+      "sort_name": "SpikeAndTheWhisper",
+      "summary": "Spike \u0026 The Whisper is simultaneously a solo act and a 13 piece extravaganza. Yackandandah local David ‘Postie’ Norman has been entertaining crowds with his unique sound for nearly 40 years.\n\nHe plays and records everything you hear on stage, giving a unique twist his mix of pub classics and original songs, all tied together with his unique banter and local insights.\n\nWith a set time spanning well into the Friday night, he’s sure to get the crowd up on the dance floor, an act not to be missed!",
+      "image_name": "Postie",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/MSQTAmedia",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-07T20:42:24.786+11:00",
+      "updated_at": "2023-03-07T20:42:24.786+11:00"
     },
     {
       "id": "c7448b2e-8690-42cb-b533-cd085abb135c",
@@ -730,23 +713,6 @@
       "spotify": "https://open.spotify.com/artist/6z6qNMqMCDrUrtKYZEjg1y",
       "created_at": "2023-01-05T12:03:32.690+11:00",
       "updated_at": "2023-01-31T15:26:30.514+11:00"
-    },
-    {
-      "id": "6d188281-56a7-48c4-b9de-8c2d2b2d5e98",
-      "name": "Tom Richardson",
-      "sort_name": "Tom Richardson",
-      "summary": "Celebrating a decade as a full-time independent artist, Tom Richardson might just be your next 'over-life' success story. \n\nHaving shared songs and stories at almost every festival in his homeland Australia, his passport shows memories of musical collaborations with Native American poets, Indian Kirtan masters, Fijian highland village choirs and indigenous Australian icons.\n\nIt’s a musical odyssey that includes regular tours around Australia, North America, Asia and Europe.",
-      "image_name": "TomRichardson",
-      "website": "https://www.tomrichardson.com.au/",
-      "youtube": "https://www.youtube.com/channel/UC6T7S3ARO8YGuHP8n5AWH8Q",
-      "itunes": "https://music.apple.com/au/artist/tom-richardson/273020036",
-      "soundcloud": "https://soundcloud.com/tomrichardsonmusic",
-      "facebook": "",
-      "twitter": "",
-      "instagram": "https://www.instagram.com/tomrichardsonmusic/",
-      "spotify": "https://open.spotify.com/user/v806wsbkgtn6afv4cy6n9fexl",
-      "created_at": "2023-01-05T12:03:32.692+11:00",
-      "updated_at": "2023-01-10T10:14:51.758+11:00"
     },
     {
       "id": "66a1a813-330c-4e77-ba35-e28ba40eee64",
