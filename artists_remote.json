@@ -188,6 +188,23 @@
       "updated_at": "2023-01-31T15:25:19.177+11:00"
     },
     {
+      "id": "8eb7991b-7133-4248-9534-f3636f6984cd",
+      "name": "Dave Wright \u0026 the Midnight Ramblers",
+      "sort_name": "Dave Wright",
+      "summary": "Formed in 2017, The Midnight Ramblers are Dave’s side project and satisfy his love of bluegrass, folk, country, and americana. Featuring Midnight Electric members Rob Barber and Tim Cavanagh, plus Connor Ross- Hicks, the band delve deep into Dave’s vast catalogue and re-imagine some of his most popular songs into down home country and bluegrass stompers.",
+      "image_name": "DaveWright",
+      "website": "https://davewrightthemidnightramblers.bandcamp.com/",
+      "youtube": "https://youtu.be/JNRowUcgvAA",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/DWTME/",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-09T18:01:46.861+11:00",
+      "updated_at": "2023-03-09T18:01:46.861+11:00"
+    },
+    {
       "id": "4b07b759-e094-4171-9d39-0c47145d442a",
       "name": "Dean Haitani",
       "sort_name": "Dean Haitani",
@@ -203,6 +220,23 @@
       "spotify": "",
       "created_at": "2023-01-04T17:41:22.071+11:00",
       "updated_at": "2023-01-04T17:41:22.071+11:00"
+    },
+    {
+      "id": "2f2cdf4b-9bb5-44b4-81a8-6722d6b63618",
+      "name": "Earth Hour",
+      "sort_name": "Earth Hour",
+      "summary": "Join us again for Earth Hour at the Public Hall. Once the lights will go out you will be treated to 10 surprise acts, completely acoustic, in the dark.",
+      "image_name": "EarthHour",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-09T18:23:28.024+11:00",
+      "updated_at": "2023-03-09T18:23:28.024+11:00"
     },
     {
       "id": "577161f4-4974-4121-8ff5-900744d89d41",
@@ -259,7 +293,7 @@
       "id": "e82c740f-a874-4bfa-a66d-bdf89de48afc",
       "name": "Fred Smith",
       "sort_name": "Fred Smith",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "“Fred Smith is simply the best folk/country musician working in this country. Beyond writing some of the finest songs about Australians at war, he has created a repertoire that is wry, literate, witty, powerfully emotional and insightful”. (Bruce Elder, SMH). Fred and band will be playing songs from his back catalogue and new material from the evacuation of Kabul.",
       "image_name": "FredSmith",
       "website": "http://www.fredsmith.com.au",
       "youtube": "https://www.youtube.com/channel/UCq-41nKPSv5pAgy_c_wTUOg",
@@ -270,7 +304,7 @@
       "instagram": "",
       "spotify": "https://open.spotify.com/artist/4xjl2OQnm4IJJx4iURYEEX",
       "created_at": "2023-01-04T17:47:40.269+11:00",
-      "updated_at": "2023-01-10T10:03:16.285+11:00"
+      "updated_at": "2023-03-09T18:17:05.362+11:00"
     },
     {
       "id": "448fe565-1dca-430c-8e45-7b0d6c1e1e49",
@@ -361,7 +395,7 @@
       "id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
       "name": "Jayda Dean",
       "sort_name": "Jayda Dean",
-      "summary": "Jayda Jean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
+      "summary": "Jayda Dean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
       "image_name": "JaydaJean",
       "website": "",
       "youtube": "https://www.youtube.com/watch?v=ur0ONlZxrXw",
@@ -372,7 +406,7 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:59:40.936+11:00",
-      "updated_at": "2023-01-06T12:09:50.276+11:00"
+      "updated_at": "2023-03-09T17:50:59.030+11:00"
     },
     {
       "id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
@@ -395,7 +429,7 @@
       "id": "48f73412-53eb-43ca-9a0d-882e790d4f46",
       "name": "Julian James and the Moonshine State",
       "sort_name": "Julian James and the Moonshine State",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "From Melbourne’s back alley bars to Australias major Festivals (Gympie Muster, Echuca Winter Blues, Tamworth CMF) – Award winning Julian James is loved by folk and blues audiences all over Australia, with his whiskey drenched sound as much at home in 2021 as it would have been blaring out of the wireless in 1921.",
       "image_name": "JulianJames",
       "website": "www.julianjames.com.au",
       "youtube": "https://www.youtube.com/channel/julianjamesartist",
@@ -406,7 +440,7 @@
       "instagram": "",
       "spotify": "https://open.spotify.com/artist/2GZaokS2ngNy6dNiWNWNH4?dl_branch=1\u0026nd=1",
       "created_at": "2023-01-05T12:03:32.673+11:00",
-      "updated_at": "2023-01-10T10:04:33.699+11:00"
+      "updated_at": "2023-03-09T18:17:33.711+11:00"
     },
     {
       "id": "ea0eabd8-0ee9-464c-8de7-44d9df93b9d6",
@@ -684,7 +718,7 @@
       "id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
       "name": "Tim McMillan and Rachel Snow",
       "sort_name": "Tim McMillan and Rachel Snow",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "Fingerstyle percussive guitar meets masterful violin accompaniment and a magical blend of vocals as Tim McMillan \u0026 Rachel Snow twirl their musical influences together to create a riveting potion of Celtic rock, folk, metal, classical \u0026 jazz. Hailing from the same school in Melbourne and now based in Berlin the duo have performed together for nearly 20 years.",
       "image_name": "TimMcMillan",
       "website": "www.timmcmillanrachelsnow.com",
       "youtube": "https://www.youtube.com/watch?v=ZJDq4c5RA3s",
@@ -695,7 +729,7 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.689+11:00",
-      "updated_at": "2023-01-10T10:11:41.652+11:00"
+      "updated_at": "2023-03-09T17:54:23.729+11:00"
     },
     {
       "id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
@@ -735,7 +769,7 @@
       "id": "e9f6c941-fee7-4766-9c61-8f9f4870baf8",
       "name": "Vardos",
       "sort_name": "Vardos",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "Livewire violinist Alana Hunt shreds through furious csardases, Hungarian restaurant serenades and Transylvanian village folklore chased by Kirri Bachler (double bass), and Sofia Chapman (accordion).\u2028Vardos have roamed extensively through Eastern Europe learning from Rroma (Gypsy) musicians, released 6 albums, toured Australia and internationally and appeared in film and television.",
       "image_name": "Vardos",
       "website": "https://vardos.com.au/",
       "youtube": "https://www.youtube.com/watch?v=W3YaVL5Iflg",
@@ -746,7 +780,7 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.694+11:00",
-      "updated_at": "2023-01-10T10:16:21.241+11:00"
+      "updated_at": "2023-03-09T17:54:01.429+11:00"
     },
     {
       "id": "7398a155-cbe1-40bb-a038-af2370759885",
@@ -815,6 +849,23 @@
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.697+11:00",
       "updated_at": "2023-01-10T10:17:19.106+11:00"
+    },
+    {
+      "id": "61e83281-0fff-4cdc-98c2-e69d99a9874e",
+      "name": "Yackandandah Community Choir",
+      "sort_name": "Yackandandah Community Choir",
+      "summary": "When a village with a population of less than 1000 can muster more than 120 to 150 voices to rehearse and perform together for the community's folk festival, it says something about the unique strength and community capacity in Yackandandah. This much loved group has put together a rousing and harmonious repertoire guaranteed to allow you to finish off the festival on a high. All credit to the wonderful choir and the energetic committee. An un-ticketed event; all are welcome to come and share the love as they lift spirits and lift the roof.",
+      "image_name": "YackChoir",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-09T18:22:15.923+11:00",
+      "updated_at": "2023-03-09T18:22:15.923+11:00"
     }
   ]
 }
