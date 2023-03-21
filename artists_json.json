@@ -15,7 +15,9 @@
       "instagram": "https://www.instagram.com/adrian.r.clark/",
       "spotify": "https://open.spotify.com/artist/2f6F5wBEI9NlYNWfGzSIXY",
       "created_at": "2023-01-04T17:18:33.433+11:00",
-      "updated_at": "2023-01-31T15:22:27.945+11:00"
+      "updated_at": "2023-01-31T15:22:27.945+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "3c609d6b-b46c-4b70-9982-f698cdd453f7",
@@ -32,7 +34,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-02-13T14:35:42.329+11:00",
-      "updated_at": "2023-02-13T15:57:19.024+11:00"
+      "updated_at": "2023-02-13T15:57:19.024+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "5746336c-803d-46d6-93ec-7564f84686f3",
@@ -49,7 +53,9 @@
       "instagram": "https://www.instagram.com/thisisashabright/?hl=en",
       "spotify": "https://open.spotify.com/artist/6DSQUzYi0yJkvxpBE18RxX?dl_branch=1\u0026nd=1",
       "created_at": "2023-02-13T14:38:46.373+11:00",
-      "updated_at": "2023-02-13T14:38:46.373+11:00"
+      "updated_at": "2023-02-13T14:38:46.373+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "c49cbb44-5ed5-4a1c-bc73-c019ff0a9928",
@@ -66,7 +72,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-03-07T20:45:24.897+11:00",
-      "updated_at": "2023-03-07T20:45:24.897+11:00"
+      "updated_at": "2023-03-07T20:45:24.897+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
@@ -83,7 +91,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T11:16:29.932+11:00",
-      "updated_at": "2023-01-10T09:55:39.248+11:00"
+      "updated_at": "2023-01-10T09:55:39.248+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "dd35ec5c-6065-4522-9350-f8bfbe260393",
@@ -100,7 +110,28 @@
       "instagram": "https://www.instagram.com/bluemoonmarquee/",
       "spotify": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1?si=HNosJKLsQV2TSikux4eERw",
       "created_at": "2023-01-04T17:19:59.823+11:00",
-      "updated_at": "2023-01-10T09:59:25.801+11:00"
+      "updated_at": "2023-01-10T09:59:25.801+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "c7448b2e-8690-42cb-b533-cd085abb135c",
+      "name": "The Burning Hell",
+      "sort_name": "Burning Hell",
+      "summary": "The Burning Hell is the ongoing musical project of songwriter Mathias Kom (guitar) and Ariel Sharratt (saxophone, bass, drums), based in Prince Edward Island, Canada, and joined for their Australian tour in 2023 by Maria Peddle from Newfoundland (violin, saxophone, keys, bass, drums). Their densely populated genre-shifting songs are packed with an abundance of literary, historical, cultural, and pop-cultural forebears, stories and hooks. They move with heavy rhyme and a light step, incorporating a frequent fixation on apocalypse and ruin into work that celebrates participation in a surprising and even occasionally beautiful world. Which is to say they’re good dance partners and they want to dance with you",
+      "image_name": "TheBurningHell",
+      "website": "https://www.wearetheburninghell.com/",
+      "youtube": "https://www.youtube.com/user/burninghellofficial",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/theburninghell",
+      "twitter": "https://twitter.com/theburninghell",
+      "instagram": "https://www.instagram.com/theburninghellband/",
+      "spotify": "https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E",
+      "created_at": "2023-01-05T12:03:32.676+11:00",
+      "updated_at": "2023-03-10T08:39:23.834+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "3dc0f7bc-6963-4165-9983-721a86d386a8",
@@ -117,7 +148,9 @@
       "instagram": "www.instagram.com/candicemcleodmusic ",
       "spotify": "",
       "created_at": "2023-01-04T17:24:58.574+11:00",
-      "updated_at": "2023-01-04T17:24:58.574+11:00"
+      "updated_at": "2023-01-04T17:24:58.574+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "e287a74b-0ef7-46e9-8c99-6e82d4953bb6",
@@ -134,7 +167,9 @@
       "instagram": "",
       "spotify": "https://open.spotify.com/artist/1ItP91rrxXPzs0nVGXp89e?si=g4AhxEQFSKOa6QguyawzFg",
       "created_at": "2023-01-04T17:25:47.093+11:00",
-      "updated_at": "2023-01-31T15:24:36.391+11:00"
+      "updated_at": "2023-01-31T15:24:36.391+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "e26d0f55-50e8-4b22-ba92-7aca30289a69",
@@ -151,7 +186,9 @@
       "instagram": "https://www.instagram.com/chris.cavill/",
       "spotify": "https://open.spotify.com/artist/1C6ndffV7VCL47YkvqrIva",
       "created_at": "2023-01-04T17:27:12.615+11:00",
-      "updated_at": "2023-01-04T17:27:12.615+11:00"
+      "updated_at": "2023-01-04T17:27:12.615+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "681a35a9-58ad-4fc7-bda8-2e96378e5e8c",
@@ -168,7 +205,9 @@
       "instagram": "https://www.instagram.com/dani_larkin_/",
       "spotify": "https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi?nd=1",
       "created_at": "2023-01-04T17:30:49.092+11:00",
-      "updated_at": "2023-01-31T15:25:07.340+11:00"
+      "updated_at": "2023-01-31T15:25:07.340+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "52fc5802-bea8-4e52-aa69-e1d293911276",
@@ -185,7 +224,9 @@
       "instagram": "https://www.instagram.com/danielchampagnemusic/",
       "spotify": "https://open.spotify.com/artist/5VbD0260te11AgTgTs5odC",
       "created_at": "2023-01-04T17:33:25.887+11:00",
-      "updated_at": "2023-01-31T15:25:19.177+11:00"
+      "updated_at": "2023-01-31T15:25:19.177+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "8eb7991b-7133-4248-9534-f3636f6984cd",
@@ -202,7 +243,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-03-09T18:01:46.861+11:00",
-      "updated_at": "2023-03-09T18:01:46.861+11:00"
+      "updated_at": "2023-03-09T18:01:46.861+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "4b07b759-e094-4171-9d39-0c47145d442a",
@@ -219,7 +262,28 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:41:22.071+11:00",
-      "updated_at": "2023-01-04T17:41:22.071+11:00"
+      "updated_at": "2023-01-04T17:41:22.071+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "2f2cdf4b-9bb5-44b4-81a8-6722d6b63618",
+      "name": "Earth Hour",
+      "sort_name": "Earth Hour",
+      "summary": "Join us again for Earth Hour at the Public Hall. Once the lights will go out you will be treated to 10 surprise acts, completely acoustic, in the dark.",
+      "image_name": "EarthHour",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-09T18:23:28.024+11:00",
+      "updated_at": "2023-03-21T11:37:28.591+11:00",
+      "artist_type": "other",
+      "hide_in_artist_list": true
     },
     {
       "id": "577161f4-4974-4121-8ff5-900744d89d41",
@@ -236,7 +300,9 @@
       "instagram": "https://www.instagram.com/emilybarkerhalo/",
       "spotify": "https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV",
       "created_at": "2023-01-04T17:43:48.345+11:00",
-      "updated_at": "2023-01-04T17:43:48.345+11:00"
+      "updated_at": "2023-01-04T17:43:48.345+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "c18a72de-09ae-458a-a61c-a9eca03fbeb3",
@@ -253,7 +319,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:45:54.487+11:00",
-      "updated_at": "2023-01-04T17:45:54.487+11:00"
+      "updated_at": "2023-01-04T17:45:54.487+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "239a5e2a-c9b8-4a74-9698-db1ced69b86a",
@@ -270,13 +338,15 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:46:54.123+11:00",
-      "updated_at": "2023-01-31T15:25:46.708+11:00"
+      "updated_at": "2023-01-31T15:25:46.708+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "e82c740f-a874-4bfa-a66d-bdf89de48afc",
       "name": "Fred Smith",
       "sort_name": "Fred Smith",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "“Fred Smith is simply the best folk/country musician working in this country. Beyond writing some of the finest songs about Australians at war, he has created a repertoire that is wry, literate, witty, powerfully emotional and insightful”. (Bruce Elder, SMH). Fred and band will be playing songs from his back catalogue and new material from the evacuation of Kabul.",
       "image_name": "FredSmith",
       "website": "http://www.fredsmith.com.au",
       "youtube": "https://www.youtube.com/channel/UCq-41nKPSv5pAgy_c_wTUOg",
@@ -287,7 +357,28 @@
       "instagram": "",
       "spotify": "https://open.spotify.com/artist/4xjl2OQnm4IJJx4iURYEEX",
       "created_at": "2023-01-04T17:47:40.269+11:00",
-      "updated_at": "2023-01-10T10:03:16.285+11:00"
+      "updated_at": "2023-03-09T18:17:05.362+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "0dad927b-9eb7-4854-a505-c23499b01db3",
+      "name": "The Go Set",
+      "sort_name": "Go Set",
+      "summary": "Twenty years down the line and The Go Set still sound as fierce, as vital, as the first day they set foot on a stage. The Geelong-based band has always squeezed out the sparks from the place where rock’n’roll collides with the spirit of Celtic folk. I have Irish and Scottish heritage through my grandparents on both sides and that was the kind of music I heard at home,” Keenan says. “As a little kid I listened to those traditional songs with my nan on an old record player. Then when I was discovering bands and heard The Pogues, it all made sense.” The ghosts of those who have come before are never too far away in the songs of The Go Set, and the album’s title tune is one of their finest on the topic. Dust off the dancing shoes and be ready.",
+      "image_name": "TheGoSet",
+      "website": "https://www.thegoset.com/",
+      "youtube": "https://www.youtube.com/user/thegoset",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/thegoset",
+      "twitter": "https://twitter.com/thegosetband",
+      "instagram": "https://www.instagram.com/thegosetband/",
+      "spotify": "https://www.youtube.com/thegoset",
+      "created_at": "2023-01-05T12:03:32.678+11:00",
+      "updated_at": "2023-03-10T08:39:31.884+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "448fe565-1dca-430c-8e45-7b0d6c1e1e49",
@@ -304,7 +395,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:48:25.488+11:00",
-      "updated_at": "2023-01-06T12:09:55.959+11:00"
+      "updated_at": "2023-01-06T12:09:55.959+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "ead1ecf2-09a3-4028-9432-3608efac274a",
@@ -321,7 +414,9 @@
       "instagram": "https://www.instagram.com/greatauntmusic/",
       "spotify": "",
       "created_at": "2023-01-04T17:54:05.089+11:00",
-      "updated_at": "2023-01-06T12:11:59.508+11:00"
+      "updated_at": "2023-01-06T12:11:59.508+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "d3ec4f72-b8a1-4804-946b-ccdc7699091d",
@@ -338,7 +433,9 @@
       "instagram": "https://www.instagram.com/",
       "spotify": "https://open.spotify.com/artist/0z328yAQPLGxQyGhzXLf98?dl_branch=1\u0026nd=1",
       "created_at": "2023-01-04T17:51:04.530+11:00",
-      "updated_at": "2023-01-06T12:12:05.974+11:00"
+      "updated_at": "2023-01-06T12:12:05.974+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "61cca078-d1c9-47e4-8bcf-6b61aa712813",
@@ -355,7 +452,28 @@
       "instagram": "https://www.instagram.com/hannahschmidlii/",
       "spotify": "",
       "created_at": "2023-01-04T17:56:35.598+11:00",
-      "updated_at": "2023-01-04T17:56:35.598+11:00"
+      "updated_at": "2023-01-04T17:56:35.598+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "c85b45d8-6675-497a-a987-1d0e42e298a4",
+      "name": "The Humbuckin' Pickups",
+      "sort_name": "Humbuckin' Pickups",
+      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "image_name": "TheHumbuckinPickups",
+      "website": "www.thehumbuckinpickups.com.au",
+      "youtube": "https://www.youtube.com/watch?v=i9ik3ZWbyt8",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "www.facebook.com/TheHumbuckinPickups",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/thehumbuckinpickups/",
+      "spotify": "https://open.spotify.com/artist/0xTNwijILQd0l7RISGa7tM?nd=1",
+      "created_at": "2023-01-05T12:03:32.679+11:00",
+      "updated_at": "2023-03-10T08:39:40.397+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "1dd91865-35b2-414e-baaa-366648d26302",
@@ -372,13 +490,15 @@
       "instagram": "https://www.instagram.com/jarrodshawmusic/",
       "spotify": "https://open.spotify.com/artist/52nDlW5vfj4PIlf0JdjJ7Y?dl_branch=1\u0026nd=1",
       "created_at": "2023-02-13T14:40:55.560+11:00",
-      "updated_at": "2023-02-13T14:40:55.560+11:00"
+      "updated_at": "2023-02-13T14:40:55.560+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
-      "name": "Jayda Dean",
-      "sort_name": "Jayda Dean",
-      "summary": "Jayda Dean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
+      "name": "Jayda Jean",
+      "sort_name": "Jayda Jean",
+      "summary": "Jayda Jean is a young singer-songwriter from the Yarra Valley. Her songwriting has emerged from folk beginnings but has taken a modern turn. She is a multi-award winning songwriter, having won two national song writing competitions by the age of 15. Jayda Jean is touring her debut EP “Through Your Eyes” which can be streamed everywhere.",
       "image_name": "JaydaJean",
       "website": "",
       "youtube": "https://www.youtube.com/watch?v=ur0ONlZxrXw",
@@ -389,7 +509,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-04T17:59:40.936+11:00",
-      "updated_at": "2023-03-09T17:50:59.030+11:00"
+      "updated_at": "2023-03-15T09:09:28.728+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
@@ -406,13 +528,15 @@
       "instagram": "https://www.instagram.com/thejohnsmith/",
       "spotify": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2",
       "created_at": "2023-01-04T18:01:44.374+11:00",
-      "updated_at": "2023-01-04T18:01:44.374+11:00"
+      "updated_at": "2023-01-04T18:01:44.374+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "48f73412-53eb-43ca-9a0d-882e790d4f46",
       "name": "Julian James and the Moonshine State",
       "sort_name": "Julian James and the Moonshine State",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
+      "summary": "From Melbourne’s back alley bars to Australias major Festivals (Gympie Muster, Echuca Winter Blues, Tamworth CMF) – Award winning Julian James is loved by folk and blues audiences all over Australia, with his whiskey drenched sound as much at home in 2021 as it would have been blaring out of the wireless in 1921.",
       "image_name": "JulianJames",
       "website": "www.julianjames.com.au",
       "youtube": "https://www.youtube.com/channel/julianjamesartist",
@@ -423,7 +547,9 @@
       "instagram": "",
       "spotify": "https://open.spotify.com/artist/2GZaokS2ngNy6dNiWNWNH4?dl_branch=1\u0026nd=1",
       "created_at": "2023-01-05T12:03:32.673+11:00",
-      "updated_at": "2023-01-10T10:04:33.699+11:00"
+      "updated_at": "2023-03-09T18:17:33.711+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "ea0eabd8-0ee9-464c-8de7-44d9df93b9d6",
@@ -440,7 +566,28 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-02-13T14:48:48.209+11:00",
-      "updated_at": "2023-02-13T16:11:18.667+11:00"
+      "updated_at": "2023-02-13T16:11:18.667+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "b7bfe928-9e15-4f7f-8dfe-f77daed6a419",
+      "name": "The Maes",
+      "sort_name": "Maes",
+      "summary": "The Maes (sisters Maggie \u0026 Elsie Rigby) grew up the children of folk musicians, immersed in folk festivals, choir rehearsals and campfire sessions. Since 2014, they’ve been touring full time, playing some of the world’s most prestigious roots music festivals, including the Telluride Bluegrass Festival and Edmonton Folk Festival. “Quite simply breathtaking” – Rhythms Magazine.",
+      "image_name": "TheMaes",
+      "website": "https://themaes.com.au",
+      "youtube": "https://www.youtube.com/watch?v=uz0skPGKI5U",
+      "itunes": "https://music.apple.com/ca/artist/the-burning-hell/271674545",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/themaesband",
+      "twitter": "https://twitter.com/themaesband",
+      "instagram": "https://www.instagram.com/themaesband/",
+      "spotify": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa",
+      "created_at": "2023-01-05T12:03:32.681+11:00",
+      "updated_at": "2023-03-10T08:39:46.881+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "290d7f05-a286-413e-bf71-ff798aa32a90",
@@ -457,7 +604,9 @@
       "instagram": "https://www.instagram.com/niamhreganmusic/",
       "spotify": "",
       "created_at": "2023-01-05T11:09:56.797+11:00",
-      "updated_at": "2023-01-05T11:09:56.797+11:00"
+      "updated_at": "2023-01-05T11:09:56.797+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "21192f0c-ba89-49fa-a88e-c0dc10087652",
@@ -474,7 +623,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T11:10:50.609+11:00",
-      "updated_at": "2023-01-05T11:10:50.609+11:00"
+      "updated_at": "2023-01-05T11:10:50.609+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "50397840-0c70-4446-bdf6-9c24c2f163a9",
@@ -491,7 +642,47 @@
       "instagram": "https://www.instagram.com/pete_denahy/",
       "spotify": "",
       "created_at": "2023-01-05T11:12:15.143+11:00",
-      "updated_at": "2023-01-05T11:12:15.143+11:00"
+      "updated_at": "2023-01-05T11:12:15.143+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "f1af8bf0-966d-483c-88db-abf1f0736aab",
+      "name": "The Pigs",
+      "sort_name": "Pigs",
+      "summary": "The family that plays together, stays together... and in the nutty world of The Pigs, family (and beer, and bluegrass) is all that matters... and did I mention… you’re family too. In these troubling times you can count on The Pigs... They have not blurred their backgrounds, stockpiled dunny paper or learned anything remotely.T-Bone, Stretch, Cousin Shamus, Cousin Bert \u0026 Cousin Montz last name PIG, like to have fun and their music speaks to that… but also pokes much deeper... life, love, heartache, Robot Goats even. Expect to be shocked by their dress \u0026 hear their many hits – even that one about Moisturiser. ",
+      "image_name": "ThePigs",
+      "website": "https://thepigs.com.au/",
+      "youtube": "https://www.youtube.com/watch?v=0ncgv2HE5Ns",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/thepigsofficial",
+      "twitter": "https://twitter.com/i/flow/login",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-01-05T12:03:32.682+11:00",
+      "updated_at": "2023-03-10T08:39:54.662+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "55268404-415a-4fd9-a0d4-96a418b6c83d",
+      "name": "The Ploughboys",
+      "sort_name": "Ploughboys",
+      "summary": "In 1994 a collection of like minded musicians first graced the stage at Maldon FF The Ploughboys went on to perform at major festivals throughout Australia and OS and became one of Australia's preeminent Celtic Bands. This years performance sees the reunion of the original Ploughboys line up featuring Damian Howard, Allan O'Connell, Peter Denahy, Dominic McAlinden and John Edgar.",
+      "image_name": "ThePloughboys",
+      "website": "",
+      "youtube": "https://www.youtube.com/watch?v=rUU8zqcG160",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "https://www.facebook.com/ploughboysaustralia",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-01-05T12:03:32.684+11:00",
+      "updated_at": "2023-03-10T08:39:59.918+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "8deb583b-5209-4901-a392-812fe52bc990",
@@ -508,7 +699,28 @@
       "instagram": "https://www.instagram.com/riflebirds/",
       "spotify": "https://open.spotify.com/artist/7bzzkiQIc8GtB1jKqEtqFv",
       "created_at": "2023-01-05T11:14:07.786+11:00",
-      "updated_at": "2023-01-05T11:14:07.786+11:00"
+      "updated_at": "2023-01-05T11:14:07.786+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "8e8df656-79af-4d43-a3e7-ba05a56354e1",
+      "name": "The Royal High Jinx",
+      "sort_name": "Royal High Jinx",
+      "summary": "Melbourne's mesmerising contemporary world music band The Royal High Jinx burst onto Australian festival stages with originality, virtuosity \u0026 theatricality. Their songs \u0026 tunes are inspired by European traditions, peppered with Gypsy Jazz, Latin Balkan \u0026 Swing grooves with a pinch of Folk Cabaret. Described as the “Balkan Abba” for their catchy songs \u0026 glamorous show, enjoy their musical celebration.",
+      "image_name": "TheRoyalHighJinx",
+      "website": "http://www.theroyalhighjinx.com",
+      "youtube": "https://www.youtube.com/channel/UCktEIa6vUCTeATofysQXBWQ",
+      "itunes": "",
+      "soundcloud": "https://soundcloud.com/sarah-busuttil-4",
+      "facebook": "https://www.facebook.com/ theroyalhighjinxband/",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-01-05T12:03:32.685+11:00",
+      "updated_at": "2023-03-10T08:40:05.630+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "91cb6c07-16a0-4dc7-bc47-1ee348e18789",
@@ -525,7 +737,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T11:15:03.267+11:00",
-      "updated_at": "2023-01-05T11:15:03.267+11:00"
+      "updated_at": "2023-01-05T11:15:03.267+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "8d02bede-8fb8-438b-a59e-6ef9ab0bc46d",
@@ -542,7 +756,9 @@
       "instagram": "https://www.instagram.com/smithandjones_music/?hl=en",
       "spotify": "",
       "created_at": "2023-02-13T14:51:04.964+11:00",
-      "updated_at": "2023-02-13T14:51:04.964+11:00"
+      "updated_at": "2023-02-13T14:51:04.964+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "f6490f8f-053e-4c2e-a86e-0aad55b3fc69",
@@ -559,143 +775,28 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-03-07T20:42:24.786+11:00",
-      "updated_at": "2023-03-07T20:42:24.786+11:00"
+      "updated_at": "2023-03-07T20:42:24.786+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
-      "id": "c7448b2e-8690-42cb-b533-cd085abb135c",
-      "name": "The Burning Hell",
-      "sort_name": "The Burning Hell",
-      "summary": "The Burning Hell is the ongoing musical project of songwriter Mathias Kom (guitar) and Ariel Sharratt (saxophone, bass, drums), based in Prince Edward Island, Canada, and joined for their Australian tour in 2023 by Maria Peddle from Newfoundland (violin, saxophone, keys, bass, drums). Their densely populated genre-shifting songs are packed with an abundance of literary, historical, cultural, and pop-cultural forebears, stories and hooks. They move with heavy rhyme and a light step, incorporating a frequent fixation on apocalypse and ruin into work that celebrates participation in a surprising and even occasionally beautiful world. Which is to say they’re good dance partners and they want to dance with you",
-      "image_name": "TheBurningHell",
-      "website": "https://www.wearetheburninghell.com/",
-      "youtube": "https://www.youtube.com/user/burninghellofficial",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/theburninghell",
-      "twitter": "https://twitter.com/theburninghell",
-      "instagram": "https://www.instagram.com/theburninghellband/",
-      "spotify": "https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E",
-      "created_at": "2023-01-05T12:03:32.676+11:00",
-      "updated_at": "2023-01-10T10:05:58.893+11:00"
-    },
-    {
-      "id": "0dad927b-9eb7-4854-a505-c23499b01db3",
-      "name": "The Go Set",
-      "sort_name": "The Go Set",
-      "summary": "Twenty years down the line and The Go Set still sound as fierce, as vital, as the first day they set foot on a stage. The Geelong-based band has always squeezed out the sparks from the place where rock’n’roll collides with the spirit of Celtic folk. I have Irish and Scottish heritage through my grandparents on both sides and that was the kind of music I heard at home,” Keenan says. “As a little kid I listened to those traditional songs with my nan on an old record player. Then when I was discovering bands and heard The Pogues, it all made sense.” The ghosts of those who have come before are never too far away in the songs of The Go Set, and the album’s title tune is one of their finest on the topic. Dust off the dancing shoes and be ready.",
-      "image_name": "TheGoSet",
-      "website": "https://www.thegoset.com/",
-      "youtube": "https://www.youtube.com/user/thegoset",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/thegoset",
-      "twitter": "https://twitter.com/thegosetband",
-      "instagram": "https://www.instagram.com/thegosetband/",
-      "spotify": "https://www.youtube.com/thegoset",
-      "created_at": "2023-01-05T12:03:32.678+11:00",
-      "updated_at": "2023-01-10T10:06:34.144+11:00"
-    },
-    {
-      "id": "c85b45d8-6675-497a-a987-1d0e42e298a4",
-      "name": "The Humbuckin' Pickups",
-      "sort_name": "The Humbuckin' Pickups",
-      "summary": "We're still waiting on some more details here… we'll update you soon!",
-      "image_name": "TheHumbuckinPickups",
-      "website": "www.thehumbuckinpickups.com.au",
-      "youtube": "https://www.youtube.com/watch?v=i9ik3ZWbyt8",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "www.facebook.com/TheHumbuckinPickups",
-      "twitter": "",
-      "instagram": "https://www.instagram.com/thehumbuckinpickups/",
-      "spotify": "https://open.spotify.com/artist/0xTNwijILQd0l7RISGa7tM?nd=1",
-      "created_at": "2023-01-05T12:03:32.679+11:00",
-      "updated_at": "2023-01-10T10:07:19.546+11:00"
-    },
-    {
-      "id": "b7bfe928-9e15-4f7f-8dfe-f77daed6a419",
-      "name": "The Maes",
-      "sort_name": "The Maes",
-      "summary": "The Maes (sisters Maggie \u0026 Elsie Rigby) grew up the children of folk musicians, immersed in folk festivals, choir rehearsals and campfire sessions. Since 2014, they’ve been touring full time, playing some of the world’s most prestigious roots music festivals, including the Telluride Bluegrass Festival and Edmonton Folk Festival. “Quite simply breathtaking” – Rhythms Magazine.",
-      "image_name": "TheMaes",
-      "website": "https://themaes.com.au",
-      "youtube": "https://www.youtube.com/watch?v=uz0skPGKI5U",
-      "itunes": "https://music.apple.com/ca/artist/the-burning-hell/271674545",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/themaesband",
-      "twitter": "https://twitter.com/themaesband",
-      "instagram": "https://www.instagram.com/themaesband/",
-      "spotify": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa",
-      "created_at": "2023-01-05T12:03:32.681+11:00",
-      "updated_at": "2023-01-10T10:08:17.808+11:00"
-    },
-    {
-      "id": "f1af8bf0-966d-483c-88db-abf1f0736aab",
-      "name": "The Pigs",
-      "sort_name": "The Pigs",
-      "summary": "The family that plays together, stays together... and in the nutty world of The Pigs, family (and beer, and bluegrass) is all that matters... and did I mention… you’re family too. In these troubling times you can count on The Pigs... They have not blurred their backgrounds, stockpiled dunny paper or learned anything remotely.T-Bone, Stretch, Cousin Shamus, Cousin Bert \u0026 Cousin Montz last name PIG, like to have fun and their music speaks to that… but also pokes much deeper... life, love, heartache, Robot Goats even. Expect to be shocked by their dress \u0026 hear their many hits – even that one about Moisturiser. ",
-      "image_name": "ThePigs",
-      "website": "https://thepigs.com.au/",
-      "youtube": "https://www.youtube.com/watch?v=0ncgv2HE5Ns",
-      "itunes": "",
-      "soundcloud": "",
-      "facebook": "https://www.facebook.com/thepigsofficial",
-      "twitter": "https://twitter.com/i/flow/login",
-      "instagram": "",
-      "spotify": "",
-      "created_at": "2023-01-05T12:03:32.682+11:00",
-      "updated_at": "2023-01-10T10:08:55.047+11:00"
-    },
-    {
-      "id": "55268404-415a-4fd9-a0d4-96a418b6c83d",
-      "name": "The Ploughboys",
-      "sort_name": "The Ploughboys",
-      "summary": "In 1994 a collection of like minded musicians first graced the stage at Maldon FF The Ploughboys went on to perform at major festivals throughout Australia and OS and became one of Australia's preeminent Celtic Bands. This years performance sees the reunion of the original Ploughboys line up featuring Damian Howard, Allan O'Connell, Peter Denahy, Dominic McAlinden and John Edgar.",
-      "image_name": "ThePloughboys",
+      "id": "fb4aae6b-1405-4ba3-a1d9-36d09a6b23aa",
+      "name": "Street Parade",
+      "sort_name": "Street Parade",
+      "summary": "Join us for the official opening parade of the ceremony, with various performers and local groups marching down High Street. This is a free event for all!",
+      "image_name": "StreetParade",
       "website": "",
-      "youtube": "https://www.youtube.com/watch?v=rUU8zqcG160",
+      "youtube": "",
       "itunes": "",
       "soundcloud": "",
-      "facebook": "https://www.facebook.com/ploughboysaustralia",
+      "facebook": "",
       "twitter": "",
       "instagram": "",
       "spotify": "",
-      "created_at": "2023-01-05T12:03:32.684+11:00",
-      "updated_at": "2023-01-31T15:26:14.913+11:00"
-    },
-    {
-      "id": "8e8df656-79af-4d43-a3e7-ba05a56354e1",
-      "name": "The Royal High Jinx",
-      "sort_name": "The Royal High Jinx",
-      "summary": "Melbourne's mesmerising contemporary world music band The Royal High Jinx burst onto Australian festival stages with originality, virtuosity \u0026 theatricality. Their songs \u0026 tunes are inspired by European traditions, peppered with Gypsy Jazz, Latin Balkan \u0026 Swing grooves with a pinch of Folk Cabaret. Described as the “Balkan Abba” for their catchy songs \u0026 glamorous show, enjoy their musical celebration.",
-      "image_name": "TheRoyalHighJinx",
-      "website": "http://www.theroyalhighjinx.com",
-      "youtube": "https://www.youtube.com/channel/UCktEIa6vUCTeATofysQXBWQ",
-      "itunes": "",
-      "soundcloud": "https://soundcloud.com/sarah-busuttil-4",
-      "facebook": "https://www.facebook.com/ theroyalhighjinxband/",
-      "twitter": "",
-      "instagram": "",
-      "spotify": "",
-      "created_at": "2023-01-05T12:03:32.685+11:00",
-      "updated_at": "2023-01-10T10:09:50.750+11:00"
-    },
-    {
-      "id": "c0aed526-668b-4f45-8fd5-c72a4a727e45",
-      "name": "The Weeping Willows",
-      "sort_name": "The Weeping Willows",
-      "summary": "CMAA ‘Golden Guitar’, Australian Folk Music and Music Victoria award winners, The Weeping Willows (Laura Coates and Andrew Wrigglesworth) are a couple of old souls, steeped in Bluegrass tradition and draped in Gothic Americana imagery.  They regale their audiences with stories of sunshine and romance, God and The Devil, murder and decay.  That kind of description might make them sound like some carefully contrived concept-act but there’s something truly different about The Weeping Willows: they really mean it...",
-      "image_name": "TheWeepingWillows",
-      "website": "http://www.theweepingwillows.com.au",
-      "youtube": "https://www.youtube.com/watch?v=P1oMwFyOBjk",
-      "itunes": "",
-      "soundcloud": "https://soundcloud.com/theweepingwillows",
-      "facebook": "https://www.facebook.com/theweepingwillows",
-      "twitter": "https://twitter.com/weepinwillows",
-      "instagram": "https://www.instagram.com/theweepingwillows/",
-      "spotify": "https://open.spotify.com/artist/1NtrMilHVPYuHl1yrlKVTd?nd=1",
-      "created_at": "2023-01-05T12:03:32.686+11:00",
-      "updated_at": "2023-01-10T10:10:50.601+11:00"
+      "created_at": "2023-03-21T11:18:59.587+11:00",
+      "updated_at": "2023-03-21T11:34:28.082+11:00",
+      "artist_type": "other",
+      "hide_in_artist_list": true
     },
     {
       "id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
@@ -712,7 +813,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.689+11:00",
-      "updated_at": "2023-03-09T17:54:23.729+11:00"
+      "updated_at": "2023-03-09T17:54:23.729+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
@@ -729,7 +832,9 @@
       "instagram": "https://www.instagram.com/tinman_band/",
       "spotify": "https://open.spotify.com/artist/6z6qNMqMCDrUrtKYZEjg1y",
       "created_at": "2023-01-05T12:03:32.690+11:00",
-      "updated_at": "2023-01-31T15:26:30.514+11:00"
+      "updated_at": "2023-01-31T15:26:30.514+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "66a1a813-330c-4e77-ba35-e28ba40eee64",
@@ -746,7 +851,9 @@
       "instagram": "https://www.instagram.com/tony_mcmanus/?hl=en",
       "spotify": "https://open.spotify.com/artist/1KQwje9l9U6Zb0tvlzqNBX",
       "created_at": "2023-01-05T12:03:32.693+11:00",
-      "updated_at": "2023-01-10T10:15:51.870+11:00"
+      "updated_at": "2023-01-10T10:15:51.870+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "e9f6c941-fee7-4766-9c61-8f9f4870baf8",
@@ -763,7 +870,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.694+11:00",
-      "updated_at": "2023-03-09T17:54:01.429+11:00"
+      "updated_at": "2023-03-09T17:54:01.429+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "7398a155-cbe1-40bb-a038-af2370759885",
@@ -780,7 +889,9 @@
       "instagram": "",
       "spotify": "",
       "created_at": "2023-02-13T14:55:48.377+11:00",
-      "updated_at": "2023-02-13T14:55:48.377+11:00"
+      "updated_at": "2023-02-13T14:55:48.377+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "dfeebb28-2720-47d3-bad3-126e1ea7b0cf",
@@ -797,7 +908,47 @@
       "instagram": "https://www.instagram.com/thewaterrunnersau/",
       "spotify": "",
       "created_at": "2023-02-13T14:54:40.201+11:00",
-      "updated_at": "2023-02-13T14:54:40.201+11:00"
+      "updated_at": "2023-02-13T14:54:40.201+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "c0aed526-668b-4f45-8fd5-c72a4a727e45",
+      "name": "The Weeping Willows",
+      "sort_name": "Weeping Willows",
+      "summary": "CMAA ‘Golden Guitar’, Australian Folk Music and Music Victoria award winners, The Weeping Willows (Laura Coates and Andrew Wrigglesworth) are a couple of old souls, steeped in Bluegrass tradition and draped in Gothic Americana imagery.  They regale their audiences with stories of sunshine and romance, God and The Devil, murder and decay.  That kind of description might make them sound like some carefully contrived concept-act but there’s something truly different about The Weeping Willows: they really mean it...",
+      "image_name": "TheWeepingWillows",
+      "website": "http://www.theweepingwillows.com.au",
+      "youtube": "https://www.youtube.com/watch?v=P1oMwFyOBjk",
+      "itunes": "",
+      "soundcloud": "https://soundcloud.com/theweepingwillows",
+      "facebook": "https://www.facebook.com/theweepingwillows",
+      "twitter": "https://twitter.com/weepinwillows",
+      "instagram": "https://www.instagram.com/theweepingwillows/",
+      "spotify": "https://open.spotify.com/artist/1NtrMilHVPYuHl1yrlKVTd?nd=1",
+      "created_at": "2023-01-05T12:03:32.686+11:00",
+      "updated_at": "2023-03-10T08:40:18.475+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "4b5f80df-35fa-4ff4-a3d7-31033c6b1b66",
+      "name": "Welcome To Country",
+      "sort_name": "WelcomeToCountry",
+      "summary": "In the spirit of reconciliation Yackandandah Folk Festival acknowledges the Traditional Custodians of country throughout Australia and their connections to land, waters and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.",
+      "image_name": "WelcomeToCountry",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-21T11:21:00.329+11:00",
+      "updated_at": "2023-03-21T11:21:00.329+11:00",
+      "artist_type": "other",
+      "hide_in_artist_list": true
     },
     {
       "id": "4a2f2eeb-10b6-4656-9bb0-10aab1141a07",
@@ -814,7 +965,9 @@
       "instagram": "https://twitter.com/whilematthews",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.696+11:00",
-      "updated_at": "2023-01-10T10:16:43.526+11:00"
+      "updated_at": "2023-01-10T10:16:43.526+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
     },
     {
       "id": "fbb41fc4-dccf-4364-8281-bae84223965f",
@@ -831,7 +984,47 @@
       "instagram": "https://www.instagram.com/widowsoftheparish/",
       "spotify": "",
       "created_at": "2023-01-05T12:03:32.697+11:00",
-      "updated_at": "2023-01-10T10:17:19.106+11:00"
+      "updated_at": "2023-01-10T10:17:19.106+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "61e83281-0fff-4cdc-98c2-e69d99a9874e",
+      "name": "Yackandandah Community Choir",
+      "sort_name": "Yackandandah Community Choir",
+      "summary": "When a village with a population of less than 1000 can muster more than 120 to 150 voices to rehearse and perform together for the community's folk festival, it says something about the unique strength and community capacity in Yackandandah. This much loved group has put together a rousing and harmonious repertoire guaranteed to allow you to finish off the festival on a high. All credit to the wonderful choir and the energetic committee. An un-ticketed event; all are welcome to come and share the love as they lift spirits and lift the roof.",
+      "image_name": "YackChoir",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-09T18:22:15.923+11:00",
+      "updated_at": "2023-03-09T18:22:15.923+11:00",
+      "artist_type": "artist",
+      "hide_in_artist_list": false
+    },
+    {
+      "id": "4434c238-b34f-4f52-911e-a470e88e135b",
+      "name": "Yoga with Candice McLeod",
+      "sort_name": "Yoga",
+      "summary": "Start your morning off the right with with a yoga session lead by festival legend Candice McLeod. \n\nCandice is passionate about offering folks of all abilities, shapes and walks of life an opportunity to connect with themselves where they feel it is most needed- physically, emotionally or spiritually. And wants to make sure her offerings feel openly accessible to all, ultimately empowering you to take control of your own unique healing journey.  \n\nBYO yoga mat",
+      "image_name": "YogaCandice",
+      "website": "",
+      "youtube": "",
+      "itunes": "",
+      "soundcloud": "",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "spotify": "",
+      "created_at": "2023-03-21T09:59:08.431+11:00",
+      "updated_at": "2023-03-21T11:16:38.461+11:00",
+      "artist_type": "other",
+      "hide_in_artist_list": true
     }
   ]
 }
