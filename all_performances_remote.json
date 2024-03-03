@@ -1,1124 +1,1068 @@
 {
   "performances": [
     {
-      "id": "7c3c4ad5-0e13-42ac-bb2c-34e7a765d209",
-      "artist_id": "239a5e2a-c9b8-4a74-9698-db1ced69b86a",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T12:00:00.000+11:00",
-      "created_at": "2023-02-13T10:21:30.597+11:00",
-      "updated_at": "2023-02-13T10:21:30.597+11:00"
-    },
-    {
-      "id": "47fe5e48-b6bc-4a2f-88d8-ad83bb12ae25",
-      "artist_id": "448fe565-1dca-430c-8e45-7b0d6c1e1e49",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T13:00:00.000+11:00",
-      "created_at": "2023-02-13T10:21:50.772+11:00",
-      "updated_at": "2023-02-13T10:21:50.772+11:00"
-    },
-    {
-      "id": "945640ed-f6ec-49e2-adca-419be0832bd5",
-      "artist_id": "59013a15-d528-44c3-850a-1a2c4ac0d46a",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T14:00:00.000+11:00",
-      "created_at": "2023-02-13T10:23:08.949+11:00",
-      "updated_at": "2023-02-13T10:23:08.949+11:00"
-    },
-    {
-      "id": "55b77915-1ec9-49d8-bb95-d44d26c2b13d",
-      "artist_id": "e26d0f55-50e8-4b22-ba92-7aca30289a69",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T15:00:00.000+11:00",
-      "created_at": "2023-02-13T10:23:36.092+11:00",
-      "updated_at": "2023-02-13T10:23:36.092+11:00"
-    },
-    {
-      "id": "51d1aa95-7ff7-4c2c-8158-f0355ef3b918",
-      "artist_id": "fbb41fc4-dccf-4364-8281-bae84223965f",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T16:00:00.000+11:00",
-      "created_at": "2023-02-13T10:23:59.484+11:00",
-      "updated_at": "2023-02-13T10:23:59.484+11:00"
-    },
-    {
-      "id": "df45abbc-e812-4e82-bce8-70f00563b934",
-      "artist_id": "d3ec4f72-b8a1-4804-946b-ccdc7699091d",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T17:00:00.000+11:00",
-      "created_at": "2023-02-13T10:24:24.705+11:00",
-      "updated_at": "2023-02-13T10:24:24.705+11:00"
-    },
-    {
-      "id": "118e885f-adbd-4e9d-a1a6-25258eaac8da",
-      "artist_id": "fb4aae6b-1405-4ba3-a1d9-36d09a6b23aa",
-      "stage": "The Street Stage",
-      "time": "2023-03-24T18:00:00.000+11:00",
-      "created_at": "2023-03-21T11:19:51.495+11:00",
-      "updated_at": "2023-03-21T11:19:51.495+11:00"
-    },
-    {
-      "id": "9b10ec5e-aefc-4fad-8ea8-89a737c7eea1",
-      "artist_id": "66a1a813-330c-4e77-ba35-e28ba40eee64",
-      "stage": "The Public Hall",
-      "time": "2023-03-24T18:30:00.000+11:00",
-      "created_at": "2023-02-13T10:15:36.234+11:00",
-      "updated_at": "2023-02-13T10:15:36.234+11:00"
-    },
-    {
-      "id": "65ef4e41-9626-4ea2-8e7c-8c1dc61d5a55",
-      "artist_id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T18:30:00.000+11:00",
-      "created_at": "2023-02-13T10:24:53.460+11:00",
-      "updated_at": "2023-02-13T10:24:53.460+11:00"
-    },
-    {
-      "id": "6f373653-8a5c-4179-8432-36ea80a116f7",
-      "artist_id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
-      "stage": "The Marquee",
-      "time": "2023-03-24T18:45:00.000+11:00",
-      "created_at": "2023-02-13T10:27:38.819+11:00",
-      "updated_at": "2023-02-13T10:27:38.819+11:00"
-    },
-    {
-      "id": "b47a7307-d53d-4595-b080-cc13f4d838a7",
-      "artist_id": "4b5f80df-35fa-4ff4-a3d7-31033c6b1b66",
-      "stage": "The Street Stage",
-      "time": "2023-03-24T18:45:00.000+11:00",
-      "created_at": "2023-03-21T11:21:29.802+11:00",
-      "updated_at": "2023-03-21T11:21:29.802+11:00"
-    },
-    {
-      "id": "e5451e5b-cd16-4167-84cd-8888a42cf9a6",
-      "artist_id": "f6490f8f-053e-4c2e-a86e-0aad55b3fc69",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-24T19:30:00.000+11:00",
-      "created_at": "2023-03-07T20:42:39.369+11:00",
-      "updated_at": "2023-03-07T20:42:39.369+11:00"
-    },
-    {
-      "id": "e77d30ec-8323-4178-b9fb-b9542fa31715",
-      "artist_id": "50397840-0c70-4446-bdf6-9c24c2f163a9",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T19:30:00.000+11:00",
-      "created_at": "2023-02-13T10:25:15.560+11:00",
-      "updated_at": "2023-02-13T10:25:15.560+11:00"
+      "id": "b60670e7-08b5-4a81-a163-b36a63091484",
+      "artist_id": "4999a831-14c8-419f-a9ec-6d42ae8ab4f9",
+      "stage": "Public Hall",
+      "time": "2024-03-22T12:00:00.000+11:00",
+      "created_at": "2024-02-15T08:01:51.958+11:00",
+      "updated_at": "2024-02-15T16:27:31.151+11:00"
+    },
+    {
+      "id": "c0c726dd-6d49-4bcb-a5c6-bda0784e760d",
+      "artist_id": "9ab76395-cf91-41dd-9ea8-373f07e3c37f",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T13:00:00.000+11:00",
+      "created_at": "2024-02-15T08:02:22.116+11:00",
+      "updated_at": "2024-02-15T08:02:22.116+11:00"
+    },
+    {
+      "id": "b20c834c-c965-4923-8523-ad8ff680c44d",
+      "artist_id": "d8f77991-f0d0-4b9a-b57b-5f97c364b88c",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T14:00:00.000+11:00",
+      "created_at": "2024-02-15T08:02:32.326+11:00",
+      "updated_at": "2024-02-15T08:02:32.326+11:00"
+    },
+    {
+      "id": "3755f7d6-b44b-4974-80f6-f527c25ce1bb",
+      "artist_id": "1045d4f1-7463-4b23-b1c4-c75df46fbb16",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T15:00:00.000+11:00",
+      "created_at": "2024-02-15T08:02:49.982+11:00",
+      "updated_at": "2024-02-15T08:02:49.982+11:00"
+    },
+    {
+      "id": "5630cc46-8169-4c66-af79-820088738745",
+      "artist_id": "ed300b23-8071-402c-b81c-8187d057aa04",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T16:00:00.000+11:00",
+      "created_at": "2024-02-15T08:03:05.756+11:00",
+      "updated_at": "2024-02-15T08:03:05.756+11:00"
+    },
+    {
+      "id": "bbd0aa66-2ede-4bed-a491-e3193c1d0a85",
+      "artist_id": "0eca9d75-ff32-4245-bb4c-e55a96463514",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T16:00:00.000+11:00",
+      "created_at": "2024-02-15T08:06:50.636+11:00",
+      "updated_at": "2024-02-15T08:06:50.636+11:00"
+    },
+    {
+      "id": "97f2c7bf-a373-49db-860f-a2e76dc2ab11",
+      "artist_id": "289a8ee7-30f5-4554-aeda-a964d947487a",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T17:00:00.000+11:00",
+      "created_at": "2024-02-15T08:03:22.391+11:00",
+      "updated_at": "2024-02-15T08:03:22.391+11:00"
+    },
+    {
+      "id": "6da23894-db30-4b11-a8e7-9740fb4bf2c8",
+      "artist_id": "3e72b0bd-2530-495c-aec0-fb36e6092781",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T17:00:00.000+11:00",
+      "created_at": "2024-02-15T08:07:02.193+11:00",
+      "updated_at": "2024-02-15T08:07:02.193+11:00"
+    },
+    {
+      "id": "fd5b67f9-81f0-4a1a-a50b-d7aa9e4e6d1d",
+      "artist_id": "6fd8b7eb-3060-475b-b554-81def8ffe89c",
+      "stage": "Street Stage",
+      "time": "2024-03-22T18:00:00.000+11:00",
+      "created_at": "2024-02-19T09:43:42.884+11:00",
+      "updated_at": "2024-02-19T09:43:42.884+11:00"
+    },
+    {
+      "id": "0ba96792-a046-4154-8f9d-30bee2b96e04",
+      "artist_id": "4f632e9f-002a-4efd-a00a-2e28a6a61c78",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T18:30:00.000+11:00",
+      "created_at": "2024-02-15T08:07:22.812+11:00",
+      "updated_at": "2024-02-15T08:07:22.812+11:00"
+    },
+    {
+      "id": "ada1ead8-ff62-45d1-94d0-1253b9e1c07e",
+      "artist_id": "e8eaaf9c-62bb-421f-b0da-aecd7a1988d7",
+      "stage": "Public Hall",
+      "time": "2024-03-22T18:30:00.000+11:00",
+      "created_at": "2024-02-15T08:00:05.685+11:00",
+      "updated_at": "2024-02-15T08:00:05.685+11:00"
+    },
+    {
+      "id": "a996ba96-bf0f-4849-b9bb-82010b8ddc4c",
+      "artist_id": "5ea34df3-00fa-4c00-9d15-609e7fec4377",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T18:30:00.000+11:00",
+      "created_at": "2024-02-15T08:04:52.307+11:00",
+      "updated_at": "2024-02-15T08:04:52.307+11:00"
+    },
+    {
+      "id": "89476fe0-a229-438e-a8fd-7bd429d66c07",
+      "artist_id": "a01a3141-51de-4976-8546-0d912ada673f",
+      "stage": "Marquee",
+      "time": "2024-03-22T18:45:00.000+11:00",
+      "created_at": "2024-02-15T08:12:53.870+11:00",
+      "updated_at": "2024-02-15T08:12:53.870+11:00"
     },
     {
-      "id": "5f22eaf5-e606-485e-8a98-83b6a87104de",
-      "artist_id": "681a35a9-58ad-4fc7-bda8-2e96378e5e8c",
-      "stage": "The Public Hall",
-      "time": "2023-03-24T19:30:00.000+11:00",
-      "created_at": "2023-03-09T17:56:46.195+11:00",
-      "updated_at": "2023-03-09T17:56:46.195+11:00"
+      "id": "c1b991ef-bf48-4c27-bb5b-186b5f1d6b08",
+      "artist_id": "4ad7254e-0a8c-49fa-8e4e-b25971fd8b20",
+      "stage": "Public Hall",
+      "time": "2024-03-22T19:30:00.000+11:00",
+      "created_at": "2024-02-15T08:00:21.556+11:00",
+      "updated_at": "2024-02-15T08:00:21.556+11:00"
     },
     {
-      "id": "c8b5bb43-6c2c-400e-bbca-5f2bff2e2fa3",
-      "artist_id": "c7448b2e-8690-42cb-b533-cd085abb135c",
-      "stage": "The Marquee",
-      "time": "2023-03-24T19:45:00.000+11:00",
-      "created_at": "2023-02-13T10:28:03.034+11:00",
-      "updated_at": "2023-02-13T10:28:03.034+11:00"
+      "id": "e42c46b4-dd70-41fa-8815-1484bdb6ff23",
+      "artist_id": "59b80669-f9c6-4224-86e3-c13e2546cc58",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T19:30:00.000+11:00",
+      "created_at": "2024-02-15T08:07:36.539+11:00",
+      "updated_at": "2024-02-15T08:07:36.539+11:00"
     },
     {
-      "id": "8f597e02-9386-4280-8e50-3ac8f52befde",
-      "artist_id": "91cb6c07-16a0-4dc7-bc47-1ee348e18789",
-      "stage": "The Public Hall",
-      "time": "2023-03-24T20:30:00.000+11:00",
-      "created_at": "2023-02-13T10:19:10.251+11:00",
-      "updated_at": "2023-03-09T17:57:05.260+11:00"
+      "id": "d1c936a6-ecf2-4d01-8e94-13242e78b50e",
+      "artist_id": "df26eb2c-2098-422e-885a-60c68ad9649b",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T19:30:00.000+11:00",
+      "created_at": "2024-02-15T08:05:19.727+11:00",
+      "updated_at": "2024-02-15T08:05:19.727+11:00"
     },
     {
-      "id": "c0a26d11-6425-4fa5-a51e-5a0b252e7f88",
-      "artist_id": "f1af8bf0-966d-483c-88db-abf1f0736aab",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T20:30:00.000+11:00",
-      "created_at": "2023-02-13T10:25:58.480+11:00",
-      "updated_at": "2023-02-13T10:25:58.480+11:00"
+      "id": "ab6ac612-9cfe-4af9-9980-37f5c946256b",
+      "artist_id": "742c4a89-48f9-4665-9b8a-52b608d82692",
+      "stage": "Marquee",
+      "time": "2024-03-22T20:00:00.000+11:00",
+      "created_at": "2024-02-15T08:13:04.307+11:00",
+      "updated_at": "2024-02-15T08:13:04.307+11:00"
     },
     {
-      "id": "368baf9c-43dd-4ff4-8682-039975a5f275",
-      "artist_id": "b7bfe928-9e15-4f7f-8dfe-f77daed6a419",
-      "stage": "The Marquee",
-      "time": "2023-03-24T20:45:00.000+11:00",
-      "created_at": "2023-02-13T10:29:10.150+11:00",
-      "updated_at": "2023-02-13T10:29:10.150+11:00"
+      "id": "5c82d889-33eb-47bd-b200-750c4c42d2d1",
+      "artist_id": "85676b67-9a2d-48e4-9780-fcb6e47f32c8",
+      "stage": "Public Hall",
+      "time": "2024-03-22T20:30:00.000+11:00",
+      "created_at": "2024-02-15T08:00:38.548+11:00",
+      "updated_at": "2024-02-15T08:00:38.548+11:00"
     },
     {
-      "id": "fbfe0385-0b3e-4992-884b-6cd1ae9df64b",
-      "artist_id": "8e8df656-79af-4d43-a3e7-ba05a56354e1",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T21:30:00.000+11:00",
-      "created_at": "2023-02-13T10:26:28.119+11:00",
-      "updated_at": "2023-02-13T10:26:28.119+11:00"
+      "id": "7fd9ecd4-8bf6-4363-af18-9ebf50b0b277",
+      "artist_id": "c579da35-34a6-4b40-bd2f-5ed82a75467c",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T20:30:00.000+11:00",
+      "created_at": "2024-02-15T08:07:51.645+11:00",
+      "updated_at": "2024-02-15T08:07:51.645+11:00"
     },
     {
-      "id": "de080452-80e3-4ce8-b950-74beba268acb",
-      "artist_id": "4a2f2eeb-10b6-4656-9bb0-10aab1141a07",
-      "stage": "The Public Hall",
-      "time": "2023-03-24T21:30:00.000+11:00",
-      "created_at": "2023-02-13T10:19:38.750+11:00",
-      "updated_at": "2023-02-13T10:19:38.750+11:00"
+      "id": "f315c196-7650-4513-9725-67def92af11f",
+      "artist_id": "df305290-3509-436f-b7c5-f75544189351",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T20:45:00.000+11:00",
+      "created_at": "2024-02-15T08:05:32.087+11:00",
+      "updated_at": "2024-02-15T08:05:32.087+11:00"
     },
     {
-      "id": "76d8c1e0-b7b3-4d0a-ad9b-4681408418a1",
-      "artist_id": "e9f6c941-fee7-4766-9c61-8f9f4870baf8",
-      "stage": "The Marquee",
-      "time": "2023-03-24T21:45:00.000+11:00",
-      "created_at": "2023-02-13T10:29:35.722+11:00",
-      "updated_at": "2023-02-13T10:29:35.722+11:00"
+      "id": "15dac944-6f97-4904-8d68-70b20d5a81b4",
+      "artist_id": "7cf9dd6a-b54f-4cc3-99b1-121522dd7b69",
+      "stage": "Marquee",
+      "time": "2024-03-22T21:15:00.000+11:00",
+      "created_at": "2024-02-15T08:13:19.903+11:00",
+      "updated_at": "2024-02-15T08:13:19.903+11:00"
     },
     {
-      "id": "3aa49193-d536-4172-af4a-172a34726207",
-      "artist_id": "0dad927b-9eb7-4854-a505-c23499b01db3",
-      "stage": "The Star Hotel",
-      "time": "2023-03-24T22:30:00.000+11:00",
-      "created_at": "2023-02-13T10:26:53.621+11:00",
-      "updated_at": "2023-02-13T10:26:53.621+11:00"
+      "id": "d048b534-31b0-45c7-9bc9-1a2cf4cd7e12",
+      "artist_id": "0ad08777-8e15-46d0-b733-30c4fffad067",
+      "stage": "Public Hall",
+      "time": "2024-03-22T21:30:00.000+11:00",
+      "created_at": "2024-02-15T08:00:49.569+11:00",
+      "updated_at": "2024-02-15T08:00:49.569+11:00"
     },
     {
-      "id": "f02014c2-0d72-4296-b3f1-51d0f43d30b9",
-      "artist_id": "dfeebb28-2720-47d3-bad3-126e1ea7b0cf",
-      "stage": "The Public Hall",
-      "time": "2023-03-24T22:30:00.000+11:00",
-      "created_at": "2023-02-13T15:07:02.616+11:00",
-      "updated_at": "2023-02-13T15:07:02.616+11:00"
+      "id": "a1782705-4201-4147-9d54-567092b6c35e",
+      "artist_id": "3d5cff08-39cd-432a-9b4d-3c768f7102a6",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T21:45:00.000+11:00",
+      "created_at": "2024-02-15T08:11:53.702+11:00",
+      "updated_at": "2024-02-15T08:11:53.702+11:00"
     },
     {
-      "id": "47244d5b-d72a-4ce7-841f-84d41e586aad",
-      "artist_id": "55268404-415a-4fd9-a0d4-96a418b6c83d",
-      "stage": "The Marquee",
-      "time": "2023-03-24T22:45:00.000+11:00",
-      "created_at": "2023-02-13T10:29:58.658+11:00",
-      "updated_at": "2023-02-13T10:29:58.658+11:00"
+      "id": "21dbaade-a3cf-49ab-80e1-38c476e9bf17",
+      "artist_id": "23fe30ce-2c58-46cc-b135-f65d5a37b7fd",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T22:00:00.000+11:00",
+      "created_at": "2024-02-15T08:05:55.696+11:00",
+      "updated_at": "2024-02-15T08:05:55.696+11:00"
     },
     {
-      "id": "11e276b2-a993-4a7c-87e0-ba7eb7016d99",
-      "artist_id": "4434c238-b34f-4f52-911e-a470e88e135b",
-      "stage": "The Marquee",
-      "time": "2023-03-25T08:15:00.000+11:00",
-      "created_at": "2023-03-21T11:34:46.599+11:00",
-      "updated_at": "2023-03-21T11:34:46.599+11:00"
+      "id": "488239dd-6b6e-4f16-92a1-deb5692ec490",
+      "artist_id": "46d8826b-611e-4593-84c5-7a7b3c077e81",
+      "stage": "Marquee",
+      "time": "2024-03-22T22:30:00.000+11:00",
+      "created_at": "2024-02-15T08:13:30.890+11:00",
+      "updated_at": "2024-02-15T08:13:30.890+11:00"
     },
     {
-      "id": "835860d4-e300-4265-b816-9c010d0ff46c",
-      "artist_id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T10:00:00.000+11:00",
-      "created_at": "2023-02-13T14:05:39.732+11:00",
-      "updated_at": "2023-02-13T14:05:39.732+11:00"
+      "id": "00b15ae6-fda8-463c-91aa-0c96e9d8b707",
+      "artist_id": "de26eb5e-2d75-4a44-b964-9ffd44924bff",
+      "stage": "Public Hall",
+      "time": "2024-03-22T22:30:00.000+11:00",
+      "created_at": "2024-02-15T08:01:03.998+11:00",
+      "updated_at": "2024-02-15T08:01:03.998+11:00"
     },
     {
-      "id": "c233676d-8871-4e90-85db-82551284eddc",
-      "artist_id": "61cca078-d1c9-47e4-8bcf-6b61aa712813",
-      "stage": "The Marquee",
-      "time": "2023-03-25T10:00:00.000+11:00",
-      "created_at": "2023-02-13T14:15:09.281+11:00",
-      "updated_at": "2023-02-13T14:16:13.932+11:00"
+      "id": "b8620108-c166-4312-ad7a-d9eb0f54e753",
+      "artist_id": "ebe12646-153b-47fd-aea1-2c7fd2cab9d7",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-22T23:00:00.000+11:00",
+      "created_at": "2024-02-15T08:12:20.909+11:00",
+      "updated_at": "2024-02-15T08:12:20.909+11:00"
     },
     {
-      "id": "379a6466-e28f-40cd-9b60-6d807ebf869c",
-      "artist_id": "5746336c-803d-46d6-93ec-7564f84686f3",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T10:15:00.000+11:00",
-      "created_at": "2023-02-13T15:17:32.423+11:00",
-      "updated_at": "2023-02-13T15:17:32.423+11:00"
+      "id": "3b27ae3d-9e68-4c8b-9f36-427347a6b961",
+      "artist_id": "1f6afeea-2f2e-4409-9f75-d1bc12fe21a0",
+      "stage": "Star Hotel",
+      "time": "2024-03-22T23:15:00.000+11:00",
+      "created_at": "2024-02-15T08:06:06.310+11:00",
+      "updated_at": "2024-02-15T08:06:06.310+11:00"
     },
     {
-      "id": "11fc3000-06f6-423d-b7ff-e7ebb1213c41",
-      "artist_id": "ead1ecf2-09a3-4028-9432-3608efac274a",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T10:15:00.000+11:00",
-      "created_at": "2023-02-13T13:37:36.946+11:00",
-      "updated_at": "2023-02-13T13:37:36.946+11:00"
+      "id": "b672b39f-386c-4beb-be3b-4379acbac687",
+      "artist_id": "27d907b6-7964-42d1-81a6-4381cf22e747",
+      "stage": "Marquee",
+      "time": "2024-03-23T08:15:00.000+11:00",
+      "created_at": "2024-02-19T09:44:20.496+11:00",
+      "updated_at": "2024-02-19T09:44:20.496+11:00"
     },
     {
-      "id": "ce455274-c866-486b-a3dc-13b22a26ee8f",
-      "artist_id": "448fe565-1dca-430c-8e45-7b0d6c1e1e49",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T10:15:00.000+11:00",
-      "created_at": "2023-03-06T14:47:45.482+11:00",
-      "updated_at": "2023-03-06T14:47:45.482+11:00"
+      "id": "32c089ef-f2ac-48ce-a642-2ab5a1fa27e6",
+      "artist_id": "2a227354-8baf-404d-a90b-acda03c88ee5",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T10:00:00.000+11:00",
+      "created_at": "2024-02-23T14:52:30.708+11:00",
+      "updated_at": "2024-02-23T14:52:30.708+11:00"
     },
     {
-      "id": "b096fec9-d8eb-4b63-8376-4928b5159bd6",
-      "artist_id": "3c609d6b-b46c-4b70-9982-f698cdd453f7",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T10:45:00.000+11:00",
-      "created_at": "2023-02-13T15:13:53.438+11:00",
-      "updated_at": "2023-02-13T15:13:53.438+11:00"
+      "id": "4e40a655-3990-4bc5-af80-d12ae4e55aa7",
+      "artist_id": "9ab76395-cf91-41dd-9ea8-373f07e3c37f",
+      "stage": "Marquee",
+      "time": "2024-03-23T10:00:00.000+11:00",
+      "created_at": "2024-02-15T08:38:15.370+11:00",
+      "updated_at": "2024-02-15T08:38:15.370+11:00"
     },
     {
-      "id": "baa243a9-1e74-41dd-a433-c07886d470f9",
-      "artist_id": "c18a72de-09ae-458a-a61c-a9eca03fbeb3",
-      "stage": "The Marquee",
-      "time": "2023-03-25T11:00:00.000+11:00",
-      "created_at": "2023-02-13T14:16:44.920+11:00",
-      "updated_at": "2023-02-13T14:16:44.920+11:00"
+      "id": "e0484f4f-40c3-439d-9889-f71b460de0f4",
+      "artist_id": "07aedb12-026c-42c7-b55f-1ca887e53e61",
+      "stage": "Public Hall",
+      "time": "2024-03-23T10:15:00.000+11:00",
+      "created_at": "2024-02-15T08:15:53.539+11:00",
+      "updated_at": "2024-02-15T08:15:53.539+11:00"
     },
     {
-      "id": "0dfe6596-7c60-4add-8614-675924d40f8f",
-      "artist_id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T11:00:00.000+11:00",
-      "created_at": "2023-02-13T14:06:43.194+11:00",
-      "updated_at": "2023-02-13T14:06:43.194+11:00"
+      "id": "e1f43bb9-48cf-45d0-8489-75301c10c72c",
+      "artist_id": "93f5ae00-9ee6-4fba-88df-97c05e90d36f",
+      "stage": "Marquee",
+      "time": "2024-03-23T11:00:00.000+11:00",
+      "created_at": "2024-02-15T08:38:26.539+11:00",
+      "updated_at": "2024-02-15T08:38:26.539+11:00"
     },
     {
-      "id": "675db7c3-93c3-4de9-92fc-2b69b0a15678",
-      "artist_id": "c0aed526-668b-4f45-8fd5-c72a4a727e45",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T11:15:00.000+11:00",
-      "created_at": "2023-03-06T14:48:15.384+11:00",
-      "updated_at": "2023-03-06T14:48:15.384+11:00"
+      "id": "cedaa6c4-3ee5-454e-a97b-f0789fa7f72f",
+      "artist_id": "289a8ee7-30f5-4554-aeda-a964d947487a",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T11:00:00.000+11:00",
+      "created_at": "2024-02-15T08:34:29.653+11:00",
+      "updated_at": "2024-02-23T14:52:12.257+11:00"
     },
     {
-      "id": "1dea8ea3-e51b-4349-891f-c1c337c44700",
-      "artist_id": "ea0eabd8-0ee9-464c-8de7-44d9df93b9d6",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T11:15:00.000+11:00",
-      "created_at": "2023-02-13T15:18:03.186+11:00",
-      "updated_at": "2023-02-13T15:18:03.186+11:00"
+      "id": "22b5a435-3284-4500-b4b5-d9b8d4632844",
+      "artist_id": "c75a68df-ec6d-46eb-8c0b-75a3e9ae3660",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T11:05:00.000+11:00",
+      "created_at": "2024-02-15T08:44:59.100+11:00",
+      "updated_at": "2024-02-15T08:44:59.100+11:00"
     },
     {
-      "id": "ec1ba80a-0290-496f-b7c4-c834745169ae",
-      "artist_id": "c7448b2e-8690-42cb-b533-cd085abb135c",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T11:15:00.000+11:00",
-      "created_at": "2023-02-13T13:38:11.319+11:00",
-      "updated_at": "2023-02-13T13:38:11.319+11:00"
+      "id": "97bf8cce-362e-4560-8136-5bd00279cdd9",
+      "artist_id": "c71789a6-34de-4fff-95e5-aea8fa7fd4fc",
+      "stage": "Public Hall",
+      "time": "2024-03-23T11:15:00.000+11:00",
+      "created_at": "2024-02-15T08:28:22.287+11:00",
+      "updated_at": "2024-02-15T08:28:22.287+11:00"
     },
     {
-      "id": "e5f4a9c5-8a86-44ee-958f-f9e1de5ca9e5",
-      "artist_id": "1dd91865-35b2-414e-baaa-366648d26302",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T11:45:00.000+11:00",
-      "created_at": "2023-02-13T15:14:16.197+11:00",
-      "updated_at": "2023-02-13T15:14:16.197+11:00"
+      "id": "241f9cab-dc85-4541-942d-6296f8b0de89",
+      "artist_id": "e25076b8-b4da-4880-8b87-f45c6d243940",
+      "stage": "Court House",
+      "time": "2024-03-23T11:45:00.000+11:00",
+      "created_at": "2024-02-15T08:41:10.837+11:00",
+      "updated_at": "2024-02-15T08:41:10.837+11:00"
     },
     {
-      "id": "26b0cfaf-4a6d-4ca3-8295-f5a1019099f0",
-      "artist_id": "4b07b759-e094-4171-9d39-0c47145d442a",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T12:00:00.000+11:00",
-      "created_at": "2023-02-13T14:07:28.227+11:00",
-      "updated_at": "2023-02-13T14:07:28.227+11:00"
+      "id": "effcc35b-284c-4180-898d-d394d0f5011c",
+      "artist_id": "d7bb4645-e8bb-4e27-978c-3ae42108c3ff",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T12:00:00.000+11:00",
+      "created_at": "2024-02-15T08:36:50.401+11:00",
+      "updated_at": "2024-02-15T08:36:50.401+11:00"
     },
     {
-      "id": "a856c88b-4705-4a4e-b1c2-a90fc8172e77",
-      "artist_id": "3dc0f7bc-6963-4165-9983-721a86d386a8",
-      "stage": "The Marquee",
-      "time": "2023-03-25T12:00:00.000+11:00",
-      "created_at": "2023-02-13T14:17:02.460+11:00",
-      "updated_at": "2023-02-13T14:17:02.460+11:00"
+      "id": "6c692b01-e4b0-4a87-acaf-e26f42500257",
+      "artist_id": "c3396654-44aa-46a8-9077-1a1268ca14ee",
+      "stage": "Marquee",
+      "time": "2024-03-23T12:00:00.000+11:00",
+      "created_at": "2024-02-15T08:38:37.619+11:00",
+      "updated_at": "2024-02-15T08:38:37.619+11:00"
     },
     {
-      "id": "026e7849-3cd7-4d3e-ad52-005b3ae3f3af",
-      "artist_id": "448fe565-1dca-430c-8e45-7b0d6c1e1e49",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T12:00:00.000+11:00",
-      "created_at": "2023-02-13T14:12:51.014+11:00",
-      "updated_at": "2023-02-13T14:12:51.014+11:00"
+      "id": "5fef4b66-a46d-48d9-aed5-78a67b61c2d8",
+      "artist_id": "0eca9d75-ff32-4245-bb4c-e55a96463514",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T12:00:00.000+11:00",
+      "created_at": "2024-02-15T08:34:41.442+11:00",
+      "updated_at": "2024-02-15T08:34:41.442+11:00"
     },
     {
-      "id": "5bc9cb46-bf39-4e56-89b5-de478f655a8b",
-      "artist_id": "52fc5802-bea8-4e52-aa69-e1d293911276",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T12:15:00.000+11:00",
-      "created_at": "2023-03-06T14:48:49.984+11:00",
-      "updated_at": "2023-03-06T14:48:49.984+11:00"
+      "id": "765fe7c5-3f9a-43ee-8a47-a33d06f97ffd",
+      "artist_id": "10e6717f-dd27-46a6-bb00-dbdc2db52bd1",
+      "stage": "Public Hall",
+      "time": "2024-03-23T12:15:00.000+11:00",
+      "created_at": "2024-02-15T08:32:07.010+11:00",
+      "updated_at": "2024-02-15T08:32:07.010+11:00"
     },
     {
-      "id": "22004468-0bcb-491b-8a8a-334cbc91a9a1",
-      "artist_id": "8d02bede-8fb8-438b-a59e-6ef9ab0bc46d",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T12:15:00.000+11:00",
-      "created_at": "2023-02-13T15:18:35.629+11:00",
-      "updated_at": "2023-02-13T15:18:35.629+11:00"
+      "id": "55bcc83a-23da-4edd-89d6-32ea584a62a0",
+      "artist_id": "7696e6d9-42bb-4cf0-9ac0-4cbf94b382ec",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T12:15:00.000+11:00",
+      "created_at": "2024-02-15T08:45:07.417+11:00",
+      "updated_at": "2024-02-15T08:45:07.417+11:00"
     },
     {
-      "id": "8c8a2d93-7eff-4a5b-b149-55b4b4aaf064",
-      "artist_id": "290d7f05-a286-413e-bf71-ff798aa32a90",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T12:15:00.000+11:00",
-      "created_at": "2023-02-13T13:38:41.147+11:00",
-      "updated_at": "2023-02-13T13:38:41.147+11:00"
+      "id": "a3abe004-960a-43e6-b349-78300d0555f7",
+      "artist_id": "d8f77991-f0d0-4b9a-b57b-5f97c364b88c",
+      "stage": "Court House",
+      "time": "2024-03-23T12:45:00.000+11:00",
+      "created_at": "2024-02-15T08:41:19.346+11:00",
+      "updated_at": "2024-02-15T08:41:19.346+11:00"
     },
     {
-      "id": "a5ca53f8-10fb-47b9-8ffa-39e6e3b5fd2b",
-      "artist_id": "7398a155-cbe1-40bb-a038-af2370759885",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T12:45:00.000+11:00",
-      "created_at": "2023-02-13T15:14:45.788+11:00",
-      "updated_at": "2023-02-13T15:14:45.788+11:00"
+      "id": "d797f947-0d4e-415a-afc7-1755fc0b2315",
+      "artist_id": "7db2b572-4a66-4827-b204-baa693bcc2d4",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T13:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:03.737+11:00",
+      "updated_at": "2024-02-15T08:35:03.737+11:00"
     },
     {
-      "id": "13779411-8c93-462b-8d62-f1b74a8ad81f",
-      "artist_id": "e26d0f55-50e8-4b22-ba92-7aca30289a69",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T13:00:00.000+11:00",
-      "created_at": "2023-02-13T14:13:37.902+11:00",
-      "updated_at": "2023-02-13T14:13:37.902+11:00"
+      "id": "4049e901-8cef-4b7c-bb7b-4e20cbeb560d",
+      "artist_id": "3d4d1c1f-3fed-44dd-90f5-3c1fbb4338d9",
+      "stage": "Marquee",
+      "time": "2024-03-23T13:00:00.000+11:00",
+      "created_at": "2024-02-15T08:38:46.215+11:00",
+      "updated_at": "2024-02-15T08:38:46.215+11:00"
     },
     {
-      "id": "509802fe-fd3c-4a3e-a5b8-334c56c01640",
-      "artist_id": "c85b45d8-6675-497a-a987-1d0e42e298a4",
-      "stage": "The Marquee",
-      "time": "2023-03-25T13:00:00.000+11:00",
-      "created_at": "2023-02-13T14:17:19.930+11:00",
-      "updated_at": "2023-02-13T14:17:19.930+11:00"
+      "id": "149845b8-4151-4a20-8c1b-60f2d6d5ea10",
+      "artist_id": "5ea34df3-00fa-4c00-9d15-609e7fec4377",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T13:00:00.000+11:00",
+      "created_at": "2024-02-15T08:36:57.328+11:00",
+      "updated_at": "2024-02-15T08:36:57.328+11:00"
     },
     {
-      "id": "929b0196-5a89-4256-bbdb-b9c0c0e4f582",
-      "artist_id": "e287a74b-0ef7-46e9-8c99-6e82d4953bb6",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T13:00:00.000+11:00",
-      "created_at": "2023-02-13T14:09:41.819+11:00",
-      "updated_at": "2023-02-13T14:09:41.819+11:00"
+      "id": "18085e9f-024a-408f-be3a-510dda09e1e0",
+      "artist_id": "e8eaaf9c-62bb-421f-b0da-aecd7a1988d7",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T13:15:00.000+11:00",
+      "created_at": "2024-02-15T08:45:18.909+11:00",
+      "updated_at": "2024-02-15T08:45:18.909+11:00"
     },
     {
-      "id": "48f9d80b-b613-4782-ac54-440026942208",
-      "artist_id": "91cb6c07-16a0-4dc7-bc47-1ee348e18789",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T13:15:00.000+11:00",
-      "created_at": "2023-03-06T14:49:22.284+11:00",
-      "updated_at": "2023-03-06T14:49:22.284+11:00"
+      "id": "89cd851c-4065-4753-9c81-bcbca2448ece",
+      "artist_id": "855c2947-000e-46dd-92b5-d202b823c403",
+      "stage": "Public Hall",
+      "time": "2024-03-23T13:15:00.000+11:00",
+      "created_at": "2024-02-15T08:32:30.308+11:00",
+      "updated_at": "2024-02-15T08:32:30.308+11:00"
     },
     {
-      "id": "ce6e9d6e-41de-4154-a10e-ece6fdac4c2c",
-      "artist_id": "66a1a813-330c-4e77-ba35-e28ba40eee64",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T13:15:00.000+11:00",
-      "created_at": "2023-02-13T13:39:02.843+11:00",
-      "updated_at": "2023-02-13T13:39:02.843+11:00"
+      "id": "8c486a54-8e8f-4957-9f37-a40fd7c77064",
+      "artist_id": "4999a831-14c8-419f-a9ec-6d42ae8ab4f9",
+      "stage": "Backwoods Distillery",
+      "time": "2024-03-23T13:30:00.000+11:00",
+      "created_at": "2024-02-15T08:46:55.223+11:00",
+      "updated_at": "2024-02-15T08:46:55.223+11:00"
     },
     {
-      "id": "f0a8753c-b49c-47d9-83a6-f19402cb7173",
-      "artist_id": "fbb41fc4-dccf-4364-8281-bae84223965f",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T13:15:00.000+11:00",
-      "created_at": "2023-02-13T15:18:55.798+11:00",
-      "updated_at": "2023-02-13T15:18:55.798+11:00"
+      "id": "efb017ab-5102-4330-85b4-2a23c68ff784",
+      "artist_id": "1045d4f1-7463-4b23-b1c4-c75df46fbb16",
+      "stage": "Yack Creek Distillery",
+      "time": "2024-03-23T13:30:00.000+11:00",
+      "created_at": "2024-02-15T08:47:10.637+11:00",
+      "updated_at": "2024-02-15T08:47:10.637+11:00"
     },
     {
-      "id": "ac3ea251-8ead-4d1f-a89f-6997718a95f5",
-      "artist_id": "681a35a9-58ad-4fc7-bda8-2e96378e5e8c",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T13:45:00.000+11:00",
-      "created_at": "2023-02-13T15:15:19.144+11:00",
-      "updated_at": "2023-02-13T15:15:19.144+11:00"
+      "id": "d40640ed-cbd4-452f-af13-91977ed90cbf",
+      "artist_id": "c71789a6-34de-4fff-95e5-aea8fa7fd4fc",
+      "stage": "Court House",
+      "time": "2024-03-23T13:45:00.000+11:00",
+      "created_at": "2024-02-15T08:41:42.322+11:00",
+      "updated_at": "2024-02-15T08:41:42.322+11:00"
     },
     {
-      "id": "cebe34e2-9ab2-4525-a4e4-8a0dbd0d032f",
-      "artist_id": "e9f6c941-fee7-4766-9c61-8f9f4870baf8",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T14:00:00.000+11:00",
-      "created_at": "2023-02-13T14:14:04.842+11:00",
-      "updated_at": "2023-02-13T14:14:04.842+11:00"
+      "id": "f218898d-788e-46fa-a01b-79afb8dc096a",
+      "artist_id": "df26eb2c-2098-422e-885a-60c68ad9649b",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T14:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:31.609+11:00",
+      "updated_at": "2024-03-04T09:29:33.156+11:00"
     },
     {
-      "id": "6a746c3b-5cba-4bdf-8e6e-c8fe0309e6db",
-      "artist_id": "c0aed526-668b-4f45-8fd5-c72a4a727e45",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T14:00:00.000+11:00",
-      "created_at": "2023-02-13T14:10:56.057+11:00",
-      "updated_at": "2023-02-13T14:10:56.057+11:00"
+      "id": "b37bb890-95bc-4298-8527-e30fc76b9650",
+      "artist_id": "e1ea9a06-a032-4a2f-850e-21e739cd613d",
+      "stage": "Marquee",
+      "time": "2024-03-23T14:00:00.000+11:00",
+      "created_at": "2024-02-15T08:38:57.385+11:00",
+      "updated_at": "2024-02-15T08:38:57.385+11:00"
     },
     {
-      "id": "49cd8df6-6698-4992-8a1c-0135d5148f85",
-      "artist_id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
-      "stage": "The Marquee",
-      "time": "2023-03-25T14:00:00.000+11:00",
-      "created_at": "2023-02-13T14:17:38.912+11:00",
-      "updated_at": "2023-02-13T14:17:38.912+11:00"
+      "id": "a48b328b-6e41-4636-9b1a-b23e028b0999",
+      "artist_id": "07aedb12-026c-42c7-b55f-1ca887e53e61",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T14:00:00.000+11:00",
+      "created_at": "2024-02-15T08:37:08.942+11:00",
+      "updated_at": "2024-02-15T08:37:08.942+11:00"
     },
     {
-      "id": "51aaa56b-8534-45a0-804f-b67c9c933a4a",
-      "artist_id": "8eb7991b-7133-4248-9534-f3636f6984cd",
-      "stage": "The Street Stage",
-      "time": "2023-03-25T14:00:00.000+11:00",
-      "created_at": "2023-03-17T11:33:04.575+11:00",
-      "updated_at": "2023-03-17T11:33:04.575+11:00"
+      "id": "04a66b2b-aa30-447d-97fb-ed10b83ca080",
+      "artist_id": "3388e854-45b8-47bc-a1e0-aa14a8ef213d",
+      "stage": "Public Hall",
+      "time": "2024-03-23T14:15:00.000+11:00",
+      "created_at": "2024-02-15T08:32:41.818+11:00",
+      "updated_at": "2024-02-15T08:32:41.818+11:00"
     },
     {
-      "id": "5e2658c8-418a-46fe-8647-5b71c332b00e",
-      "artist_id": "21192f0c-ba89-49fa-a88e-c0dc10087652",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T14:15:00.000+11:00",
-      "created_at": "2023-02-13T15:19:33.807+11:00",
-      "updated_at": "2023-02-13T15:19:33.807+11:00"
+      "id": "23c82f6c-b1c7-46ed-842d-90d6284617b9",
+      "artist_id": "4ad7254e-0a8c-49fa-8e4e-b25971fd8b20",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T14:15:00.000+11:00",
+      "created_at": "2024-02-15T08:45:28.895+11:00",
+      "updated_at": "2024-02-15T08:45:28.895+11:00"
     },
     {
-      "id": "45bf9c0f-8542-4858-b37a-b58641456543",
-      "artist_id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T14:15:00.000+11:00",
-      "created_at": "2023-03-06T14:49:41.219+11:00",
-      "updated_at": "2023-03-06T14:49:41.219+11:00"
+      "id": "c6b8e177-6a44-4f98-9b63-59c1422add69",
+      "artist_id": "289a8ee7-30f5-4554-aeda-a964d947487a",
+      "stage": "Court House",
+      "time": "2024-03-23T14:45:00.000+11:00",
+      "created_at": "2024-02-15T08:41:51.318+11:00",
+      "updated_at": "2024-02-15T08:41:51.318+11:00"
     },
     {
-      "id": "a5361c5e-f3f9-463f-b859-203f2277f353",
-      "artist_id": "577161f4-4974-4121-8ff5-900744d89d41",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T14:15:00.000+11:00",
-      "created_at": "2023-02-13T13:40:19.876+11:00",
-      "updated_at": "2023-02-13T13:40:19.876+11:00"
+      "id": "37ae376a-acf3-4842-aaff-4a1def704038",
+      "artist_id": "3d4d1c1f-3fed-44dd-90f5-3c1fbb4338d9",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T15:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:21.310+11:00",
+      "updated_at": "2024-02-15T08:35:21.310+11:00"
     },
     {
-      "id": "39f50f66-6bc2-4f92-8b4e-31b6a02bad25",
-      "artist_id": "59013a15-d528-44c3-850a-1a2c4ac0d46a",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T14:45:00.000+11:00",
-      "created_at": "2023-02-13T15:15:36.063+11:00",
-      "updated_at": "2023-02-13T15:15:36.063+11:00"
+      "id": "06b4a382-3f3c-4a9a-8006-1503a7b315d8",
+      "artist_id": "ed300b23-8071-402c-b81c-8187d057aa04",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T15:00:00.000+11:00",
+      "created_at": "2024-02-15T08:37:20.358+11:00",
+      "updated_at": "2024-02-15T08:37:20.358+11:00"
     },
     {
-      "id": "54196149-cdec-4035-baec-b373131279e5",
-      "artist_id": "ea0eabd8-0ee9-464c-8de7-44d9df93b9d6",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T15:00:00.000+11:00",
-      "created_at": "2023-02-13T15:09:15.673+11:00",
-      "updated_at": "2023-02-13T15:09:15.673+11:00"
+      "id": "b194613c-57bc-4e1a-b88c-8f8b540f6bce",
+      "artist_id": "3e72b0bd-2530-495c-aec0-fb36e6092781",
+      "stage": "Marquee",
+      "time": "2024-03-23T15:00:00.000+11:00",
+      "created_at": "2024-02-15T08:39:14.915+11:00",
+      "updated_at": "2024-02-15T08:39:14.915+11:00"
     },
     {
-      "id": "74dbf2bb-ee70-46a9-8bdd-55c447fd5d2a",
-      "artist_id": "8d02bede-8fb8-438b-a59e-6ef9ab0bc46d",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T15:00:00.000+11:00",
-      "created_at": "2023-02-13T15:08:16.159+11:00",
-      "updated_at": "2023-02-13T15:08:16.159+11:00"
+      "id": "dc8c4ad3-41e4-45c6-a16b-bbc21add31e0",
+      "artist_id": "d7bb4645-e8bb-4e27-978c-3ae42108c3ff",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T15:15:00.000+11:00",
+      "created_at": "2024-02-15T08:45:41.462+11:00",
+      "updated_at": "2024-02-15T08:45:41.462+11:00"
     },
     {
-      "id": "394c6b77-792e-4508-a3a9-ee3d59b303b6",
-      "artist_id": "4a2f2eeb-10b6-4656-9bb0-10aab1141a07",
-      "stage": "The Marquee",
-      "time": "2023-03-25T15:00:00.000+11:00",
-      "created_at": "2023-02-13T14:18:04.378+11:00",
-      "updated_at": "2023-03-09T17:41:34.680+11:00"
+      "id": "5019dc44-2322-4847-a660-9ecbc885d415",
+      "artist_id": "ebe12646-153b-47fd-aea1-2c7fd2cab9d7",
+      "stage": "Public Hall",
+      "time": "2024-03-23T15:15:00.000+11:00",
+      "created_at": "2024-02-15T08:32:55.509+11:00",
+      "updated_at": "2024-02-15T08:32:55.509+11:00"
     },
     {
-      "id": "f3fc7059-0a5a-4877-ab50-dc103a9b4def",
-      "artist_id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T15:15:00.000+11:00",
-      "created_at": "2023-02-13T13:40:38.875+11:00",
-      "updated_at": "2023-02-13T13:40:38.875+11:00"
+      "id": "3fff06e8-afdf-4581-9eda-c3963ec30c21",
+      "artist_id": "c75a68df-ec6d-46eb-8c0b-75a3e9ae3660",
+      "stage": "Court House",
+      "time": "2024-03-23T15:45:00.000+11:00",
+      "created_at": "2024-02-15T08:42:15.209+11:00",
+      "updated_at": "2024-02-15T08:42:15.209+11:00"
     },
     {
-      "id": "acd07883-89fb-4424-ab1c-0115932da73e",
-      "artist_id": "c18a72de-09ae-458a-a61c-a9eca03fbeb3",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T15:15:00.000+11:00",
-      "created_at": "2023-02-13T15:21:02.115+11:00",
-      "updated_at": "2023-02-13T15:21:02.115+11:00"
+      "id": "e3a6bcdc-c35d-4a9a-9d0e-5be0f7fe113d",
+      "artist_id": "7db2b572-4a66-4827-b204-baa693bcc2d4",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T16:00:00.000+11:00",
+      "created_at": "2024-02-15T08:37:33.822+11:00",
+      "updated_at": "2024-02-15T08:37:33.822+11:00"
     },
     {
-      "id": "04237e3d-b586-4965-a653-387d82a2a802",
-      "artist_id": "ead1ecf2-09a3-4028-9432-3608efac274a",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T15:15:00.000+11:00",
-      "created_at": "2023-03-06T14:50:07.964+11:00",
-      "updated_at": "2023-03-06T14:50:07.964+11:00"
+      "id": "78f6a50c-ce87-43cc-a787-0bcaf65dfe6e",
+      "artist_id": "8d542a85-941c-4526-a6fe-f94c0e9b6f35",
+      "stage": "Marquee",
+      "time": "2024-03-23T16:00:00.000+11:00",
+      "created_at": "2024-02-15T08:39:21.718+11:00",
+      "updated_at": "2024-02-15T08:39:21.718+11:00"
     },
     {
-      "id": "c559cf46-88a8-4b73-885a-30e0d43cda41",
-      "artist_id": "d3ec4f72-b8a1-4804-946b-ccdc7699091d",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T15:45:00.000+11:00",
-      "created_at": "2023-02-13T15:15:54.686+11:00",
-      "updated_at": "2023-02-13T15:15:54.686+11:00"
+      "id": "c12a5816-2300-4930-afdd-76866e148ac6",
+      "artist_id": "4f632e9f-002a-4efd-a00a-2e28a6a61c78",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T16:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:13.192+11:00",
+      "updated_at": "2024-03-04T09:29:14.983+11:00"
     },
     {
-      "id": "5f5a30e9-322f-400f-8ee1-bc9377aa594e",
-      "artist_id": "dd35ec5c-6065-4522-9350-f8bfbe260393",
-      "stage": "The Marquee",
-      "time": "2023-03-25T16:00:00.000+11:00",
-      "created_at": "2023-02-13T14:18:19.079+11:00",
-      "updated_at": "2023-03-09T17:42:02.703+11:00"
+      "id": "db50fbf4-eb2b-4ab1-86e6-f6fbb499d1b6",
+      "artist_id": "c3396654-44aa-46a8-9077-1a1268ca14ee",
+      "stage": "Public Hall",
+      "time": "2024-03-23T16:15:00.000+11:00",
+      "created_at": "2024-02-15T08:33:06.661+11:00",
+      "updated_at": "2024-02-15T08:33:06.661+11:00"
     },
     {
-      "id": "7ee5ec25-553d-4f6d-b66a-0bc5ea561320",
-      "artist_id": "5746336c-803d-46d6-93ec-7564f84686f3",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T16:00:00.000+11:00",
-      "created_at": "2023-02-13T15:09:40.592+11:00",
-      "updated_at": "2023-02-13T15:09:40.592+11:00"
+      "id": "d24e0a04-a57b-4364-9fc7-0958229ed24a",
+      "artist_id": "855c2947-000e-46dd-92b5-d202b823c403",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T16:15:00.000+11:00",
+      "created_at": "2024-02-15T08:45:54.147+11:00",
+      "updated_at": "2024-02-15T08:45:54.147+11:00"
     },
     {
-      "id": "34fd5034-b329-459a-b974-35455e909f82",
-      "artist_id": "1dd91865-35b2-414e-baaa-366648d26302",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T16:00:00.000+11:00",
-      "created_at": "2023-02-13T15:08:34.858+11:00",
-      "updated_at": "2023-02-13T15:08:34.858+11:00"
+      "id": "d34ef7cc-f3f6-4a31-a858-2cf68eb4f8a3",
+      "artist_id": "e1ea9a06-a032-4a2f-850e-21e739cd613d",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T17:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:42.107+11:00",
+      "updated_at": "2024-02-15T08:35:42.107+11:00"
     },
     {
-      "id": "ec28c84d-71fb-44c5-bfad-496e29ee8584",
-      "artist_id": "3dc0f7bc-6963-4165-9983-721a86d386a8",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T16:15:00.000+11:00",
-      "created_at": "2023-03-06T14:50:26.790+11:00",
-      "updated_at": "2023-03-06T14:50:26.790+11:00"
+      "id": "d867851e-220e-4ae5-bec6-0e28dcd8c914",
+      "artist_id": "0ad08777-8e15-46d0-b733-30c4fffad067",
+      "stage": "Marquee",
+      "time": "2024-03-23T17:00:00.000+11:00",
+      "created_at": "2024-02-15T08:39:28.895+11:00",
+      "updated_at": "2024-02-15T08:39:28.895+11:00"
     },
     {
-      "id": "8ebdab50-f0e4-408a-a8d0-8cdae979c1f2",
-      "artist_id": "61cca078-d1c9-47e4-8bcf-6b61aa712813",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-25T16:15:00.000+11:00",
-      "created_at": "2023-02-13T15:21:19.238+11:00",
-      "updated_at": "2023-02-13T15:21:19.238+11:00"
+      "id": "10d1c14d-2ff3-4695-a11e-21ed2d9f3f8e",
+      "artist_id": "df26eb2c-2098-422e-885a-60c68ad9649b",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T17:00:00.000+11:00",
+      "created_at": "2024-02-15T08:37:40.958+11:00",
+      "updated_at": "2024-02-15T08:37:40.958+11:00"
     },
     {
-      "id": "44b7eb8a-d583-4e86-a12a-e182e6c0b1ef",
-      "artist_id": "52fc5802-bea8-4e52-aa69-e1d293911276",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T16:15:00.000+11:00",
-      "created_at": "2023-02-13T13:41:19.682+11:00",
-      "updated_at": "2023-02-13T13:41:19.682+11:00"
+      "id": "9dbe0a5d-ac0a-4a01-a352-11f404c52d1d",
+      "artist_id": "7696e6d9-42bb-4cf0-9ac0-4cbf94b382ec",
+      "stage": "Public Hall",
+      "time": "2024-03-23T17:15:00.000+11:00",
+      "created_at": "2024-02-15T08:33:25.452+11:00",
+      "updated_at": "2024-02-15T08:33:25.452+11:00"
     },
     {
-      "id": "f7745cf1-1c5a-46b3-8e07-2f5e031128d5",
-      "artist_id": "4b07b759-e094-4171-9d39-0c47145d442a",
-      "stage": "The Courthouse",
-      "time": "2023-03-25T16:45:00.000+11:00",
-      "created_at": "2023-02-13T15:16:15.206+11:00",
-      "updated_at": "2023-02-13T15:16:15.206+11:00"
+      "id": "3037d277-d77d-435f-b118-46fd17e70a6a",
+      "artist_id": "10e6717f-dd27-46a6-bb00-dbdc2db52bd1",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-23T17:15:00.000+11:00",
+      "created_at": "2024-02-15T08:46:16.025+11:00",
+      "updated_at": "2024-02-15T08:46:16.025+11:00"
     },
     {
-      "id": "8e756607-25db-45c2-a0be-2a61d7c8d051",
-      "artist_id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T17:00:00.000+11:00",
-      "created_at": "2023-02-13T14:11:47.081+11:00",
-      "updated_at": "2023-02-13T14:11:47.081+11:00"
+      "id": "02b4543f-ea4f-45ea-b367-d60d8a54a6d6",
+      "artist_id": "59b80669-f9c6-4224-86e3-c13e2546cc58",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T18:00:00.000+11:00",
+      "created_at": "2024-02-15T08:35:53.365+11:00",
+      "updated_at": "2024-02-15T08:35:53.365+11:00"
     },
     {
-      "id": "33c9f61b-240b-4e05-8ee3-c2dc8774dda6",
-      "artist_id": "c49cbb44-5ed5-4a1c-bc73-c019ff0a9928",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T17:00:00.000+11:00",
-      "created_at": "2023-03-07T20:46:05.778+11:00",
-      "updated_at": "2023-03-07T20:46:05.778+11:00"
+      "id": "8e66e2ac-9a76-440b-b94a-d1f57edbdf9c",
+      "artist_id": "de26eb5e-2d75-4a44-b964-9ffd44924bff",
+      "stage": "Marquee",
+      "time": "2024-03-23T18:00:00.000+11:00",
+      "created_at": "2024-02-15T08:39:41.475+11:00",
+      "updated_at": "2024-02-15T08:39:41.475+11:00"
     },
     {
-      "id": "c52ffd59-27f3-47ef-8717-79dc9fb8e55a",
-      "artist_id": "e82c740f-a874-4bfa-a66d-bdf89de48afc",
-      "stage": "The Marquee",
-      "time": "2023-03-25T17:00:00.000+11:00",
-      "created_at": "2023-02-13T14:18:40.519+11:00",
-      "updated_at": "2023-03-09T17:42:18.428+11:00"
+      "id": "c502ba81-441b-4083-a308-56e30a0072c8",
+      "artist_id": "d31fbad7-3880-4ec8-bd64-5e35fc4b4141",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T19:00:00.000+11:00",
+      "created_at": "2024-02-15T08:48:48.014+11:00",
+      "updated_at": "2024-02-15T08:48:48.014+11:00"
     },
     {
-      "id": "50b0b669-61f2-4703-8138-556dce858e88",
-      "artist_id": "7398a155-cbe1-40bb-a038-af2370759885",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-25T17:15:00.000+11:00",
-      "created_at": "2023-03-06T14:50:43.257+11:00",
-      "updated_at": "2023-03-06T14:50:43.257+11:00"
+      "id": "4e617b01-445a-44f2-bfa5-f7a2ef4848da",
+      "artist_id": "3388e854-45b8-47bc-a1e0-aa14a8ef213d",
+      "stage": "Marquee",
+      "time": "2024-03-23T19:00:00.000+11:00",
+      "created_at": "2024-02-15T08:50:45.068+11:00",
+      "updated_at": "2024-02-15T08:50:45.068+11:00"
     },
     {
-      "id": "300769c0-f7f6-4aea-b685-9060f033ca21",
-      "artist_id": "681a35a9-58ad-4fc7-bda8-2e96378e5e8c",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T17:15:00.000+11:00",
-      "created_at": "2023-02-13T15:07:39.602+11:00",
-      "updated_at": "2023-02-13T15:07:39.602+11:00"
+      "id": "2984e619-fc28-40ca-96ec-174d26e1cc6b",
+      "artist_id": "a01a3141-51de-4976-8546-0d912ada673f",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T19:00:00.000+11:00",
+      "created_at": "2024-02-15T08:49:41.498+11:00",
+      "updated_at": "2024-02-15T08:49:41.498+11:00"
     },
     {
-      "id": "e19e87c5-111c-46dc-81e4-c24558425ac0",
-      "artist_id": "48f73412-53eb-43ca-9a0d-882e790d4f46",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T18:00:00.000+11:00",
-      "created_at": "2023-02-13T14:12:01.926+11:00",
-      "updated_at": "2023-02-13T15:06:08.264+11:00"
+      "id": "44b2699a-2e68-4f8b-bfc2-34961643d128",
+      "artist_id": "93879b05-6eda-4c36-8d61-781b439bb22b",
+      "stage": "Public Hall",
+      "time": "2024-03-23T19:00:00.000+11:00",
+      "created_at": "2024-02-19T09:44:42.979+11:00",
+      "updated_at": "2024-02-19T09:44:42.979+11:00"
     },
     {
-      "id": "5076ff0a-1550-4628-9a87-da378ff7028f",
-      "artist_id": "290d7f05-a286-413e-bf71-ff798aa32a90",
-      "stage": "The Marquee",
-      "time": "2023-03-25T18:00:00.000+11:00",
-      "created_at": "2023-02-13T14:18:57.559+11:00",
-      "updated_at": "2023-02-13T14:18:57.559+11:00"
+      "id": "8992e55b-d33c-4119-84cd-727b21b324aa",
+      "artist_id": "742c4a89-48f9-4665-9b8a-52b608d82692",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T20:15:00.000+11:00",
+      "created_at": "2024-02-15T08:49:53.936+11:00",
+      "updated_at": "2024-02-15T08:49:53.936+11:00"
     },
     {
-      "id": "65a62288-badd-46b3-977d-9a7aa1b1017d",
-      "artist_id": "8eb7991b-7133-4248-9534-f3636f6984cd",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T19:00:00.000+11:00",
-      "created_at": "2023-03-09T18:02:01.884+11:00",
-      "updated_at": "2023-03-09T18:02:01.884+11:00"
+      "id": "cc9a788c-3d73-4c63-92bb-a66f4961a872",
+      "artist_id": "8d542a85-941c-4526-a6fe-f94c0e9b6f35",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T20:15:00.000+11:00",
+      "created_at": "2024-02-15T08:49:01.042+11:00",
+      "updated_at": "2024-02-15T08:49:01.042+11:00"
     },
     {
-      "id": "185dd354-7eb8-49b3-b414-dc8bd6b76317",
-      "artist_id": "577161f4-4974-4121-8ff5-900744d89d41",
-      "stage": "The Marquee",
-      "time": "2023-03-25T19:00:00.000+11:00",
-      "created_at": "2023-03-06T15:12:56.536+11:00",
-      "updated_at": "2023-03-06T15:12:56.536+11:00"
+      "id": "23d60bcf-1711-4e9b-9455-da66864ee369",
+      "artist_id": "3d5cff08-39cd-432a-9b4d-3c768f7102a6",
+      "stage": "Marquee",
+      "time": "2024-03-23T20:15:00.000+11:00",
+      "created_at": "2024-02-15T08:50:55.451+11:00",
+      "updated_at": "2024-02-15T08:50:55.451+11:00"
     },
     {
-      "id": "da004523-586d-407a-9dc5-95ee1ed83305",
-      "artist_id": "2f2cdf4b-9bb5-44b4-81a8-6722d6b63618",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T19:00:00.000+11:00",
-      "created_at": "2023-03-09T18:24:06.009+11:00",
-      "updated_at": "2023-03-09T18:24:06.009+11:00"
+      "id": "b355bf13-e894-443d-92fb-021843af5549",
+      "artist_id": "65270de4-0c8e-4658-8370-fed1e617bca9",
+      "stage": "Public Hall",
+      "time": "2024-03-23T20:30:00.000+11:00",
+      "created_at": "2024-02-15T08:48:07.677+11:00",
+      "updated_at": "2024-02-15T08:48:07.677+11:00"
     },
     {
-      "id": "67b60161-f7e8-4db6-a2e8-30175147b368",
-      "artist_id": "dd35ec5c-6065-4522-9350-f8bfbe260393",
-      "stage": "The Marquee",
-      "time": "2023-03-25T20:00:00.000+11:00",
-      "created_at": "2023-03-06T15:13:11.749+11:00",
-      "updated_at": "2023-03-06T15:13:11.749+11:00"
+      "id": "3d8808bf-0f89-4209-a7d8-e82685385a59",
+      "artist_id": "85676b67-9a2d-48e4-9780-fcb6e47f32c8",
+      "stage": "Public Hall",
+      "time": "2024-03-23T20:30:00.000+11:00",
+      "created_at": "2024-02-15T08:48:16.555+11:00",
+      "updated_at": "2024-02-15T08:48:16.555+11:00"
     },
     {
-      "id": "4ee72278-f8b3-4fb2-939b-08b0df392d04",
-      "artist_id": "21192f0c-ba89-49fa-a88e-c0dc10087652",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T20:00:00.000+11:00",
-      "created_at": "2023-03-06T15:10:47.480+11:00",
-      "updated_at": "2023-03-06T15:10:47.480+11:00"
+      "id": "1d4faa07-aecf-4853-9825-b81cdcca0154",
+      "artist_id": "46d8826b-611e-4593-84c5-7a7b3c077e81",
+      "stage": "Marquee",
+      "time": "2024-03-23T21:30:00.000+11:00",
+      "created_at": "2024-02-15T08:51:18.155+11:00",
+      "updated_at": "2024-02-15T08:51:18.155+11:00"
     },
     {
-      "id": "1f8b7856-6955-432a-a441-17922cf36b81",
-      "artist_id": "8deb583b-5209-4901-a392-812fe52bc990",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T20:00:00.000+11:00",
-      "created_at": "2023-03-06T15:12:03.068+11:00",
-      "updated_at": "2023-03-06T15:12:03.068+11:00"
+      "id": "9e2d890b-084c-4b8d-b887-c548ab1db61b",
+      "artist_id": "c579da35-34a6-4b40-bd2f-5ed82a75467c",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T21:30:00.000+11:00",
+      "created_at": "2024-02-15T08:49:09.968+11:00",
+      "updated_at": "2024-02-15T08:49:09.968+11:00"
     },
     {
-      "id": "ad0d1c04-80bd-44de-bfbf-81e07d79a700",
-      "artist_id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T20:30:00.000+11:00",
-      "created_at": "2023-03-06T15:08:55.324+11:00",
-      "updated_at": "2023-03-06T15:09:15.843+11:00"
+      "id": "9592e8a7-158a-4936-9d00-e88a6160b9a9",
+      "artist_id": "df305290-3509-436f-b7c5-f75544189351",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T21:30:00.000+11:00",
+      "created_at": "2024-02-15T08:50:13.976+11:00",
+      "updated_at": "2024-02-15T08:50:13.976+11:00"
     },
     {
-      "id": "0d132312-d2b9-449a-ba5e-027ab0977941",
-      "artist_id": "8e8df656-79af-4d43-a3e7-ba05a56354e1",
-      "stage": "The Marquee",
-      "time": "2023-03-25T21:00:00.000+11:00",
-      "created_at": "2023-03-06T15:13:29.724+11:00",
-      "updated_at": "2023-03-06T15:13:29.724+11:00"
+      "id": "d6e0dab7-04f0-4126-8880-7e2e6756b79e",
+      "artist_id": "0ad08777-8e15-46d0-b733-30c4fffad067",
+      "stage": "Public Hall",
+      "time": "2024-03-23T22:30:00.000+11:00",
+      "created_at": "2024-02-15T08:48:26.606+11:00",
+      "updated_at": "2024-02-15T08:48:26.606+11:00"
     },
     {
-      "id": "e66b17fe-b0bb-411d-b8d2-d0f0ea753cb1",
-      "artist_id": "e9f6c941-fee7-4766-9c61-8f9f4870baf8",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T21:00:00.000+11:00",
-      "created_at": "2023-03-06T15:11:12.415+11:00",
-      "updated_at": "2023-03-06T15:11:12.415+11:00"
+      "id": "345e2812-84b9-43bf-835e-d732b27dce02",
+      "artist_id": "23fe30ce-2c58-46cc-b135-f65d5a37b7fd",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-23T22:45:00.000+11:00",
+      "created_at": "2024-02-15T08:50:21.448+11:00",
+      "updated_at": "2024-02-15T08:50:21.448+11:00"
     },
     {
-      "id": "243da12a-3e7a-4ecb-bb5f-a359b16928d5",
-      "artist_id": "b7bfe928-9e15-4f7f-8dfe-f77daed6a419",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T21:30:00.000+11:00",
-      "created_at": "2023-03-06T15:09:39.943+11:00",
-      "updated_at": "2023-03-06T15:09:39.943+11:00"
+      "id": "08c5405e-1347-4665-8131-f91cdffb01a8",
+      "artist_id": "1f6afeea-2f2e-4409-9f75-d1bc12fe21a0",
+      "stage": "Star Hotel",
+      "time": "2024-03-23T22:45:00.000+11:00",
+      "created_at": "2024-02-15T08:49:21.024+11:00",
+      "updated_at": "2024-02-15T08:49:21.024+11:00"
     },
     {
-      "id": "a1d30ba5-d6e2-4e8e-ae82-2aafe4666853",
-      "artist_id": "f1af8bf0-966d-483c-88db-abf1f0736aab",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T22:00:00.000+11:00",
-      "created_at": "2023-03-06T15:11:32.700+11:00",
-      "updated_at": "2023-03-06T15:11:32.700+11:00"
+      "id": "b35cc4af-e75f-434b-8697-398c70f6995e",
+      "artist_id": "7cf9dd6a-b54f-4cc3-99b1-121522dd7b69",
+      "stage": "Marquee",
+      "time": "2024-03-23T22:45:00.000+11:00",
+      "created_at": "2024-02-15T08:51:42.956+11:00",
+      "updated_at": "2024-02-15T08:51:42.956+11:00"
     },
     {
-      "id": "d066a9fc-97f2-41c0-8ed2-7fd4a0cf9a24",
-      "artist_id": "8eb7991b-7133-4248-9534-f3636f6984cd",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-25T22:00:00.000+11:00",
-      "created_at": "2023-03-06T15:12:24.470+11:00",
-      "updated_at": "2023-03-09T18:03:54.674+11:00"
+      "id": "47c46b4a-6f2d-49af-af2b-815fa7a608bc",
+      "artist_id": "27d907b6-7964-42d1-81a6-4381cf22e747",
+      "stage": "Marquee",
+      "time": "2024-03-24T08:15:00.000+11:00",
+      "created_at": "2024-02-19T09:45:08.012+11:00",
+      "updated_at": "2024-02-19T09:45:08.012+11:00"
     },
     {
-      "id": "df4f11ae-b905-4fd1-bfe4-a5319e3eed95",
-      "artist_id": "dfeebb28-2720-47d3-bad3-126e1ea7b0cf",
-      "stage": "The Marquee",
-      "time": "2023-03-25T22:00:00.000+11:00",
-      "created_at": "2023-03-06T15:13:46.141+11:00",
-      "updated_at": "2023-03-06T15:13:46.141+11:00"
+      "id": "0ee9b33f-7c8d-4ca5-b48c-bb3a25e2eb96",
+      "artist_id": "ed300b23-8071-402c-b81c-8187d057aa04",
+      "stage": "Marquee",
+      "time": "2024-03-24T10:00:00.000+11:00",
+      "created_at": "2024-02-15T16:18:53.260+11:00",
+      "updated_at": "2024-02-15T16:18:53.260+11:00"
     },
     {
-      "id": "3a18a6d3-a331-4368-9588-538b5b699a7a",
-      "artist_id": "e82c740f-a874-4bfa-a66d-bdf89de48afc",
-      "stage": "The Public Hall",
-      "time": "2023-03-25T22:30:00.000+11:00",
-      "created_at": "2023-03-06T15:10:00.062+11:00",
-      "updated_at": "2023-03-06T15:10:00.062+11:00"
+      "id": "038a0e6b-2830-4e51-ae75-981b45f0e859",
+      "artist_id": "e25076b8-b4da-4880-8b87-f45c6d243940",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T10:00:00.000+11:00",
+      "created_at": "2024-02-15T16:11:26.543+11:00",
+      "updated_at": "2024-02-15T16:11:26.543+11:00"
     },
     {
-      "id": "da1aceac-22fd-497c-825c-e4b2a16d8477",
-      "artist_id": "0dad927b-9eb7-4854-a505-c23499b01db3",
-      "stage": "The Marquee",
-      "time": "2023-03-25T23:00:00.000+11:00",
-      "created_at": "2023-03-06T15:13:56.868+11:00",
-      "updated_at": "2023-03-06T15:13:56.868+11:00"
+      "id": "fdcb1021-5d10-4acd-91cd-f90b0f2e8681",
+      "artist_id": "c75a68df-ec6d-46eb-8c0b-75a3e9ae3660",
+      "stage": "Court House",
+      "time": "2024-03-24T10:15:00.000+11:00",
+      "created_at": "2024-02-15T16:20:21.090+11:00",
+      "updated_at": "2024-02-15T16:20:21.090+11:00"
     },
     {
-      "id": "7371e6c3-246d-4e26-b7af-ed2befa67e4c",
-      "artist_id": "55268404-415a-4fd9-a0d4-96a418b6c83d",
-      "stage": "The Star Hotel",
-      "time": "2023-03-25T23:00:00.000+11:00",
-      "created_at": "2023-03-06T15:11:43.454+11:00",
-      "updated_at": "2023-03-06T15:11:43.454+11:00"
+      "id": "8fded128-4350-42a7-8268-423199762700",
+      "artist_id": "3d4d1c1f-3fed-44dd-90f5-3c1fbb4338d9",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T10:30:00.000+11:00",
+      "created_at": "2024-02-15T16:21:56.615+11:00",
+      "updated_at": "2024-02-15T16:21:56.615+11:00"
     },
     {
-      "id": "4b8ce468-aa26-4908-a2b8-af66342eeb43",
-      "artist_id": "4434c238-b34f-4f52-911e-a470e88e135b",
-      "stage": "The Marquee",
-      "time": "2023-03-26T08:15:00.000+11:00",
-      "created_at": "2023-03-21T11:35:19.752+11:00",
-      "updated_at": "2023-03-21T11:35:19.752+11:00"
+      "id": "18c82fa6-0af7-419e-b225-3984578dbb1d",
+      "artist_id": "4ad7254e-0a8c-49fa-8e4e-b25971fd8b20",
+      "stage": "Marquee",
+      "time": "2024-03-24T11:00:00.000+11:00",
+      "created_at": "2024-02-15T16:19:05.945+11:00",
+      "updated_at": "2024-02-15T16:19:05.945+11:00"
     },
     {
-      "id": "66136a23-8b91-4ee6-b051-3d9fe6941316",
-      "artist_id": "fbb41fc4-dccf-4364-8281-bae84223965f",
-      "stage": "The Marquee",
-      "time": "2023-03-26T10:00:00.000+11:00",
-      "created_at": "2023-03-06T15:24:05.721+11:00",
-      "updated_at": "2023-03-06T15:24:05.721+11:00"
+      "id": "c50ebebc-5a9d-438a-9d3f-b3e064519db5",
+      "artist_id": "a01a3141-51de-4976-8546-0d912ada673f",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T11:00:00.000+11:00",
+      "created_at": "2024-02-15T16:15:18.332+11:00",
+      "updated_at": "2024-02-15T16:15:18.332+11:00"
     },
     {
-      "id": "2f9781f8-27d0-4a83-8138-f5c1ae9ab9cb",
-      "artist_id": "3c609d6b-b46c-4b70-9982-f698cdd453f7",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-26T10:00:00.000+11:00",
-      "created_at": "2023-03-06T15:28:14.571+11:00",
-      "updated_at": "2023-03-06T15:28:14.571+11:00"
+      "id": "fe7fb840-0fdf-4f6a-b625-af74c79379ed",
+      "artist_id": "3388e854-45b8-47bc-a1e0-aa14a8ef213d",
+      "stage": "Court House",
+      "time": "2024-03-24T11:15:00.000+11:00",
+      "created_at": "2024-02-15T16:20:32.084+11:00",
+      "updated_at": "2024-02-15T16:20:32.084+11:00"
     },
     {
-      "id": "49b41fce-0635-4eeb-a2cb-925c9a433e0a",
-      "artist_id": "239a5e2a-c9b8-4a74-9698-db1ced69b86a",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T10:00:00.000+11:00",
-      "created_at": "2023-03-06T15:16:28.851+11:00",
-      "updated_at": "2023-03-06T15:16:28.851+11:00"
+      "id": "867ed24f-c8eb-4f29-98ab-f0e241ab9da5",
+      "artist_id": "c71789a6-34de-4fff-95e5-aea8fa7fd4fc",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T11:30:00.000+11:00",
+      "created_at": "2024-02-15T16:22:04.890+11:00",
+      "updated_at": "2024-02-15T16:22:04.890+11:00"
     },
     {
-      "id": "6b0e9ff4-c1f7-425c-9fd6-e7c89864069a",
-      "artist_id": "e26d0f55-50e8-4b22-ba92-7aca30289a69",
-      "stage": "The Courthouse",
-      "time": "2023-03-26T10:15:00.000+11:00",
-      "created_at": "2023-03-06T15:26:03.868+11:00",
-      "updated_at": "2023-03-06T15:26:03.868+11:00"
+      "id": "be651607-d1dc-4946-8c81-324a0f179e88",
+      "artist_id": "7db2b572-4a66-4827-b204-baa693bcc2d4",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T12:00:00.000+11:00",
+      "created_at": "2024-02-15T16:17:17.373+11:00",
+      "updated_at": "2024-02-15T16:17:17.373+11:00"
     },
     {
-      "id": "70686941-b6e7-410f-bf67-29fa2b1a73d0",
-      "artist_id": "1dd91865-35b2-414e-baaa-366648d26302",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T10:30:00.000+11:00",
-      "created_at": "2023-03-06T15:29:46.787+11:00",
-      "updated_at": "2023-03-06T15:29:46.787+11:00"
+      "id": "12656c93-4a0d-40af-bf7f-fc0bdee7abd8",
+      "artist_id": "4f632e9f-002a-4efd-a00a-2e28a6a61c78",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T12:00:00.000+11:00",
+      "created_at": "2024-02-15T16:15:29.228+11:00",
+      "updated_at": "2024-02-15T16:15:29.228+11:00"
     },
     {
-      "id": "2b8ed150-bebd-4e5b-bff6-e692dbc51e91",
-      "artist_id": "fb39db77-f753-4c6d-a35a-ce0797eb5f49",
-      "stage": "The Marquee",
-      "time": "2023-03-26T11:00:00.000+11:00",
-      "created_at": "2023-03-06T15:24:25.485+11:00",
-      "updated_at": "2023-03-06T15:24:25.485+11:00"
+      "id": "66708cab-c1d8-4645-a8eb-c219152d75b1",
+      "artist_id": "d31fbad7-3880-4ec8-bd64-5e35fc4b4141",
+      "stage": "Marquee",
+      "time": "2024-03-24T12:00:00.000+11:00",
+      "created_at": "2024-02-15T16:19:19.384+11:00",
+      "updated_at": "2024-02-15T16:19:19.384+11:00"
     },
     {
-      "id": "e286892c-59ef-4fa9-8360-9137d2c2751f",
-      "artist_id": "dfeebb28-2720-47d3-bad3-126e1ea7b0cf",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T11:00:00.000+11:00",
-      "created_at": "2023-03-06T15:16:41.572+11:00",
-      "updated_at": "2023-03-06T15:16:41.572+11:00"
+      "id": "923db7b3-3b15-4bd4-a32e-50afa19c2de6",
+      "artist_id": "77c73a49-b98e-480d-8003-89618d27a16c",
+      "stage": "Public Hall",
+      "time": "2024-03-24T12:00:00.000+11:00",
+      "created_at": "2024-02-19T09:45:39.682+11:00",
+      "updated_at": "2024-02-19T09:45:39.682+11:00"
     },
     {
-      "id": "7c8d7271-981f-476c-a46a-69c8e9d8d167",
-      "artist_id": "e287a74b-0ef7-46e9-8c99-6e82d4953bb6",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-26T11:00:00.000+11:00",
-      "created_at": "2023-03-06T15:28:28.912+11:00",
-      "updated_at": "2023-03-06T15:28:28.912+11:00"
+      "id": "e76af58b-f5ea-4049-b6cc-005495dfef66",
+      "artist_id": "d7bb4645-e8bb-4e27-978c-3ae42108c3ff",
+      "stage": "Court House",
+      "time": "2024-03-24T12:15:00.000+11:00",
+      "created_at": "2024-02-15T16:20:49.453+11:00",
+      "updated_at": "2024-02-15T16:20:49.453+11:00"
     },
     {
-      "id": "7008f343-add2-47e7-b699-6faa3fda58af",
-      "artist_id": "689e4393-11b4-46b5-a4a2-d832c5b00c5e",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-26T11:00:00.000+11:00",
-      "created_at": "2023-03-09T17:44:20.442+11:00",
-      "updated_at": "2023-03-09T17:44:20.442+11:00"
+      "id": "d91d2c8b-0e03-4c06-8a19-7fff2f7039b9",
+      "artist_id": "07aedb12-026c-42c7-b55f-1ca887e53e61",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T12:30:00.000+11:00",
+      "created_at": "2024-02-15T16:22:21.890+11:00",
+      "updated_at": "2024-02-15T16:22:21.890+11:00"
     },
     {
-      "id": "e3e32fae-baa0-4fc4-a932-361552cd414e",
-      "artist_id": "ead1ecf2-09a3-4028-9432-3608efac274a",
-      "stage": "The Street Stage",
-      "time": "2023-03-26T11:00:00.000+11:00",
-      "created_at": "2023-03-17T11:33:58.687+11:00",
-      "updated_at": "2023-03-17T11:33:58.687+11:00"
+      "id": "8741538d-55d8-4d86-ad6c-4dce8681948f",
+      "artist_id": "c3396654-44aa-46a8-9077-1a1268ca14ee",
+      "stage": "Public Hall",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:10:14.615+11:00",
+      "updated_at": "2024-02-15T16:10:14.615+11:00"
     },
     {
-      "id": "9f42fb23-2d41-4850-9f09-c498e8141b76",
-      "artist_id": "7398a155-cbe1-40bb-a038-af2370759885",
-      "stage": "The Courthouse",
-      "time": "2023-03-26T11:15:00.000+11:00",
-      "created_at": "2023-03-06T15:26:21.346+11:00",
-      "updated_at": "2023-03-06T15:26:21.346+11:00"
+      "id": "87688296-d849-42b4-baee-c4803d41d9d2",
+      "artist_id": "4999a831-14c8-419f-a9ec-6d42ae8ab4f9",
+      "stage": "Yack Creek Distillery",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:23:44.633+11:00",
+      "updated_at": "2024-02-15T16:23:44.633+11:00"
     },
     {
-      "id": "8483c849-27e2-4dd4-8c5c-bb4842872558",
-      "artist_id": "0e0421d5-f00e-4c31-b3a4-716fd02ba8fc",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T11:30:00.000+11:00",
-      "created_at": "2023-03-06T15:30:18.393+11:00",
-      "updated_at": "2023-03-06T15:30:18.393+11:00"
+      "id": "3fc65e2c-33fe-4baf-8992-239253bbdddc",
+      "artist_id": "8d542a85-941c-4526-a6fe-f94c0e9b6f35",
+      "stage": "Street Stage",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-03-04T09:32:27.079+11:00",
+      "updated_at": "2024-03-04T09:32:27.079+11:00"
     },
     {
-      "id": "dfe5ecac-d062-4770-8c0e-4923f27963c0",
-      "artist_id": "d3ec4f72-b8a1-4804-946b-ccdc7699091d",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T12:00:00.000+11:00",
-      "created_at": "2023-03-06T15:17:09.907+11:00",
-      "updated_at": "2023-03-06T15:17:09.907+11:00"
+      "id": "daff53a0-06ba-424f-92a2-9e074358f6f1",
+      "artist_id": "59b80669-f9c6-4224-86e3-c13e2546cc58",
+      "stage": "Marquee",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:19:35.635+11:00",
+      "updated_at": "2024-02-15T16:19:35.635+11:00"
     },
     {
-      "id": "23cce97d-5774-4ca5-815b-4e6f1e4e5c96",
-      "artist_id": "21192f0c-ba89-49fa-a88e-c0dc10087652",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-26T12:00:00.000+11:00",
-      "created_at": "2023-03-06T15:22:47.258+11:00",
-      "updated_at": "2023-03-06T15:22:47.258+11:00"
+      "id": "2f477ea6-0364-45d7-8a0f-08fc3e08c855",
+      "artist_id": "5ea34df3-00fa-4c00-9d15-609e7fec4377",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:17:26.047+11:00",
+      "updated_at": "2024-02-15T16:17:26.047+11:00"
     },
     {
-      "id": "e1f53c09-a8b6-443d-a692-a755de2cdfce",
-      "artist_id": "3147f515-81b9-4054-a62a-4f9e5b4c4e22",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-26T12:00:00.000+11:00",
-      "created_at": "2023-03-06T15:28:45.351+11:00",
-      "updated_at": "2023-03-06T15:28:45.351+11:00"
+      "id": "22950dc8-1d86-431e-a0fd-8f65e10053d5",
+      "artist_id": "3e72b0bd-2530-495c-aec0-fb36e6092781",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:15:41.678+11:00",
+      "updated_at": "2024-02-15T16:15:41.678+11:00"
     },
     {
-      "id": "ecad23d6-14c2-4082-a110-14079855b74b",
-      "artist_id": "61e83281-0fff-4cdc-98c2-e69d99a9874e",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T12:00:00.000+11:00",
-      "created_at": "2023-03-09T18:23:53.496+11:00",
-      "updated_at": "2023-03-09T18:23:53.496+11:00"
+      "id": "a7fc7070-48e4-4d0a-87bd-b9a57286b589",
+      "artist_id": "1045d4f1-7463-4b23-b1c4-c75df46fbb16",
+      "stage": "Backwoods Distillery",
+      "time": "2024-03-24T13:00:00.000+11:00",
+      "created_at": "2024-02-15T16:23:26.314+11:00",
+      "updated_at": "2024-02-15T16:23:26.314+11:00"
     },
     {
-      "id": "9f3b78da-54ea-4a45-95e5-900e015e49fc",
-      "artist_id": "c85b45d8-6675-497a-a987-1d0e42e298a4",
-      "stage": "The Marquee",
-      "time": "2023-03-26T12:00:00.000+11:00",
-      "created_at": "2023-03-06T15:24:38.074+11:00",
-      "updated_at": "2023-03-06T15:24:38.074+11:00"
+      "id": "45981a34-53e1-4567-9fa1-c97c6630e1a8",
+      "artist_id": "855c2947-000e-46dd-92b5-d202b823c403",
+      "stage": "Court House",
+      "time": "2024-03-24T13:15:00.000+11:00",
+      "created_at": "2024-02-15T16:21:04.352+11:00",
+      "updated_at": "2024-02-15T16:21:04.352+11:00"
     },
     {
-      "id": "96829153-9840-437a-8fba-2a35221875dc",
-      "artist_id": "66a1a813-330c-4e77-ba35-e28ba40eee64",
-      "stage": "The Courthouse",
-      "time": "2023-03-26T12:15:00.000+11:00",
-      "created_at": "2023-03-06T15:26:38.218+11:00",
-      "updated_at": "2023-03-06T15:26:38.218+11:00"
+      "id": "96393230-7fb0-4b8d-ad33-d95752c0c5fa",
+      "artist_id": "e8eaaf9c-62bb-421f-b0da-aecd7a1988d7",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T13:30:00.000+11:00",
+      "created_at": "2024-02-15T16:22:37.815+11:00",
+      "updated_at": "2024-02-15T16:22:37.815+11:00"
     },
     {
-      "id": "9aab758f-e0af-4763-b8ea-926b072b1844",
-      "artist_id": "3dc0f7bc-6963-4165-9983-721a86d386a8",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T12:30:00.000+11:00",
-      "created_at": "2023-03-06T15:30:34.923+11:00",
-      "updated_at": "2023-03-06T15:30:34.923+11:00"
+      "id": "3d62fd3b-0fb5-4de0-be77-bba7451b8b0c",
+      "artist_id": "65270de4-0c8e-4658-8370-fed1e617bca9",
+      "stage": "Public Hall",
+      "time": "2024-03-24T14:00:00.000+11:00",
+      "created_at": "2024-02-15T16:10:25.511+11:00",
+      "updated_at": "2024-02-15T16:10:25.511+11:00"
     },
     {
-      "id": "71cf78f5-83cb-40f3-aa39-6068f5419fc5",
-      "artist_id": "577161f4-4974-4121-8ff5-900744d89d41",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T13:00:00.000+11:00",
-      "created_at": "2023-03-06T15:14:51.409+11:00",
-      "updated_at": "2023-03-06T15:14:51.409+11:00"
+      "id": "7013905c-1bac-41c5-88f0-0892aeeb5ffb",
+      "artist_id": "e1ea9a06-a032-4a2f-850e-21e739cd613d",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T14:00:00.000+11:00",
+      "created_at": "2024-02-15T16:17:49.787+11:00",
+      "updated_at": "2024-02-15T16:17:49.787+11:00"
     },
     {
-      "id": "78b5a47d-d4f3-4003-923f-a18494799b4a",
-      "artist_id": "1dd91865-35b2-414e-baaa-366648d26302",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-26T13:00:00.000+11:00",
-      "created_at": "2023-03-06T15:23:06.730+11:00",
-      "updated_at": "2023-03-06T15:23:06.730+11:00"
+      "id": "d64cf14c-99da-4ddb-a072-62783d943f9a",
+      "artist_id": "df305290-3509-436f-b7c5-f75544189351",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T14:00:00.000+11:00",
+      "created_at": "2024-02-15T16:15:50.398+11:00",
+      "updated_at": "2024-02-15T16:15:50.398+11:00"
     },
     {
-      "id": "c8841198-458b-466c-8d55-5f717c61bc81",
-      "artist_id": "c7448b2e-8690-42cb-b533-cd085abb135c",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-26T13:00:00.000+11:00",
-      "created_at": "2023-03-06T15:29:05.990+11:00",
-      "updated_at": "2023-03-06T15:29:05.990+11:00"
+      "id": "ec2f1ae9-185e-45ce-9759-f90669d1b427",
+      "artist_id": "7cf9dd6a-b54f-4cc3-99b1-121522dd7b69",
+      "stage": "Marquee",
+      "time": "2024-03-24T14:00:00.000+11:00",
+      "created_at": "2024-02-15T16:19:50.310+11:00",
+      "updated_at": "2024-02-15T16:19:50.310+11:00"
     },
     {
-      "id": "7f1b07d7-7a2b-4434-828f-b39770ca3fe1",
-      "artist_id": "290d7f05-a286-413e-bf71-ff798aa32a90",
-      "stage": "The Marquee",
-      "time": "2023-03-26T13:00:00.000+11:00",
-      "created_at": "2023-03-06T15:24:50.934+11:00",
-      "updated_at": "2023-03-06T15:24:50.934+11:00"
+      "id": "3aa59d20-1085-4970-86c9-69558709d521",
+      "artist_id": "0eca9d75-ff32-4245-bb4c-e55a96463514",
+      "stage": "Court House",
+      "time": "2024-03-24T14:15:00.000+11:00",
+      "created_at": "2024-02-15T16:21:18.684+11:00",
+      "updated_at": "2024-02-15T16:21:18.684+11:00"
     },
     {
-      "id": "e60c6620-5432-48f1-af7c-79898d325e1b",
-      "artist_id": "e287a74b-0ef7-46e9-8c99-6e82d4953bb6",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T13:00:00.000+11:00",
-      "created_at": "2023-03-06T15:17:24.680+11:00",
-      "updated_at": "2023-03-09T17:43:15.630+11:00"
-    },
-    {
-      "id": "e926a148-6444-4de6-a833-f7a5c55db818",
-      "artist_id": "61cca078-d1c9-47e4-8bcf-6b61aa712813",
-      "stage": "The Courthouse",
-      "time": "2023-03-26T13:15:00.000+11:00",
-      "created_at": "2023-03-06T15:27:23.682+11:00",
-      "updated_at": "2023-03-06T15:27:23.682+11:00"
-    },
-    {
-      "id": "ba11eb2a-4d31-46a8-9fe1-23f11f93b115",
-      "artist_id": "b7bfe928-9e15-4f7f-8dfe-f77daed6a419",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T13:30:00.000+11:00",
-      "created_at": "2023-03-06T15:30:51.261+11:00",
-      "updated_at": "2023-03-06T15:30:51.261+11:00"
-    },
-    {
-      "id": "a564d232-646f-4d0f-b911-39738d1084aa",
-      "artist_id": "4a2f2eeb-10b6-4656-9bb0-10aab1141a07",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T14:00:00.000+11:00",
-      "created_at": "2023-03-06T15:15:06.888+11:00",
-      "updated_at": "2023-03-06T15:15:06.888+11:00"
-    },
-    {
-      "id": "42ece6b9-8988-4aac-96f4-e026f631a300",
-      "artist_id": "4b07b759-e094-4171-9d39-0c47145d442a",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-26T14:00:00.000+11:00",
-      "created_at": "2023-03-06T15:23:21.044+11:00",
-      "updated_at": "2023-03-06T15:23:21.044+11:00"
-    },
-    {
-      "id": "75959047-4d8f-4a97-ad1f-8603e841a80f",
-      "artist_id": "55268404-415a-4fd9-a0d4-96a418b6c83d",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T14:00:00.000+11:00",
-      "created_at": "2023-03-06T15:17:39.016+11:00",
-      "updated_at": "2023-03-06T15:17:39.016+11:00"
-    },
-    {
-      "id": "fce24d77-7504-49a2-a9c3-b0c4a16a179d",
-      "artist_id": "ead1ecf2-09a3-4028-9432-3608efac274a",
-      "stage": "The Senior Citizens Hall",
-      "time": "2023-03-26T14:00:00.000+11:00",
-      "created_at": "2023-03-06T15:29:16.504+11:00",
-      "updated_at": "2023-03-06T15:29:16.504+11:00"
-    },
-    {
-      "id": "de1fae7d-b27a-4922-8eb9-8a87a40925e1",
-      "artist_id": "e82c740f-a874-4bfa-a66d-bdf89de48afc",
-      "stage": "The Marquee",
-      "time": "2023-03-26T14:00:00.000+11:00",
-      "created_at": "2023-03-06T15:25:09.287+11:00",
-      "updated_at": "2023-03-06T15:25:09.287+11:00"
-    },
-    {
-      "id": "a43758a4-5112-4168-bfe0-d295e1ecb3fd",
-      "artist_id": "c0aed526-668b-4f45-8fd5-c72a4a727e45",
-      "stage": "The Courthouse",
-      "time": "2023-03-26T14:15:00.000+11:00",
-      "created_at": "2023-03-06T15:27:40.354+11:00",
-      "updated_at": "2023-03-06T15:27:40.354+11:00"
-    },
-    {
-      "id": "aa7f5eeb-d3c8-418e-a103-e93b68f07df1",
-      "artist_id": "c18a72de-09ae-458a-a61c-a9eca03fbeb3",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T14:30:00.000+11:00",
-      "created_at": "2023-03-06T15:31:03.334+11:00",
-      "updated_at": "2023-03-06T15:31:03.334+11:00"
-    },
-    {
-      "id": "dd1cefb0-9867-44b9-9f66-649d4e9f6cad",
-      "artist_id": "f1af8bf0-966d-483c-88db-abf1f0736aab",
-      "stage": "The Marquee",
-      "time": "2023-03-26T15:00:00.000+11:00",
-      "created_at": "2023-03-06T15:25:27.311+11:00",
-      "updated_at": "2023-03-06T15:25:27.311+11:00"
-    },
-    {
-      "id": "356c66f0-0930-4b88-a43b-5ee02f06f0ff",
-      "artist_id": "59013a15-d528-44c3-850a-1a2c4ac0d46a",
-      "stage": "The Yackandandah Hotel",
-      "time": "2023-03-26T15:00:00.000+11:00",
-      "created_at": "2023-03-06T15:23:34.082+11:00",
-      "updated_at": "2023-03-06T15:23:34.082+11:00"
-    },
-    {
-      "id": "f4dba4ad-d01a-45e7-aa25-8bcd26879c55",
-      "artist_id": "d97eca99-0ac0-4bcc-ab18-111ae20e5e59",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T15:00:00.000+11:00",
-      "created_at": "2023-03-06T15:15:30.501+11:00",
-      "updated_at": "2023-03-06T15:15:30.501+11:00"
-    },
-    {
-      "id": "4ece52ab-2252-4286-b4d5-b15a436bfbc6",
-      "artist_id": "50397840-0c70-4446-bdf6-9c24c2f163a9",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T15:00:00.000+11:00",
-      "created_at": "2023-03-06T15:18:02.145+11:00",
-      "updated_at": "2023-03-09T18:02:48.502+11:00"
-    },
-    {
-      "id": "ee22b45c-abf2-4095-b42b-566c17af130e",
-      "artist_id": "8d02bede-8fb8-438b-a59e-6ef9ab0bc46d",
-      "stage": "The St James Uniting Church",
-      "time": "2023-03-26T15:30:00.000+11:00",
-      "created_at": "2023-03-06T15:31:13.786+11:00",
-      "updated_at": "2023-03-06T15:31:13.786+11:00"
-    },
-    {
-      "id": "c3b34a7f-cc10-4723-9385-97f088b03cd4",
-      "artist_id": "91cb6c07-16a0-4dc7-bc47-1ee348e18789",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T16:00:00.000+11:00",
-      "created_at": "2023-03-06T15:15:52.950+11:00",
-      "updated_at": "2023-03-06T15:15:52.950+11:00"
-    },
-    {
-      "id": "661a4859-a8b0-4696-aca0-f4169712e638",
-      "artist_id": "c85b45d8-6675-497a-a987-1d0e42e298a4",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T16:00:00.000+11:00",
-      "created_at": "2023-03-06T15:18:22.729+11:00",
-      "updated_at": "2023-03-06T15:18:22.729+11:00"
-    },
-    {
-      "id": "117e823a-9916-49f1-8c8f-d679550e6951",
-      "artist_id": "8e8df656-79af-4d43-a3e7-ba05a56354e1",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T17:00:00.000+11:00",
-      "created_at": "2023-03-06T15:18:38.844+11:00",
-      "updated_at": "2023-03-06T15:18:38.844+11:00"
-    },
-    {
-      "id": "38af91c9-e014-4c3c-9101-b603ec6ff905",
-      "artist_id": "dd35ec5c-6065-4522-9350-f8bfbe260393",
-      "stage": "The Public Hall",
-      "time": "2023-03-26T17:00:00.000+11:00",
-      "created_at": "2023-03-06T15:16:04.945+11:00",
-      "updated_at": "2023-03-06T15:16:04.945+11:00"
-    },
-    {
-      "id": "26cff2bc-2aca-4015-a122-c117c65a6e36",
-      "artist_id": "48f73412-53eb-43ca-9a0d-882e790d4f46",
-      "stage": "The Star Hotel",
-      "time": "2023-03-26T18:00:00.000+11:00",
-      "created_at": "2023-03-06T15:18:52.217+11:00",
-      "updated_at": "2023-03-06T15:18:52.217+11:00"
+      "id": "377cf5ac-e832-44ed-ad71-a8af596f6a38",
+      "artist_id": "7696e6d9-42bb-4cf0-9ac0-4cbf94b382ec",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T14:30:00.000+11:00",
+      "created_at": "2024-02-15T16:22:47.925+11:00",
+      "updated_at": "2024-02-15T16:22:47.925+11:00"
+    },
+    {
+      "id": "eed03a2e-1956-4959-bf4e-b814eae1e449",
+      "artist_id": "10e6717f-dd27-46a6-bb00-dbdc2db52bd1",
+      "stage": "Public Hall",
+      "time": "2024-03-24T15:00:00.000+11:00",
+      "created_at": "2024-02-15T16:14:58.672+11:00",
+      "updated_at": "2024-02-15T16:14:58.672+11:00"
+    },
+    {
+      "id": "60f507b9-d64c-48ae-98a8-6a5485aea101",
+      "artist_id": "de26eb5e-2d75-4a44-b964-9ffd44924bff",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T15:00:00.000+11:00",
+      "created_at": "2024-02-15T16:18:02.412+11:00",
+      "updated_at": "2024-02-15T16:18:02.412+11:00"
+    },
+    {
+      "id": "e9fb0e5f-0f5d-4082-a9a9-f0c527e55a75",
+      "artist_id": "742c4a89-48f9-4665-9b8a-52b608d82692",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T15:00:00.000+11:00",
+      "created_at": "2024-02-15T16:16:02.304+11:00",
+      "updated_at": "2024-02-15T16:16:02.304+11:00"
+    },
+    {
+      "id": "27d8a2f7-f4d3-4fe6-be59-88a400d9c767",
+      "artist_id": "46d8826b-611e-4593-84c5-7a7b3c077e81",
+      "stage": "Marquee",
+      "time": "2024-03-24T15:00:00.000+11:00",
+      "created_at": "2024-02-15T16:20:00.857+11:00",
+      "updated_at": "2024-02-15T16:20:00.857+11:00"
+    },
+    {
+      "id": "2991a3f1-b85e-4dd4-bdba-069c01e9f613",
+      "artist_id": "d8f77991-f0d0-4b9a-b57b-5f97c364b88c",
+      "stage": "Saint James Uniting Church",
+      "time": "2024-03-24T15:30:00.000+11:00",
+      "created_at": "2024-02-15T16:22:58.625+11:00",
+      "updated_at": "2024-02-15T16:22:58.625+11:00"
+    },
+    {
+      "id": "c6375978-3e75-4691-a236-d1b6bb1713d1",
+      "artist_id": "85676b67-9a2d-48e4-9780-fcb6e47f32c8",
+      "stage": "Public Hall",
+      "time": "2024-03-24T16:00:00.000+11:00",
+      "created_at": "2024-02-15T16:10:49.772+11:00",
+      "updated_at": "2024-02-15T16:10:49.772+11:00"
+    },
+    {
+      "id": "ee8a09a6-d79c-49da-b189-a31b105f6ff4",
+      "artist_id": "c579da35-34a6-4b40-bd2f-5ed82a75467c",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T16:00:00.000+11:00",
+      "created_at": "2024-02-15T16:16:15.660+11:00",
+      "updated_at": "2024-02-15T16:16:15.660+11:00"
+    },
+    {
+      "id": "e6f1860f-88e9-4310-a263-1dc25f9a9957",
+      "artist_id": "ebe12646-153b-47fd-aea1-2c7fd2cab9d7",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T16:00:00.000+11:00",
+      "created_at": "2024-02-15T16:18:13.468+11:00",
+      "updated_at": "2024-02-15T16:18:13.468+11:00"
+    },
+    {
+      "id": "74984080-d584-4ca5-b8f2-46100d95bf9e",
+      "artist_id": "3d5cff08-39cd-432a-9b4d-3c768f7102a6",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T17:00:00.000+11:00",
+      "created_at": "2024-02-15T16:16:23.632+11:00",
+      "updated_at": "2024-02-15T16:16:23.632+11:00"
+    },
+    {
+      "id": "52a5813b-3051-4f7d-8273-c022773bf4be",
+      "artist_id": "8d542a85-941c-4526-a6fe-f94c0e9b6f35",
+      "stage": "Yackandandah Hotel",
+      "time": "2024-03-24T17:00:00.000+11:00",
+      "created_at": "2024-02-15T16:18:22.361+11:00",
+      "updated_at": "2024-02-15T16:18:22.361+11:00"
+    },
+    {
+      "id": "516dc476-d62c-4cd7-829b-96477eeacd9e",
+      "artist_id": "1f6afeea-2f2e-4409-9f75-d1bc12fe21a0",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T18:00:00.000+11:00",
+      "created_at": "2024-02-15T16:16:35.168+11:00",
+      "updated_at": "2024-02-15T16:16:35.168+11:00"
+    },
+    {
+      "id": "b87149e8-4a1a-4f48-b5ea-aa198f74629d",
+      "artist_id": "0b20ff99-e36e-4f91-9f4a-05cdbdab86a0",
+      "stage": "Star Hotel",
+      "time": "2024-03-24T19:00:00.000+11:00",
+      "created_at": "2024-02-19T09:48:56.134+11:00",
+      "updated_at": "2024-02-19T09:48:56.134+11:00"
     }
   ]
 }
